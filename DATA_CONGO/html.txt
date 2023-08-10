@@ -1,0 +1,1592 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <title>
+   Catholic Dioceses in Congo-Kinshasa (by Type)
+  </title>
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+  <meta content="Sun, 18 Jun 2023 16:00:00 GMT" http-equiv="EXPIRES"/>
+  <meta content="IE=Edge" http-equiv="X-UA-Compatible">
+   <link href="/css/gcatholic.css?15" rel="stylesheet" type="text/css"/>
+   <script src="/menu/menu2.js?d">
+   </script>
+   <link href="http://www.gcatholic.org/dioceses/country/CD-type.htm" rel="canonical"/>
+  </meta>
+ </head>
+ <body alink="#008040" link="#408040" vlink="#387038">
+  <script src="/menu/header.js?23">
+  </script>
+  <table class="hd">
+   <tr>
+    <td width="150">
+    </td>
+    <td>
+     <h1>
+      Catholic Dioceses
+     </h1>
+     <h3>
+      in
+     </h3>
+     <h2>
+      Democratic Republic of the Congo (Congo-Kinshasa)
+     </h2>
+    </td>
+    <td align="right" width="150">
+     <a href="CD.htm" title="Congo-Kinshasa">
+      <img alt="Congo-Kinshasa" class="flag" height="80" src="/images/flags/CD.png" width="120"/>
+     </a>
+    </td>
+   </tr>
+  </table>
+  <div align="center" class="nav">
+   <table cellspacing="0">
+    <tr class="tr">
+     <td class="t">
+      by Type
+     </td>
+     <td>
+      <a href="CD-name.htm">
+       by Name
+      </a>
+     </td>
+     <td>
+      <a href="CD-province.htm">
+       by Ecclesiastical Province
+      </a>
+     </td>
+     <td>
+      <a href="CD-former.htm">
+       Former Jurisdictions
+      </a>
+     </td>
+    </tr>
+   </table>
+  </div>
+  <div align="center">
+   <table class="tb" width="90%">
+    <tr id="buka0">
+     <td>
+      <img alt="Metr. Archdiocese" height="20" src="/images/map/s02.png"/>
+      <a class="typemetr" href="../diocese/buka0.htm">
+       Bukavu
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="CD-province.htm#buka0">
+       Bukavu
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/africa/3188.htm" title="Cathédrale Notre-Dame de la Paix">
+        <img alt="Cathédrale Notre-Dame de la Paix" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/buka0.htm#6255" title="Archbishop François-Xavier Maroy Rusengo (66)">
+        <img alt="Archbishop François-Xavier Maroy Rusengo (66)" height="20" src="/images/prelateA1.gif" width="22"/>
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="kana0">
+     <td>
+      <img alt="Metr. Archdiocese" height="20" src="/images/map/s02.png"/>
+      <a class="typemetr" href="../diocese/kana0.htm">
+       Kananga
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="CD-province.htm#kana0">
+       Kananga
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/africa/4070.htm" title="Cathédrale Saint Joseph Mikalayi">
+        <img alt="Cathédrale Saint Joseph Mikalayi" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/africa/3233.htm" title="Pro-cathédrale Saint-Clément">
+        <img alt="Pro-cathédrale Saint-Clément" height="20" src="/images/c1d.gif" width="15"/>
+       </a>
+       <a href="../diocese/kabi0.htm#70124" title="Bishop Félicien Ntambue Kasembe, C.I.C.M. (52)">
+        <img alt="Bishop Félicien Ntambue Kasembe, C.I.C.M. (52)" height="20" src="/images/prelateB3.gif" width="16"/>
+       </a>
+       <a href="../diocese/kana0.htm#6269" title="Archbishop Godefroy Mukeng’a Kalond, C.I.C.M. (92)">
+        <img alt="Archbishop Godefroy Mukeng’a Kalond, C.I.C.M. (92)" height="20" src="/images/prelateA2.gif" width="22"/>
+       </a>
+       <a href="../diocese/kana0.htm#6267" title="Archbishop Marcel Madila Basanguka (68)">
+        <img alt="Archbishop Marcel Madila Basanguka (68)" height="20" src="/images/prelateA2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.archi-kananga.org" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/archikananga" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+       <a class="linkf" href="https://www.facebook.com/archi.kananga" rel="nofollow" target="_blank" title="Facebook Page">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="kins0">
+     <td>
+      <img alt="Metr. Archdiocese" height="20" src="/images/map/s02.png"/>
+      <a class="typemetr" href="../diocese/kins0.htm">
+       Kinshasa
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="CD-province.htm#kins0">
+       Kinshasa
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/africa/1494.htm" title="Cathédrale Notre-Dame du Congo">
+        <img alt="Cathédrale Notre-Dame du Congo" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/kins0.htm#6313" title="Cardinal Fridolin Ambongo Besungu, O.F.M. Cap. (63)">
+        <img alt="Cardinal Fridolin Ambongo Besungu, O.F.M. Cap. (63)" height="20" src="/images/prelateC1.gif" width="22"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-N.htm#70055" title="Bishop Charles Ndaka Salabisala (50)">
+        <img alt="Bishop Charles Ndaka Salabisala (50)" height="20" src="/images/prelateB3.gif" width="16"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-KI.htm#6284" title="Bishop Édouard Kisonga Ndinga, S.S.S. (77)">
+        <img alt="Bishop Édouard Kisonga Ndinga, S.S.S. (77)" height="20" src="/images/prelateB4.gif" width="16"/>
+       </a>
+       <a class="link" href="http://www.archikin.org" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="kisa0">
+     <td>
+      <img alt="Metr. Archdiocese" height="20" src="/images/map/s02.png"/>
+      <a class="typemetr" href="../diocese/kisa0.htm">
+       Kisangani
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="CD-province.htm#kisa0">
+       Kisangani
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/africa/3213.htm" title="Cathédrale Notre-Dame du Rosaire">
+        <img alt="Cathédrale Notre-Dame du Rosaire" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/kisa0.htm#6298" title="Archbishop Marcel Utembi Tapa (64)">
+        <img alt="Archbishop Marcel Utembi Tapa (64)" height="20" src="/images/prelateA1.gif" width="22"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-N.htm#75144" title="Bishop Lénard Ndjadi Ndjate, M.C.C.J. (47)">
+        <img alt="Bishop Lénard Ndjadi Ndjate, M.C.C.J. (47)" height="20" src="/images/prelateB3.gif" width="16"/>
+       </a>
+       <a class="link" href="http://www.archidiocesedekisangani.org" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="lubu0">
+     <td>
+      <img alt="Metr. Archdiocese" height="20" src="/images/map/s02.png"/>
+      <a class="typemetr" href="../diocese/lubu0.htm">
+       Lubumbashi
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="CD-province.htm#lubu0">
+       Lubumbashi
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/africa/1502.htm" title="Cathédrale Saints-Pierre-et-Paul">
+        <img alt="Cathédrale Saints-Pierre-et-Paul" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/africa/5812.htm" title="Basilique Sainte-Marie">
+        <img alt="Basilique Sainte-Marie" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/lubu0.htm#6306" title="Archbishop Fulgence Muteba Mugalu (60)">
+        <img alt="Archbishop Fulgence Muteba Mugalu (60)" height="20" src="/images/prelateA1.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.archidioceselubumbashi.org" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="mban0">
+     <td>
+      <img alt="Metr. Archdiocese" height="20" src="/images/map/s02.png"/>
+      <a class="typemetr" href="../diocese/mban0.htm">
+       Mbandaka–Bikoro
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="CD-province.htm#mban0">
+       Mbandaka–Bikoro
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/africa/4069.htm" title="Cathédrale Saint-Eugène">
+        <img alt="Cathédrale Saint-Eugène" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/africa/5809.htm" title="Cocathédrale Saint-Vincent de Paul">
+        <img alt="Cocathédrale Saint-Vincent de Paul" height="20" src="/images/c1c.gif" width="17"/>
+       </a>
+       <a href="../diocese/mban0.htm#59100" title="Archbishop Ernest Ngboko Ngombe, C.I.C.M. (59)">
+        <img alt="Archbishop Ernest Ngboko Ngombe, C.I.C.M. (59)" height="20" src="/images/prelateA1.gif" width="22"/>
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="afri0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s24.png"/>
+      <a class="typedioc" href="../diocese/afri0.htm">
+       Annunciation of Ibadan
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-M.htm">
+       Maronite
+      </a>
+     </td>
+     <td>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/africa/5983.htm" title="Church of Our Lady of the Annunciation">
+        <img alt="Church of Our Lady of the Annunciation" height="20" src="/images/c2a.gif" width="17"/>
+       </a>
+       <a href="../diocese/afri0.htm#55056" title="Bishop Simon T. Faddoul (65)">
+        <img alt="Bishop Simon T. Faddoul (65)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a class="link" href="http://annunciation-eparchy.com" rel="nofollow" target="_blank" title="Link">
+       </a>
+       Seat in
+       <a class="zcountry" href="NG.htm">
+        Nigeria
+       </a>
+       <a href="NG.htm" title="Nigeria">
+        <img alt="Nigeria" class="flag" height="11" src="/images/flags/NG2.png" width="22"/>
+       </a>
+       .
+      </span>
+     </td>
+    </tr>
+    <tr id="basa0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/basa0.htm">
+       Basankusu
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="CD-province.htm#basa0">
+       Mbandaka–Bikoro
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/africa/5257.htm" title="Cathédrale Saints-Pierre-et-Paul">
+        <img alt="Cathédrale Saints-Pierre-et-Paul" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/basa0.htm#6312" title="Bishop Joseph Mokobe Ndjoku (73)">
+        <img alt="Bishop Joseph Mokobe Ndjoku (73)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="boku0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/boku0.htm">
+       Bokungu–Ikela
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="CD-province.htm#boku0">
+       Mbandaka–Bikoro
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/africa/5810.htm" title="Cathédrale Marie Reine d’Afrique">
+        <img alt="Cathédrale Marie Reine d’Afrique" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/boku0.htm#62648" title="Bishop Toussaint Iluku Bolumbu, M.S.C. (58)">
+        <img alt="Bishop Toussaint Iluku Bolumbu, M.S.C. (58)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="boma0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/boma0.htm">
+       Boma
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="CD-province.htm#boma0">
+       Kinshasa
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/africa/4800.htm" title="Cathédrale Notre-Dame de l’Assomption">
+        <img alt="Cathédrale Notre-Dame de l’Assomption" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/africa/5629.htm" title="Ancienne cathédrale Notre-Dame-de-l’Assomption">
+        <img alt="Ancienne cathédrale Notre-Dame-de-l’Assomption" height="20" src="/images/c1b.gif" width="17"/>
+       </a>
+       <a href="../diocese/boma0.htm#72610" title="Bishop José-Claude Mbimbi Mbamba (60)">
+        <img alt="Bishop José-Claude Mbimbi Mbamba (60)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../diocese/boma0.htm#6280" title="Bishop Cyprien Mbuka Nkuanga, C.I.C.M. (79)">
+        <img alt="Bishop Cyprien Mbuka Nkuanga, C.I.C.M. (79)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.dioceseboma.com" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="bond0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/bond0.htm">
+       Bondo
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="CD-province.htm#bond0">
+       Kisangani
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/africa/4795.htm" title="Cathédrale Sainte-Croix">
+        <img alt="Cathédrale Sainte-Croix" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/bond0.htm#23934" title="Bishop Étienne Ung’eyowun Bediwegi (64)">
+        <img alt="Bishop Étienne Ung’eyowun Bediwegi (64)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="budj0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/budj0.htm">
+       Budjala
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="CD-province.htm#budj0">
+       Mbandaka–Bikoro
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/africa/5811.htm" title="Cathédrale Notre-Dame">
+        <img alt="Cathédrale Notre-Dame" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/budj0.htm#13711" title="Bishop Philibert Tembo Nlandu, C.I.C.M. (60)">
+        <img alt="Bishop Philibert Tembo Nlandu, C.I.C.M. (60)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="buni0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/buni0.htm">
+       Bunia
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="CD-province.htm#buni0">
+       Kisangani
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/africa/5748.htm" title="Cathédrale Notre-Dame des Grâces">
+        <img alt="Cathédrale Notre-Dame des Grâces" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/buni0.htm#6295" title="Bishop Dieudonné Uringi Uuci (65)">
+        <img alt="Bishop Dieudonné Uringi Uuci (65)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="buta0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/buta0.htm">
+       Buta
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="CD-province.htm#buta0">
+       Kisangani
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/africa/5677.htm" title="Cathédrale Saint-Joseph">
+        <img alt="Cathédrale Saint-Joseph" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/lolo0.htm#59087" title="Bishop Jean-Bertin Nadonye Ndongo, O.F.M. Cap. (58)">
+        <img alt="Bishop Jean-Bertin Nadonye Ndongo, O.F.M. Cap. (58)" height="20" src="/images/prelateB3.gif" width="16"/>
+       </a>
+       <a href="../diocese/buta0.htm#6292" title="Bishop Joseph Banga Bane (66)">
+        <img alt="Bishop Joseph Banga Bane (66)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="bute0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/bute0.htm">
+       Butembo-Beni
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="CD-province.htm#bute0">
+       Bukavu
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/africa/4810.htm" title="Cathédrale Mater Ecclesiae">
+        <img alt="Cathédrale Mater Ecclesiae" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/africa/6309.htm" title="Cocathédrale Saint-Augustin">
+        <img alt="Cocathédrale Saint-Augustin" height="20" src="/images/c1c.gif" width="17"/>
+       </a>
+       <a href="../diocese/bute0.htm#6263" title="Bishop Melchisedec Sikuli Paluku (71)">
+        <img alt="Bishop Melchisedec Sikuli Paluku (71)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="doru0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/doru0.htm">
+       Doruma–Dungu
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="CD-province.htm#doru0">
+       Kisangani
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/africa/5681.htm" title="Cathédrale Saints Martyrs de l’Ouganda">
+        <img alt="Cathédrale Saints Martyrs de l’Ouganda" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/africa/6583.htm" title="Ancienne Cathédrale Saint-Vincent-Ferrier">
+        <img alt="Ancienne Cathédrale Saint-Vincent-Ferrier" height="20" src="/images/c1b.gif" width="17"/>
+       </a>
+       <a href="../diocese/doru0.htm#72883" title="Bishop Emile Mushosho Matabaro (56)">
+        <img alt="Bishop Emile Mushosho Matabaro (56)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="goma0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/goma0.htm">
+       Goma
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="CD-province.htm#goma0">
+       Bukavu
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/africa/4799.htm" title="Cathédrale Saint-Joseph">
+        <img alt="Cathédrale Saint-Joseph" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/goma0.htm#14245" title="Bishop Willy Ngumbi Ngengele, M. Afr. (58)">
+        <img alt="Bishop Willy Ngumbi Ngengele, M. Afr. (58)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../diocese/goma0.htm#6262" title="Bishop Faustin Ngabu (88)">
+        <img alt="Bishop Faustin Ngabu (88)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+       <a href="../diocese/goma0.htm#6261" title="Bishop Théophile Kaboy Ruboneka (82)">
+        <img alt="Bishop Théophile Kaboy Ruboneka (82)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="idio0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/idio0.htm">
+       Idiofa
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="CD-province.htm#idio0">
+       Kinshasa
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/africa/4811.htm" title="Cathédrale Saint-Kizito">
+        <img alt="Cathédrale Saint-Kizito" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/idio0.htm#24740" title="Bishop José Moko Ekanga, P.S.S. (64)">
+        <img alt="Bishop José Moko Ekanga, P.S.S. (64)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../diocese/idio0.htm#6278" title="Bishop Louis Mbwôl-Mpasi, O.M.I. (92)">
+        <img alt="Bishop Louis Mbwôl-Mpasi, O.M.I. (92)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="inon0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/inon0.htm">
+       Inongo
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="CD-province.htm#inon0">
+       Kinshasa
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/africa/4068.htm" title="Cathédrale Saint-Albert">
+        <img alt="Cathédrale Saint-Albert" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/inon0.htm#59230" title="Bishop Donatien Bafuidinsoni Maloko-Mana, S.J. (60)">
+        <img alt="Bishop Donatien Bafuidinsoni Maloko-Mana, S.J. (60)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../diocese/inon0.htm#6275" title="Bishop Philippe Nkiere Keana, C.I.C.M. (85)">
+        <img alt="Bishop Philippe Nkiere Keana, C.I.C.M. (85)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://evecheinongo.blogspot.com" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="isan0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/isan0.htm">
+       Isangi
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="CD-province.htm#isan0">
+       Kisangani
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/africa/4071.htm" title="Cathédrale Marie Médiatrice">
+        <img alt="Cathédrale Marie Médiatrice" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/isan0.htm#60545" title="Bishop Dieudonné Madrapile Tanzi (64)">
+        <img alt="Bishop Dieudonné Madrapile Tanzi (64)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="isir0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/isir0.htm">
+       Isiro–Niangara
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="CD-province.htm#isir0">
+       Kisangani
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/africa/5675.htm" title="Cathédrale Sainte-Thérèse de l’Enfant-Jésus">
+        <img alt="Cathédrale Sainte-Thérèse de l’Enfant-Jésus" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/africa/5676.htm" title="Sanctuaire National Bienheureuse Anuarite">
+        <img alt="Sanctuaire National Bienheureuse Anuarite" height="20" src="/images/c3d.gif" width="15"/>
+       </a>
+       <a href="../diocese/isir0.htm#6300" title="Bishop Julien Andavo Bule Ahuba Mbia (72)">
+        <img alt="Bishop Julien Andavo Bule Ahuba Mbia (72)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a class="link" href="http://isiro-niangara.blogspot.com" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="kabi0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/kabi0.htm">
+       Kabinda
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="CD-province.htm#kabi0">
+       Kananga
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/africa/5668.htm" title="Cathédrale Saint-Martin">
+        <img alt="Cathédrale Saint-Martin" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/kabi0.htm#70124" title="Bishop Félicien Ntambue Kasembe, C.I.C.M. (52)">
+        <img alt="Bishop Félicien Ntambue Kasembe, C.I.C.M. (52)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="kale0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/kale0.htm">
+       Kalemie–Kirungu
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="CD-province.htm#kale0">
+       Lubumbashi
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/africa/5813.htm" title="Cathédrale Saint-Joseph">
+        <img alt="Cathédrale Saint-Joseph" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/africa/4812.htm" title="Pro-cathédrale Christ-Roi">
+        <img alt="Pro-cathédrale Christ-Roi" height="20" src="/images/c1d.gif" width="15"/>
+       </a>
+       <a href="../diocese/kale0.htm#59229" title="Bishop Jean-Christophe Amade Aloma, M. Afr. (62)">
+        <img alt="Bishop Jean-Christophe Amade Aloma, M. Afr. (62)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="kami1">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/kami1.htm">
+       Kamina
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="CD-province.htm#kami1">
+       Lubumbashi
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/africa/5674.htm" title="Cathédrale Sainte-Thérèse de l’Enfant-Jésus">
+        <img alt="Cathédrale Sainte-Thérèse de l’Enfant-Jésus" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/lubu0.htm#6306" title="Archbishop Fulgence Muteba Mugalu (60)">
+        <img alt="Archbishop Fulgence Muteba Mugalu (60)" height="20" src="/images/prelateA3.gif" width="16"/>
+       </a>
+       <a href="../diocese/kami1.htm#6305" title="Bishop Jean-Anatole Kalala Kaseba (76)">
+        <img alt="Bishop Jean-Anatole Kalala Kaseba (76)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="kaso0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/kaso0.htm">
+       Kasongo
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="CD-province.htm#kaso0">
+       Bukavu
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/africa/4796.htm" title="Cathédrale Saint-Charles-Borromée">
+        <img alt="Cathédrale Saint-Charles-Borromée" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/kaso0.htm#55357" title="Bishop Placide Lubamba Ndjibu, M. Afr. (63)">
+        <img alt="Bishop Placide Lubamba Ndjibu, M. Afr. (63)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="keng0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/keng0.htm">
+       Kenge
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="CD-province.htm#keng0">
+       Kinshasa
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/africa/5679.htm" title="Cathédrale Bienheureuse Anwarite">
+        <img alt="Cathédrale Bienheureuse Anwarite" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/keng0.htm#26187" title="Bishop Jean-Pierre Kwambamba Masi (62)">
+        <img alt="Bishop Jean-Pierre Kwambamba Masi (62)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../diocese/keng0.htm#6290" title="Bishop Jean-Gaspard Mudiso Mundla, S.V.D. (82)">
+        <img alt="Bishop Jean-Gaspard Mudiso Mundla, S.V.D. (82)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="kikw0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/kikw0.htm">
+       Kikwit
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="CD-province.htm#kikw0">
+       Kinshasa
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/africa/5132.htm" title="Cathédrale Saint-François Xavier">
+        <img alt="Cathédrale Saint-François Xavier" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/kikw0.htm#48040" title="Bishop Timothée Bodika Mansiyai, P.S.S. (61)">
+        <img alt="Bishop Timothée Bodika Mansiyai, P.S.S. (61)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="kilw0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/kilw0.htm">
+       Kilwa–Kasenga
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="CD-province.htm#kilw0">
+       Lubumbashi
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/africa/4798.htm" title="Cathédrale Saint-André">
+        <img alt="Cathédrale Saint-André" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/africa/4797.htm" title="Cocathédrale Sainte-Croix">
+        <img alt="Cocathédrale Sainte-Croix" height="20" src="/images/c1c.gif" width="17"/>
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="kind0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/kind0.htm">
+       Kindu
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="CD-province.htm#kind0">
+       Bukavu
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/africa/5666.htm" title="Cathédrale Saint-Esprit">
+        <img alt="Cathédrale Saint-Esprit" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/kind0.htm#70309" title="Bishop François Abeli Muhoya Mutchapaa (49)">
+        <img alt="Bishop François Abeli Muhoya Mutchapaa (49)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="kisa1">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/kisa1.htm">
+       Kisantu
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="CD-province.htm#kisa1">
+       Kinshasa
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/africa/4801.htm" title="Cathédrale Notre-Dame des Sept Douleurs">
+        <img alt="Cathédrale Notre-Dame des Sept Douleurs" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/kisa1.htm#70053" title="Bishop Jean-Crispin Kimbeni Ki Kanda (53)">
+        <img alt="Bishop Jean-Crispin Kimbeni Ki Kanda (53)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../diocese/kisa1.htm#6289" title="Bishop Fidèle Nsielele Zi Mputu (72)">
+        <img alt="Bishop Fidèle Nsielele Zi Mputu (72)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.diocese-kisantu.org" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="kole0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/kole0.htm">
+       Kole
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="CD-province.htm#kole0">
+       Kananga
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/africa/5669.htm" title="Cathédrale Regina Pacis">
+        <img alt="Cathédrale Regina Pacis" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/kole0.htm#59593" title="Bishop Emery Kibal Mansong’loo, C.P. (53)">
+        <img alt="Bishop Emery Kibal Mansong’loo, C.P. (53)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../diocese/kole0.htm#6265" title="Bishop Stanislas Lukumwena Lumbala, O.F.M. (73)">
+        <img alt="Bishop Stanislas Lukumwena Lumbala, O.F.M. (73)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="kolw0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/kolw0.htm">
+       Kolwezi
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="CD-province.htm#kolw0">
+       Lubumbashi
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/africa/5229.htm" title="Cathédrale Sainte-Barbe et Saint-Eloi">
+        <img alt="Cathédrale Sainte-Barbe et Saint-Eloi" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/kolw0.htm#73872" title="Bishop Richard Kazadi Kamba (58)">
+        <img alt="Bishop Richard Kazadi Kamba (58)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../diocese/kolw0.htm#6311" title="Bishop Nestor Ngoy Katahwa (80)">
+        <img alt="Bishop Nestor Ngoy Katahwa (80)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="kong1">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/kong1.htm">
+       Kongolo
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="CD-province.htm#kong1">
+       Lubumbashi
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/africa/5673.htm" title="Cathédrale Sacré-Cœur-de-Marie">
+        <img alt="Cathédrale Sacré-Cœur-de-Marie" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/kong1.htm#13713" title="Bishop Oscar Ngoy wa Mpanga, C.S.Sp. (58)">
+        <img alt="Bishop Oscar Ngoy wa Mpanga, C.S.Sp. (58)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="lisa0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/lisa0.htm">
+       Lisala
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="CD-province.htm#lisa0">
+       Mbandaka–Bikoro
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/africa/5258.htm" title="Cathédrale Saint-Hermès">
+        <img alt="Cathédrale Saint-Hermès" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/lisa0.htm#72506" title="Bishop Joseph-Bernard Likolo Bokal’Etumba (55)">
+        <img alt="Bishop Joseph-Bernard Likolo Bokal’Etumba (55)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../diocese/lisa0.htm#6319" title="Bishop Louis Nkinga Bondala, C.I.C.M. (85)">
+        <img alt="Bishop Louis Nkinga Bondala, C.I.C.M. (85)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="lolo0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/lolo0.htm">
+       Lolo
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="CD-province.htm#lolo0">
+       Mbandaka–Bikoro
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/africa/5749.htm" title="Cathédrale Saint Jean-Baptiste">
+        <img alt="Cathédrale Saint Jean-Baptiste" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/lolo0.htm#59087" title="Bishop Jean-Bertin Nadonye Ndongo, O.F.M. Cap. (58)">
+        <img alt="Bishop Jean-Bertin Nadonye Ndongo, O.F.M. Cap. (58)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../diocese/lolo0.htm#6318" title="Bishop Ferdinand Maemba Liwoke (84)">
+        <img alt="Bishop Ferdinand Maemba Liwoke (84)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="lueb0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/lueb0.htm">
+       Luebo
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="CD-province.htm#lueb0">
+       Kananga
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/africa/5670.htm" title="Cathédrale Saint-Jean-Baptiste">
+        <img alt="Cathédrale Saint-Jean-Baptiste" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/africa/5671.htm" title="Ancienne Cathédrale Sacré-Cœur">
+        <img alt="Ancienne Cathédrale Sacré-Cœur" height="20" src="/images/c1b.gif" width="17"/>
+       </a>
+       <a href="../diocese/lueb0.htm#6394" title="Bishop Pierre-Célestin Tshitoko Mamba (67)">
+        <img alt="Bishop Pierre-Célestin Tshitoko Mamba (67)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../diocese/lueb0.htm#6264" title="Archbishop Emery Kabongo Kanundowi (82)">
+        <img alt="Archbishop Emery Kabongo Kanundowi (82)" height="20" src="/images/prelateA2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.jardinsenpaysdeliege.be/dioluebo/" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="luiz0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/luiz0.htm">
+       Luiza
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="CD-province.htm#luiz0">
+       Kananga
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/africa/5620.htm" title="Cathédrale Saint-Vincent">
+        <img alt="Cathédrale Saint-Vincent" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/luiz0.htm#55041" title="Bishop Félicien Mwanama Galumbulula (62)">
+        <img alt="Bishop Félicien Mwanama Galumbulula (62)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../diocese/luiz0.htm#6274" title="Bishop Léonard Kasanda Lumembu, C.I.C.M. (87)">
+        <img alt="Bishop Léonard Kasanda Lumembu, C.I.C.M. (87)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="maha0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/maha0.htm">
+       Mahagi–Nioka
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="CD-province.htm#maha0">
+       Kisangani
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/africa/5680.htm" title="Cathédrale Notre-Dame de Lourdes">
+        <img alt="Cathédrale Notre-Dame de Lourdes" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/maha0.htm#46007" title="Bishop Sosthène Ayikuli Udjuwa (59)">
+        <img alt="Bishop Sosthène Ayikuli Udjuwa (59)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="mano1">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/mano1.htm">
+       Manono
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="CD-province.htm#mano1">
+       Lubumbashi
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/africa/5672.htm" title="Cathédrale Sainte-Barbe">
+        <img alt="Cathédrale Sainte-Barbe" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/mano1.htm#6309" title="Bishop Vincent de Paul Kwanga Njubu (67)">
+        <img alt="Bishop Vincent de Paul Kwanga Njubu (67)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="mata0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/mata0.htm">
+       Matadi
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="CD-province.htm#mata0">
+       Kinshasa
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/africa/5570.htm" title="Cathédrale Notre-Dame Médiatrice de toutes les Grâces">
+        <img alt="Cathédrale Notre-Dame Médiatrice de toutes les Grâces" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/mata0.htm#72631" title="Bishop André Giraud Pindi Muanza (58)">
+        <img alt="Bishop André Giraud Pindi Muanza (58)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.diocesedematadi.net" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="mbuj0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/mbuj0.htm">
+       Mbujimayi
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="CD-province.htm#mbuj0">
+       Kananga
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/africa/5569.htm" title="Cathédrale Saint-Jean-Baptiste de Bonzola">
+        <img alt="Cathédrale Saint-Jean-Baptiste de Bonzola" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/mbuj0.htm#6272" title="Bishop Bernard Emmanuel Kasanda Mulenga (68)">
+        <img alt="Bishop Bernard Emmanuel Kasanda Mulenga (68)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a class="link" href="http://diocesedembujimayi.ifrance.com" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="mole0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/mole0.htm">
+       Molegbe
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="CD-province.htm#mole0">
+       Mbandaka–Bikoro
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/africa/4813.htm" title="Cathédrale Saint-Antoine-de-Padoue">
+        <img alt="Cathédrale Saint-Antoine-de-Padoue" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/mole0.htm#6281" title="Bishop Dominique Bulamatari (68)">
+        <img alt="Bishop Dominique Bulamatari (68)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="mwek0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/mwek0.htm">
+       Mweka
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="CD-province.htm#mwek0">
+       Kananga
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/africa/5814.htm" title="Cathédrale Saint-Martin">
+        <img alt="Cathédrale Saint-Martin" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/mwek0.htm#61228" title="Bishop Oscar Nkolo Kanowa, C.I.C.M. (65)">
+        <img alt="Bishop Oscar Nkolo Kanowa, C.I.C.M. (65)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="popo0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/popo0.htm">
+       Popokabaka
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="CD-province.htm#popo0">
+       Kinshasa
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/africa/5568.htm" title="Cathédrale Sainte-Famille">
+        <img alt="Cathédrale Sainte-Famille" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/popo0.htm#70050" title="Bishop Bernard Marie Fansaka Biniama (63)">
+        <img alt="Bishop Bernard Marie Fansaka Biniama (63)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="saka0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/saka0.htm">
+       Sakania–Kipushi
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="CD-province.htm#saka0">
+       Lubumbashi
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/africa/5567.htm" title="Cathédrale Sacré-Cœur">
+        <img alt="Cathédrale Sacré-Cœur" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/saka0.htm#6308" title="Bishop Gaston Kashala Ruwezi, S.D.B. (62)">
+        <img alt="Bishop Gaston Kashala Ruwezi, S.D.B. (62)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="tshi0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/tshi0.htm">
+       Tshilomba
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="CD-province.htm#tshi0">
+       Kananga
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/africa/6611.htm" title="Cathédrale Saint-Jacques">
+        <img alt="Cathédrale Saint-Jacques" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/tshi0.htm#74196" title="Bishop Sebastien Kenda Ntumba (63)">
+        <img alt="Bishop Sebastien Kenda Ntumba (63)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="tshu0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/tshu0.htm">
+       Tshumbe
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="CD-province.htm#tshu0">
+       Kananga
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/africa/5566.htm" title="Cathédrale Sainte-Marie">
+        <img alt="Cathédrale Sainte-Marie" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/africa/6103.htm" title="Ancienne cathédrale Sainte-Marie">
+        <img alt="Ancienne cathédrale Sainte-Marie" height="20" src="/images/c1b.gif" width="17"/>
+       </a>
+       <a href="../diocese/tshu0.htm#70054" title="Bishop Vincent Tshomba Shamba Kotsho (60)">
+        <img alt="Bishop Vincent Tshomba Shamba Kotsho (60)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../diocese/tshu0.htm#6271" title="Bishop Nicolas Djomo Lola (78)">
+        <img alt="Bishop Nicolas Djomo Lola (78)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="uvir0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/uvir0.htm">
+       Uvira
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="CD-province.htm#uvir0">
+       Bukavu
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/africa/5667.htm" title="Cathédrale Saint-Paul">
+        <img alt="Cathédrale Saint-Paul" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/uvir0.htm#48041" title="Bishop Sébastien Muyengo Mulombe (65)">
+        <img alt="Bishop Sébastien Muyengo Mulombe (65)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../diocese/uvir0.htm#6257" title="Bishop Jérôme Gapangwa Nteziryayo (81)">
+        <img alt="Bishop Jérôme Gapangwa Nteziryayo (81)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="wamb0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/wamb0.htm">
+       Wamba
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="CD-province.htm#wamb0">
+       Kisangani
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/africa/5565.htm" title="Cathédrale Saint-Joseph">
+        <img alt="Cathédrale Saint-Joseph" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/wamb0.htm#6296" title="Bishop Janvier Kataka Luvete (76)">
+        <img alt="Bishop Janvier Kataka Luvete (76)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+      </span>
+     </td>
+    </tr>
+   </table>
+  </div>
+  <p class="asof">
+   Last updated on 2023.06.11
+  </p>
+  <p class="copy" id="end">
+   © 2023 GCatholic.org
+  </p>
+  <table width="100%">
+   <tr>
+    <td align="left" width="50%">
+    </td>
+    <td valign="bottom" width="50%">
+     <p align="right">
+      <a href="CD.htm" title="Up">
+       <img alt="Up" height="30" src="/images/nav-up.png" width="50"/>
+      </a>
+     </p>
+    </td>
+   </tr>
+  </table>
+  <script src="/menu/footer.js">
+  </script>
+ </body>
+</html>

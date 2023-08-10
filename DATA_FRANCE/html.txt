@@ -1,0 +1,4790 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <title>
+   Catholic Dioceses in France (by Type)
+  </title>
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+  <meta content="Sun, 18 Jun 2023 16:00:00 GMT" http-equiv="EXPIRES"/>
+  <meta content="IE=Edge" http-equiv="X-UA-Compatible">
+   <link href="/css/gcatholic.css?15" rel="stylesheet" type="text/css"/>
+   <script src="/menu/menu2.js?d">
+   </script>
+   <link href="http://www.gcatholic.org/dioceses/country/FR-type.htm" rel="canonical"/>
+  </meta>
+ </head>
+ <body alink="#008040" link="#408040" vlink="#387038">
+  <script src="/menu/header.js?23">
+  </script>
+  <table class="hd">
+   <tr>
+    <td width="150">
+    </td>
+    <td>
+     <h1>
+      Catholic Dioceses
+     </h1>
+     <h3>
+      in
+     </h3>
+     <h2>
+      French Republic (France)
+     </h2>
+    </td>
+    <td align="right" width="150">
+     <a href="FR.htm" title="France">
+      <img alt="France" class="flag" height="80" src="/images/flags/FR.png" width="120"/>
+     </a>
+    </td>
+   </tr>
+  </table>
+  <div align="center" class="nav">
+   <table cellspacing="0">
+    <tr class="tr">
+     <td class="t">
+      by Type
+     </td>
+     <td>
+      <a href="FR-name.htm">
+       by Name
+      </a>
+     </td>
+     <td>
+      <a href="FR-province.htm">
+       by Ecclesiastical Province
+      </a>
+     </td>
+     <td>
+      <a href="FR-former.htm">
+       Former Jurisdictions
+      </a>
+     </td>
+    </tr>
+   </table>
+  </div>
+  <div align="center">
+   <table class="tb" width="90%">
+    <tr id="besa0">
+     <td>
+      <img alt="Metr. Archdiocese" height="20" src="/images/map/s02.png"/>
+      <a class="typemetr" href="../diocese/besa0.htm">
+       Besançon
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="FR-province.htm#besa0">
+       Besançon
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/france/0197.htm" title="Basilique-Cathédrale Saint-Jean l’Evangéliste">
+        <img alt="Basilique-Cathédrale Saint-Jean l’Evangéliste" height="20" src="/images/c1ab.gif" width="19"/>
+       </a>
+       <a href="../../churches/france/0649.htm" title="Basilique Notre-Dame">
+        <img alt="Basilique Notre-Dame" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/france/0317.htm" title="Basilique Notre-Dame de la Blanche">
+        <img alt="Basilique Notre-Dame de la Blanche" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/france/0441.htm" title="Basilique Saint-Pierre">
+        <img alt="Basilique Saint-Pierre" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/france/0316.htm" title="Basilique Saints-Ferréol-et-Ferjeux">
+        <img alt="Basilique Saints-Ferréol-et-Ferjeux" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/france/6046.htm" title="Chapelle de Notre-Dame du Haut">
+        <img alt="Chapelle de Notre-Dame du Haut" height="20" src="/images/c4d.gif" width="15"/>
+       </a>
+       <a href="../diocese/besa0.htm#4708" title="Archbishop Jean-Luc Marie Maurice Louis Bouilleret (69)">
+        <img alt="Archbishop Jean-Luc Marie Maurice Louis Bouilleret (69)" height="20" src="/images/prelateA1.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.diocese-besancon.fr" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="bord0">
+     <td>
+      <img alt="Metr. Archdiocese" height="20" src="/images/map/s02.png"/>
+      <a class="typemetr" href="../diocese/bord0.htm">
+       Bordeaux
+      </a>
+      (–
+      <a class="typet6" href="../former/baza0.htm">
+       Bazas
+      </a>
+      )
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="FR-province.htm#bord0">
+       Bordeaux
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/france/1853.htm" title="Cathédrale Saint-André">
+        <img alt="Cathédrale Saint-André" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/france/1854.htm" title="Ancienne cathédrale Saint-Jean-Baptiste">
+        <img alt="Ancienne cathédrale Saint-Jean-Baptiste" height="20" src="/images/c1b.gif" width="17"/>
+       </a>
+       <a href="../../churches/france/0267.htm" title="Basilique Saint-Michel">
+        <img alt="Basilique Saint-Michel" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/france/0178.htm" title="Basilique Saint-Seurin">
+        <img alt="Basilique Saint-Seurin" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/france/0732.htm" title="Basilique Notre-Dame">
+        <img alt="Basilique Notre-Dame" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/france/0419.htm" title="Basilique Notre-Dame">
+        <img alt="Basilique Notre-Dame" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/bord0.htm#4707" title="Archbishop Jean-Paul André Denis Marcel James (70)">
+        <img alt="Archbishop Jean-Paul André Denis Marcel James (70)" height="20" src="/images/prelateA1.gif" width="22"/>
+       </a>
+       <a href="../diocese/quim0.htm#4683" title="Bishop Jean-Marie Le Vert (64)">
+        <img alt="Bishop Jean-Marie Le Vert (64)" height="20" src="/images/prelateB3.gif" width="16"/>
+       </a>
+       <a href="../../hierarchy/data/cardB16-1.htm#4621" title="Cardinal Jean-Pierre Bernard Ricard (78)">
+        <img alt="Cardinal Jean-Pierre Bernard Ricard (78)" height="20" src="/images/prelateC2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://bordeaux.catholique.fr" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/diocesebordeaux" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+       <a class="linkf" href="https://www.facebook.com/Eglise.catholique.en.Gironde" rel="nofollow" target="_blank" title="Facebook Page">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="cler0">
+     <td>
+      <img alt="Metr. Archdiocese" height="20" src="/images/map/s02.png"/>
+      <a class="typemetr" href="../diocese/cler0.htm">
+       Clermont
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="FR-province.htm#cler0">
+       Clermont
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/france/1839.htm" title="Cathédrale Notre-Dame-de-l’Assomption">
+        <img alt="Cathédrale Notre-Dame-de-l’Assomption" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/france/0218.htm" title="Basilique Notre-Dame du Port">
+        <img alt="Basilique Notre-Dame du Port" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/france/0236.htm" title="Basilique Notre-Dame d’Orcival">
+        <img alt="Basilique Notre-Dame d’Orcival" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/france/0319.htm" title="Basilique Saint-Amable">
+        <img alt="Basilique Saint-Amable" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/cler0.htm#24573" title="Archbishop François Kalist (64)">
+        <img alt="Archbishop François Kalist (64)" height="20" src="/images/prelateA1.gif" width="22"/>
+       </a>
+       <a class="link" href="http://clermont.catholique.fr" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="dijo0">
+     <td>
+      <img alt="Metr. Archdiocese" height="20" src="/images/map/s02.png"/>
+      <a class="typemetr" href="../diocese/dijo0.htm">
+       Dijon
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="FR-province.htm#dijo0">
+       Dijon
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/france/1805.htm" title="Cathédrale Sainte-Bénigne">
+        <img alt="Cathédrale Sainte-Bénigne" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/france/0803.htm" title="Basilique Notre-Dame de Beaune">
+        <img alt="Basilique Notre-Dame de Beaune" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/france/0360.htm" title="Basilique Saint-Andoche">
+        <img alt="Basilique Saint-Andoche" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/france/4840.htm" title="Abbaye Notre-Dame de Fontenay">
+        <img alt="Abbaye Notre-Dame de Fontenay" height="20" src="/images/c1d.gif" width="15"/>
+       </a>
+       <a href="../diocese/dijo0.htm#61248" title="Archbishop Antoine Hérouard (66)">
+        <img alt="Archbishop Antoine Hérouard (66)" height="20" src="/images/prelateA1.gif" width="22"/>
+       </a>
+       <a href="../diocese/dijo0.htm#4641" title="Archbishop Roland Minnerath (76)">
+        <img alt="Archbishop Roland Minnerath (76)" height="20" src="/images/prelateA2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.diocese-dijon.com" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="lill0">
+     <td>
+      <img alt="Metr. Archdiocese" height="20" src="/images/map/s02.png"/>
+      <a class="typemetr" href="../diocese/lill0.htm">
+       Lille
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="FR-province.htm#lill0">
+       Lille
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/france/0272.htm" title="Basilique-Cathédrale Notre-Dame de la Treille">
+        <img alt="Basilique-Cathédrale Notre-Dame de la Treille" height="20" src="/images/c1ab.gif" width="19"/>
+       </a>
+       <a href="../diocese/lill0.htm#54418" title="Archbishop Laurent Le Boulc’h (62)">
+        <img alt="Archbishop Laurent Le Boulc’h (62)" height="20" src="/images/prelateA1.gif" width="22"/>
+       </a>
+       <a href="../diocese/lill0.htm#4624" title="Archbishop Gérard Denis Auguste Defois (92)">
+        <img alt="Archbishop Gérard Denis Auguste Defois (92)" height="20" src="/images/prelateA2.gif" width="22"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-CO.htm#25245" title="Bishop Gérard Coliche (82)">
+        <img alt="Bishop Gérard Coliche (82)" height="20" src="/images/prelateB4.gif" width="16"/>
+       </a>
+       <a class="link" href="http://lille.catholique.fr" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/diocesedelille" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+       <a class="linkf" href="https://www.facebook.com/diocesedelille" rel="nofollow" target="_blank" title="Facebook Page">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="lyon0">
+     <td>
+      <img alt="Metr. Archdiocese" height="20" src="/images/map/s02.png"/>
+      <a class="typemetr" href="../diocese/lyon0.htm">
+       Lyon
+      </a>
+      /
+      <a class="typemetr" href="../diocese/lyon0.htm">
+       Lyons
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="FR-province.htm#lyon0">
+       Lyon
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/france/3361.htm" title="Primatiale Saint-Jean-Baptiste et Saint-Étienne">
+        <img alt="Primatiale Saint-Jean-Baptiste et Saint-Étienne" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/france/0245.htm" title="Basilique Notre-Dame de Fourvière">
+        <img alt="Basilique Notre-Dame de Fourvière" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/france/0277.htm" title="Basilique Saint-Martin d’Ainay">
+        <img alt="Basilique Saint-Martin d’Ainay" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/france/6432.htm" title="Basilique Saint-Bonaventure">
+        <img alt="Basilique Saint-Bonaventure" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/france/102558.htm" title="Couvent Sainte-Marie de La Tourette">
+        <img alt="Couvent Sainte-Marie de La Tourette" height="20" src="/images/c4d.gif" width="15"/>
+       </a>
+       <a href="../diocese/lyon0.htm#49735" title="Archbishop Olivier de Germay (62)">
+        <img alt="Archbishop Olivier de Germay (62)" height="20" src="/images/prelateA1.gif" width="22"/>
+       </a>
+       <a href="../diocese/fran3.htm#4602" title="Bishop Patrick Le Gal (70)">
+        <img alt="Bishop Patrick Le Gal (70)" height="20" src="/images/prelateB3.gif" width="16"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-L.htm#75061" title="Bishop Loïc Lagadec (48)">
+        <img alt="Bishop Loïc Lagadec (48)" height="20" src="/images/prelateB3.gif" width="16"/>
+       </a>
+       <a href="../../hierarchy/data/cardJP2-9.htm#17" title="Cardinal Philippe Christian Ignace Marie Barbarinf (72)">
+        <img alt="Cardinal Philippe Christian Ignace Marie Barbarinf (72)" height="20" src="/images/prelateC2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://lyon.catholique.fr" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/diocesedelyon" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="mars0">
+     <td>
+      <img alt="Metr. Archdiocese" height="20" src="/images/map/s02.png"/>
+      <a class="typemetr" href="../diocese/mars0.htm">
+       Marseille
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="FR-province.htm#mars0">
+       Marseille
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/france/0242.htm" title="Basilique-Cathédrale Sainte-Marie-Majeure (Nouvelle Majeure)">
+        <img alt="Basilique-Cathédrale Sainte-Marie-Majeure (Nouvelle Majeure)" height="20" src="/images/c1ab.gif" width="19"/>
+       </a>
+       <a href="../../churches/france/3363.htm" title="Ancienne cathédrale Sainte-Marie-Majeure (Ancienne Majeure)">
+        <img alt="Ancienne cathédrale Sainte-Marie-Majeure (Ancienne Majeure)" height="20" src="/images/c1b.gif" width="17"/>
+       </a>
+       <a href="../../churches/france/0206.htm" title="Basilique Notre-Dame de la Garde">
+        <img alt="Basilique Notre-Dame de la Garde" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/france/1352.htm" title="Basilique Sacré-Cœur">
+        <img alt="Basilique Sacré-Cœur" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/france/0530.htm" title="Basilique Saint-Victor">
+        <img alt="Basilique Saint-Victor" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/mars0.htm#55034" title="Cardinal Jean-Marc Noël Aveline (64)">
+        <img alt="Cardinal Jean-Marc Noël Aveline (64)" height="20" src="/images/prelateC1.gif" width="22"/>
+       </a>
+       <a href="../diocese/mars0.htm#4700" title="Archbishop Georges Paul Pontier (80)">
+        <img alt="Archbishop Georges Paul Pontier (80)" height="20" src="/images/prelateA2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://diocese-marseille.fr" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/DioceMarseille" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+       <a class="linkf" href="https://www.facebook.com/diocese.marseille" rel="nofollow" target="_blank" title="Facebook Page">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="montA">
+     <td>
+      <img alt="Metr. Archdiocese" height="20" src="/images/map/s02.png"/>
+      <a class="typemetr" href="../diocese/montA.htm">
+       Montpellier
+      </a>
+      (–
+      <a class="typet6" href="../former/agde0.htm">
+       Agde
+      </a>
+      –
+      <a class="typet6" href="../former/bezi0.htm">
+       Béziers
+      </a>
+      –
+      <a class="typet6" href="../former/lode0.htm">
+       Lodève
+      </a>
+      –
+      <a class="typet6" href="../former/zpon0.htm">
+       Saint-Pons-de-Thomières
+      </a>
+      )
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="FR-province.htm#montA">
+       Montpellier
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/france/0152.htm" title="Basilique-Cathédrale Saint-Pierre">
+        <img alt="Basilique-Cathédrale Saint-Pierre" height="20" src="/images/c1ab.gif" width="19"/>
+       </a>
+       <a href="../../churches/france/3281.htm" title="Co-cathédrale Saint-Étienne">
+        <img alt="Co-cathédrale Saint-Étienne" height="20" src="/images/c1c.gif" width="17"/>
+       </a>
+       <a href="../../churches/france/3306.htm" title="Co-cathédrale Saint-Fulcran">
+        <img alt="Co-cathédrale Saint-Fulcran" height="20" src="/images/c1c.gif" width="17"/>
+       </a>
+       <a href="../../churches/france/3284.htm" title="Co-cathédrale Saint-Nazaire et Saint-Celse">
+        <img alt="Co-cathédrale Saint-Nazaire et Saint-Celse" height="20" src="/images/c1c.gif" width="17"/>
+       </a>
+       <a href="../../churches/france/3294.htm" title="Co-cathédrale Saint-Pierre et Saint-Paul">
+        <img alt="Co-cathédrale Saint-Pierre et Saint-Paul" height="20" src="/images/c1c.gif" width="17"/>
+       </a>
+       <a href="../../churches/france/3304.htm" title="Co-cathédrale Saint-Pons">
+        <img alt="Co-cathédrale Saint-Pons" height="20" src="/images/c1c.gif" width="17"/>
+       </a>
+       <a href="../../churches/france/0572.htm" title="Basilique Notre-Dame des Tables">
+        <img alt="Basilique Notre-Dame des Tables" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/france/59862.htm" title="Abbatiale Transfiguration du Seigneur">
+        <img alt="Abbatiale Transfiguration du Seigneur" height="20" src="/images/c4d.gif" width="15"/>
+       </a>
+       <a href="../diocese/montA.htm#4744" title="Archbishop Norbert José Henri Turini (68)">
+        <img alt="Archbishop Norbert José Henri Turini (68)" height="20" src="/images/prelateA1.gif" width="22"/>
+       </a>
+       <a href="../diocese/montA.htm#4667" title="Archbishop Guy Marie Alexandre Thomazeau (85)">
+        <img alt="Archbishop Guy Marie Alexandre Thomazeau (85)" height="20" src="/images/prelateA2.gif" width="22"/>
+       </a>
+       <a href="../diocese/montA.htm#4742" title="Archbishop Pierre-Marie Joseph Carré (76)">
+        <img alt="Archbishop Pierre-Marie Joseph Carré (76)" height="20" src="/images/prelateA2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://montpellier.catholique.fr" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/EgliseHerault" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="pari0">
+     <td>
+      <img alt="Metr. Archdiocese" height="20" src="/images/map/s02.png"/>
+      <a class="typemetr" href="../diocese/pari0.htm">
+       Paris
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="FR-province.htm#pari0">
+       Paris
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/france/0131.htm" title="Basilique-Cathédrale Notre-Dame de Paris">
+        <img alt="Basilique-Cathédrale Notre-Dame de Paris" height="20" src="/images/c1ab.gif" width="19"/>
+       </a>
+       <a href="../../churches/france/6426.htm" title="Église de Saint-Sulpice">
+        <img alt="Église de Saint-Sulpice" height="20" src="/images/c1d.gif" width="15"/>
+       </a>
+       <a href="../../churches/france/0460.htm" title="Basilique Notre-Dame des Victoires">
+        <img alt="Basilique Notre-Dame des Victoires" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/france/0971.htm" title="Basilique Notre-Dame du Perpétuel Secours">
+        <img alt="Basilique Notre-Dame du Perpétuel Secours" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/france/0356.htm" title="Basilique Sacré-Cœur de Montmartre">
+        <img alt="Basilique Sacré-Cœur de Montmartre" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/france/0251.htm" title="Basilique Sainte-Clotilde et Sainte-Valère">
+        <img alt="Basilique Sainte-Clotilde et Sainte-Valère" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/fran1.htm#4642" title="Archbishop Laurent Bernard Marie Ulrich (71)">
+        <img alt="Archbishop Laurent Bernard Marie Ulrich (71)" height="20" src="/images/prelateA1.gif" width="22"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-MAR.htm#62654" title="Bishop Philippe André Yves Marsset (65)">
+        <img alt="Bishop Philippe André Yves Marsset (65)" height="20" src="/images/prelateB3.gif" width="16"/>
+       </a>
+       <a href="../../hierarchy/data/cardB16-2.htm#4603" title="Cardinal André Armand Vingt-Trois (80)">
+        <img alt="Cardinal André Armand Vingt-Trois (80)" height="20" src="/images/prelateC2.gif" width="22"/>
+       </a>
+       <a href="../diocese/pari0.htm#51927" title="Archbishop Michel Christian Alain Aupetit (72)">
+        <img alt="Archbishop Michel Christian Alain Aupetit (72)" height="20" src="/images/prelateA2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.paris.catholique.fr" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/dioceseparis" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+       <a class="linkf" href="https://www.facebook.com/dioceseparis" rel="nofollow" target="_blank" title="Facebook Page">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="poit0">
+     <td>
+      <img alt="Metr. Archdiocese" height="20" src="/images/map/s02.png"/>
+      <a class="typemetr" href="../diocese/poit0.htm">
+       Poitiers
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="FR-province.htm#poit0">
+       Poitiers
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/france/0318.htm" title="Basilique-Cathédrale Saint-Pierre">
+        <img alt="Basilique-Cathédrale Saint-Pierre" height="20" src="/images/c1ab.gif" width="19"/>
+       </a>
+       <a href="../../churches/france/0923.htm" title="Basilique Notre-Dame de Pitié">
+        <img alt="Basilique Notre-Dame de Pitié" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/france/5950.htm" title="Abbaye de Saint-Savin-sur-Gartempe">
+        <img alt="Abbaye de Saint-Savin-sur-Gartempe" height="20" src="/images/c4d.gif" width="15"/>
+       </a>
+       <a href="../diocese/poit0.htm#13714" title="Archbishop Pascal Jean Marcel Wintzer (63)">
+        <img alt="Archbishop Pascal Jean Marcel Wintzer (63)" height="20" src="/images/prelateA1.gif" width="22"/>
+       </a>
+       <a href="../diocese/poit0.htm#4702" title="Archbishop Albert Jean-Marie Rouet (87)">
+        <img alt="Archbishop Albert Jean-Marie Rouet (87)" height="20" src="/images/prelateA2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.poitiers.catholique.fr" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/cathopoitiers" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="reim0">
+     <td>
+      <img alt="Metr. Archdiocese" height="20" src="/images/map/s02.png"/>
+      <a class="typemetr" href="../diocese/reim0.htm">
+       Reims
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="FR-province.htm#reim0">
+       Reims
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/france/1832.htm" title="Cathédrale Notre-Dame">
+        <img alt="Cathédrale Notre-Dame" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/france/0174.htm" title="Basilique Saint-Remi">
+        <img alt="Basilique Saint-Remi" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/france/0614.htm" title="Basilique Notre-Dame de Mézières">
+        <img alt="Basilique Notre-Dame de Mézières" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/france/0263.htm" title="Basilique Sainte-Clotilde">
+        <img alt="Basilique Sainte-Clotilde" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/reim0.htm#24097" title="Archbishop Éric de Moulins-Beaufort (61)">
+        <img alt="Archbishop Éric de Moulins-Beaufort (61)" height="20" src="/images/prelateA1.gif" width="22"/>
+       </a>
+       <a href="../diocese/reim0.htm#4709" title="Archbishop Thierry Romain Camille Jordan (79)">
+        <img alt="Archbishop Thierry Romain Camille Jordan (79)" height="20" src="/images/prelateA2.gif" width="22"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-BO.htm#4711" title="Bishop Joseph Louis Jean Boishu (84)">
+        <img alt="Bishop Joseph Louis Jean Boishu (84)" height="20" src="/images/prelateB4.gif" width="16"/>
+       </a>
+       <a class="link" href="http://catholique-reims.fr" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="renn0">
+     <td>
+      <img alt="Metr. Archdiocese" height="20" src="/images/map/s02.png"/>
+      <a class="typemetr" href="../diocese/renn0.htm">
+       Rennes
+      </a>
+      (–
+      <a class="typet6" href="../former/dolz0.htm">
+       Dol
+      </a>
+      –
+      <a class="typet6" href="../former/zmal0.htm">
+       Saint-Malo
+      </a>
+      )
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="FR-province.htm#renn0">
+       Rennes
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/france/1823.htm" title="Cathédrale Saint-Pierre">
+        <img alt="Cathédrale Saint-Pierre" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/france/1802.htm" title="Co-cathédrale Saint-Samson">
+        <img alt="Co-cathédrale Saint-Samson" height="20" src="/images/c1c.gif" width="17"/>
+       </a>
+       <a href="../../churches/france/1825.htm" title="Co-cathédrale Saint-Vincent">
+        <img alt="Co-cathédrale Saint-Vincent" height="20" src="/images/c1c.gif" width="17"/>
+       </a>
+       <a href="../../churches/france/0703.htm" title="Basilique Notre-Dame de l’Assomption">
+        <img alt="Basilique Notre-Dame de l’Assomption" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/france/0338.htm" title="Basilique Saint-Aubin, Notre-Dame de Bonne Nouvelle">
+        <img alt="Basilique Saint-Aubin, Notre-Dame de Bonne Nouvelle" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/france/0337.htm" title="Basilique Saint-Sauveur et Notre-Dame des Miracles et des Vertus">
+        <img alt="Basilique Saint-Sauveur et Notre-Dame des Miracles et des Vertus" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/renn0.htm#4676" title="Archbishop Pierre d’Ornellas (70)">
+        <img alt="Archbishop Pierre d’Ornellas (70)" height="20" src="/images/prelateA1.gif" width="22"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-BO.htm#74545" title="Bishop Jean Bondu (56)">
+        <img alt="Bishop Jean Bondu (56)" height="20" src="/images/prelateB3.gif" width="16"/>
+       </a>
+       <a class="link" href="http://rennes.catholique.fr" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/DioceseRennes" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="roue0">
+     <td>
+      <img alt="Metr. Archdiocese" height="20" src="/images/map/s02.png"/>
+      <a class="typemetr" href="../diocese/roue0.htm">
+       Rouen
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="FR-province.htm#roue0">
+       Rouen
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/france/3289.htm" title="Cathédrale Notre-Dame">
+        <img alt="Cathédrale Notre-Dame" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/france/0352.htm" title="Basilique Notre-Dame de Bon-Secours">
+        <img alt="Basilique Notre-Dame de Bon-Secours" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/france/0345.htm" title="Basilique Sacré-Cœur">
+        <img alt="Basilique Sacré-Cœur" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/roue0.htm#9865" title="Archbishop Dominique Lebrun (65)">
+        <img alt="Archbishop Dominique Lebrun (65)" height="20" src="/images/prelateA1.gif" width="22"/>
+       </a>
+       <a href="../diocese/roue0.htm#4740" title="Archbishop Jean-Charles Marie Descubes (83)">
+        <img alt="Archbishop Jean-Charles Marie Descubes (83)" height="20" src="/images/prelateA2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://rouen.catholique.fr" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="toul0">
+     <td>
+      <img alt="Metr. Archdiocese" height="20" src="/images/map/s02.png"/>
+      <a class="typemetr" href="../diocese/toul0.htm">
+       Toulouse
+      </a>
+      (–
+      <a class="typet6" href="../former/rieu0.htm">
+       Rieux
+      </a>
+      –
+      <a class="typet6" href="../former/zber2.htm">
+       Saint-Bertrand-de-Comminges
+      </a>
+      )
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="FR-province.htm#toul0">
+       Toulouse
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/france/3260.htm" title="Cathédrale Saint-Étienne">
+        <img alt="Cathédrale Saint-Étienne" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/france/3256.htm" title="Ancienne cathédrale Notre-Dame">
+        <img alt="Ancienne cathédrale Notre-Dame" height="20" src="/images/c1b.gif" width="17"/>
+       </a>
+       <a href="../../churches/france/3255.htm" title="Ancienne cathédrale de la Nativité-de-la-Vierge">
+        <img alt="Ancienne cathédrale de la Nativité-de-la-Vierge" height="20" src="/images/c1b.gif" width="17"/>
+       </a>
+       <a href="../../churches/france/0202.htm" title="Basilique Saint-Sernin">
+        <img alt="Basilique Saint-Sernin" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/france/0195.htm" title="Basilique Notre-Dame de la Daurade">
+        <img alt="Basilique Notre-Dame de la Daurade" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/france/5470.htm" title="Basilique Sainte Germaine">
+        <img alt="Basilique Sainte Germaine" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/toul0.htm#4652" title="Archbishop Guy André Marie de Kérimel (69)">
+        <img alt="Archbishop Guy André Marie de Kérimel (69)" height="20" src="/images/prelateA1.gif" width="22"/>
+       </a>
+       <a href="../diocese/toul0.htm#4741" title="Archbishop Émile Marcus, P.S.S. (92)">
+        <img alt="Archbishop Émile Marcus, P.S.S. (92)" height="20" src="/images/prelateA2.gif" width="22"/>
+       </a>
+       <a href="../diocese/toul0.htm#4669" title="Archbishop Robert Le Gall, O.S.B. (77)">
+        <img alt="Archbishop Robert Le Gall, O.S.B. (77)" height="20" src="/images/prelateA2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://toulouse.catholique.fr" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="tour0">
+     <td>
+      <img alt="Metr. Archdiocese" height="20" src="/images/map/s02.png"/>
+      <a class="typemetr" href="../diocese/tour0.htm">
+       Tours
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="FR-province.htm#tour0">
+       Tours
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/france/1826.htm" title="Cathédrale Saint-Gatien">
+        <img alt="Cathédrale Saint-Gatien" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/france/0432.htm" title="Basilique Saint-Martin de Tours">
+        <img alt="Basilique Saint-Martin de Tours" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/tour0.htm#24146" title="Archbishop Vincent Jordy (62)">
+        <img alt="Archbishop Vincent Jordy (62)" height="20" src="/images/prelateA1.gif" width="22"/>
+       </a>
+       <a href="../diocese/tour0.htm#4759" title="Archbishop Bernard-Nicolas Aubertin, O. Cist. (78)">
+        <img alt="Archbishop Bernard-Nicolas Aubertin, O. Cist. (78)" height="20" src="/images/prelateA2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://diocesedetours.catholique.fr" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/diocesedetours" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="aixz0">
+     <td>
+      <img alt="Archdiocese" height="20" src="/images/map/s03.png"/>
+      <a class="typearch" href="../diocese/aixz0.htm">
+       Aix
+      </a>
+      /
+      <a class="typearch" href="../diocese/aixz0.htm">
+       Aix-en-Provence
+      </a>
+      (–
+      <a class="typet2" href="../former/arle0.htm">
+       Arles
+      </a>
+      )
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="FR-province.htm#aixz0">
+       Marseille
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/france/0193.htm" title="Basilique-Cathédrale Saint-Sauveur">
+        <img alt="Basilique-Cathédrale Saint-Sauveur" height="20" src="/images/c1ab.gif" width="19"/>
+       </a>
+       <a href="../../churches/france/0211.htm" title="Basilique-Primatiale Saint-Trophime">
+        <img alt="Basilique-Primatiale Saint-Trophime" height="20" src="/images/c1cb.gif" width="19"/>
+       </a>
+       <a href="../../churches/france/1176.htm" title="Basilique de l’Immaculée-Conception">
+        <img alt="Basilique de l’Immaculée-Conception" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/aixz0.htm#74405" title="Archbishop Christian Delarbre (58)">
+        <img alt="Archbishop Christian Delarbre (58)" height="20" src="/images/prelateA1.gif" width="22"/>
+       </a>
+       <a href="../diocese/aixz0.htm#4695" title="Archbishop Christophe Dufour (75)">
+        <img alt="Archbishop Christophe Dufour (75)" height="20" src="/images/prelateA2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.catho-aixarles.fr" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/DioAixArles" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+       <a class="linkf" href="https://www.facebook.com/DioAixArles" rel="nofollow" target="_blank" title="Facebook Page">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="albi0">
+     <td>
+      <img alt="Archdiocese" height="20" src="/images/map/s03.png"/>
+      <a class="typearch" href="../diocese/albi0.htm">
+       Albi
+      </a>
+      (–
+      <a class="typet6" href="../former/cast5.htm">
+       Castres
+      </a>
+      –
+      <a class="typet6" href="../former/lava0.htm">
+       Lavaur
+      </a>
+      )
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="FR-province.htm#albi0">
+       Toulouse
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/france/0632.htm" title="Basilique-Cathédrale Sainte-Cécile">
+        <img alt="Basilique-Cathédrale Sainte-Cécile" height="20" src="/images/c1ab.gif" width="19"/>
+       </a>
+       <a href="../../churches/france/3249.htm" title="Co-cathédrale Saint-Alain">
+        <img alt="Co-cathédrale Saint-Alain" height="20" src="/images/c1c.gif" width="17"/>
+       </a>
+       <a href="../../churches/france/3302.htm" title="Co-cathédrale Saint-Benoît">
+        <img alt="Co-cathédrale Saint-Benoît" height="20" src="/images/c1c.gif" width="17"/>
+       </a>
+       <a href="../diocese/albi0.htm#4607" title="Archbishop Jean-Marie-Henri Legrez, O.P. (75)">
+        <img alt="Archbishop Jean-Marie-Henri Legrez, O.P. (75)" height="20" src="/images/prelateA1.gif" width="22"/>
+       </a>
+       <a class="link" href="http://albi.catholique.fr" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="auch0">
+     <td>
+      <img alt="Archdiocese" height="20" src="/images/map/s03.png"/>
+      <a class="typearch" href="../diocese/auch0.htm">
+       Auch
+      </a>
+      (–
+      <a class="typet6" href="../former/cond0.htm">
+       Condom
+      </a>
+      –
+      <a class="typet6" href="../former/lect0.htm">
+       Lectoure
+      </a>
+      –
+      <a class="typet6" href="../former/lomb0.htm">
+       Lombez
+      </a>
+      )
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="FR-province.htm#auch0">
+       Toulouse
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/france/0476.htm" title="Basilique-Cathédrale Sainte-Marie d’Auch">
+        <img alt="Basilique-Cathédrale Sainte-Marie d’Auch" height="20" src="/images/c1ab.gif" width="19"/>
+       </a>
+       <a href="../../churches/france/3248.htm" title="Co-cathédrale Saint-Luper">
+        <img alt="Co-cathédrale Saint-Luper" height="20" src="/images/c1c.gif" width="17"/>
+       </a>
+       <a href="../../churches/france/3250.htm" title="Ancienne cathédrale Saint-Gervais et Saint-Protais">
+        <img alt="Ancienne cathédrale Saint-Gervais et Saint-Protais" height="20" src="/images/c1b.gif" width="17"/>
+       </a>
+       <a href="../../churches/france/3279.htm" title="Ancienne cathédrale Saint-Pierre">
+        <img alt="Ancienne cathédrale Saint-Pierre" height="20" src="/images/c1b.gif" width="17"/>
+       </a>
+       <a href="../../churches/france/3251.htm" title="Ancienne cathédrale Sainte-Marie">
+        <img alt="Ancienne cathédrale Sainte-Marie" height="20" src="/images/c1b.gif" width="17"/>
+       </a>
+       <a href="../diocese/auch0.htm#60588" title="Archbishop Bertrand Lacombe (56)">
+        <img alt="Archbishop Bertrand Lacombe (56)" height="20" src="/images/prelateA1.gif" width="22"/>
+       </a>
+       <a href="../diocese/auch0.htm#4746" title="Archbishop Maurice Lucien Fréchard, C.S.Sp. (94)">
+        <img alt="Archbishop Maurice Lucien Fréchard, C.S.Sp. (94)" height="20" src="/images/prelateA2.gif" width="22"/>
+       </a>
+       <a href="../diocese/auch0.htm#4743" title="Archbishop Maurice Marcel Gardès (78)">
+        <img alt="Archbishop Maurice Marcel Gardès (78)" height="20" src="/images/prelateA2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://diocese32.org" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="avig0">
+     <td>
+      <img alt="Archdiocese" height="20" src="/images/map/s03.png"/>
+      <a class="typearch" href="../diocese/avig0.htm">
+       Avignon
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="FR-province.htm#avig0">
+       Marseille
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/france/0156.htm" title="Basilique-Cathédrale Notre-Dame des Doms">
+        <img alt="Basilique-Cathédrale Notre-Dame des Doms" height="20" src="/images/c1ab.gif" width="19"/>
+       </a>
+       <a href="../../churches/france/0207.htm" title="Basilique Sainte-Anne">
+        <img alt="Basilique Sainte-Anne" height="20" src="/images/c1bb.gif" width="19"/>
+       </a>
+       <a href="../../churches/france/3368.htm" title="Ancienne cathédrale Notre-Dame de Nazareth et Saint-Quentin">
+        <img alt="Ancienne cathédrale Notre-Dame de Nazareth et Saint-Quentin" height="20" src="/images/c1b.gif" width="17"/>
+       </a>
+       <a href="../../churches/france/3347.htm" title="Ancienne cathédrale Notre-Dame de Nazareth et Tous es Saints">
+        <img alt="Ancienne cathédrale Notre-Dame de Nazareth et Tous es Saints" height="20" src="/images/c1b.gif" width="17"/>
+       </a>
+       <a href="../../churches/france/3352.htm" title="Ancienne cathédrale Notre-Dame et Saint-Véran">
+        <img alt="Ancienne cathédrale Notre-Dame et Saint-Véran" height="20" src="/images/c1b.gif" width="17"/>
+       </a>
+       <a href="../../churches/france/3353.htm" title="Ancienne cathédrale Saint-Siffrein">
+        <img alt="Ancienne cathédrale Saint-Siffrein" height="20" src="/images/c1b.gif" width="17"/>
+       </a>
+       <a href="../../churches/france/6222.htm" title="Ancienne Co-cathédrale Saint-Quenin et Notre-Dame de l’Assomption">
+        <img alt="Ancienne Co-cathédrale Saint-Quenin et Notre-Dame de l’Assomption" height="20" src="/images/c1b.gif" width="17"/>
+       </a>
+       <a href="../../churches/france/5601.htm" title="Basilique Saint-Pierre">
+        <img alt="Basilique Saint-Pierre" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/avig0.htm#46749" title="Archbishop François Fonlupt (68)">
+        <img alt="Archbishop François Fonlupt (68)" height="20" src="/images/prelateA1.gif" width="22"/>
+       </a>
+       <a href="../diocese/avig0.htm#4662" title="Archbishop Jean-Pierre-Marie Cattenoz (77)">
+        <img alt="Archbishop Jean-Pierre-Marie Cattenoz (77)" height="20" src="/images/prelateA2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.diocese-avignon.fr" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="bour0">
+     <td>
+      <img alt="Archdiocese" height="20" src="/images/map/s03.png"/>
+      <a class="typearch" href="../diocese/bour0.htm">
+       Bourges
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="FR-province.htm#bour0">
+       Tours
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/france/1827.htm" title="Cathédrale Saint-Étienne">
+        <img alt="Cathédrale Saint-Étienne" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/france/0306.htm" title="Basilique Saint-Jacques-le-Majeur">
+        <img alt="Basilique Saint-Jacques-le-Majeur" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/france/0252.htm" title="Basilique Notre-Dame des Enfants">
+        <img alt="Basilique Notre-Dame des Enfants" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/france/0183.htm" title="Basilique Notre-Dame du Sacré-Cœur">
+        <img alt="Basilique Notre-Dame du Sacré-Cœur" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/bour0.htm#9389" title="Archbishop Jérôme Daniel Beau (65)">
+        <img alt="Archbishop Jérôme Daniel Beau (65)" height="20" src="/images/prelateA1.gif" width="22"/>
+       </a>
+       <a href="../diocese/bour0.htm#4757" title="Archbishop Hubert Barbier (90)">
+        <img alt="Archbishop Hubert Barbier (90)" height="20" src="/images/prelateA2.gif" width="22"/>
+       </a>
+       <a href="../diocese/bour0.htm#4720" title="Archbishop Armand Maillard (79)">
+        <img alt="Archbishop Armand Maillard (79)" height="20" src="/images/prelateA2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.diocese-bourges.org" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/cathosberry" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="camb0">
+     <td>
+      <img alt="Archdiocese" height="20" src="/images/map/s03.png"/>
+      <a class="typearch" href="../diocese/camb0.htm">
+       Cambrai
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="FR-province.htm#camb0">
+       Lille
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/france/0243.htm" title="Basilique-Cathédrale Notre-Dame-de-Grâce-et-St-Sépulcre">
+        <img alt="Basilique-Cathédrale Notre-Dame-de-Grâce-et-St-Sépulcre" height="20" src="/images/c1ab.gif" width="19"/>
+       </a>
+       <a href="../../churches/france/0396.htm" title="Basilique Notre-Dame du Saint-Cordon">
+        <img alt="Basilique Notre-Dame du Saint-Cordon" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/france/1268.htm" title="Basilique Sainte-Maxellende">
+        <img alt="Basilique Sainte-Maxellende" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/camb0.htm#50449" title="Archbishop Vincent Dollmann (58)">
+        <img alt="Archbishop Vincent Dollmann (58)" height="20" src="/images/prelateA1.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.cathocambrai.com" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/Diocesecambrai" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="cham0">
+     <td>
+      <img alt="Archdiocese" height="20" src="/images/map/s03.png"/>
+      <a class="typearch" href="../diocese/cham0.htm">
+       Chambéry–Saint-Jean-de-Maurienne–Tarentaise
+      </a>
+      /
+      <a class="typearch" href="../diocese/cham0.htm">
+       Savoie
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="FR-province.htm#cham0">
+       Lyon
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/france/0185.htm" title="Basilique-Cathédrale Saint-François-de-Sales">
+        <img alt="Basilique-Cathédrale Saint-François-de-Sales" height="20" src="/images/c1ab.gif" width="19"/>
+       </a>
+       <a href="../../churches/france/3359.htm" title="Cathédrale Saint-Jean-Baptiste">
+        <img alt="Cathédrale Saint-Jean-Baptiste" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/france/3360.htm" title="Cathédrale Saint-Pierre">
+        <img alt="Cathédrale Saint-Pierre" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/cham0.htm#60745" title="Archbishop Thibault Verny (57)">
+        <img alt="Archbishop Thibault Verny (57)" height="20" src="/images/prelateA1.gif" width="22"/>
+       </a>
+       <a class="link" href="http://catholique-savoie.fr" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/EglisektoSavoie" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+       <a class="linkf" href="https://www.facebook.com/EgliseKtoSavoie" rel="nofollow" target="_blank" title="Facebook Page">
+       </a>
+       <span class="znote">
+        United
+        <i>
+         æque principaliter
+        </i>
+        with
+        <a class="typedioc" href="../former/zjea1.htm">
+         Saint-Jean-de-Maurienne
+        </a>
+        and
+        <a class="typedioc" href="../former/tare0.htm">
+         Tarentaise
+        </a>
+        1966.04.26
+       </span>
+      </span>
+     </td>
+    </tr>
+    <tr id="sens0">
+     <td>
+      <img alt="Archdiocese" height="20" src="/images/map/s03.png"/>
+      <a class="typearch" href="../diocese/sens0.htm">
+       Sens
+      </a>
+      (–
+      <a class="typet6" href="../former/auxe0.htm">
+       Auxerre
+      </a>
+      )
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="FR-province.htm#sens0">
+       Dijon
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/france/1803.htm" title="Cathédrale primatiale Saint-Étienne">
+        <img alt="Cathédrale primatiale Saint-Étienne" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/france/1800.htm" title="Co-cathédrale Saint-Étienne">
+        <img alt="Co-cathédrale Saint-Étienne" height="20" src="/images/c1c.gif" width="17"/>
+       </a>
+       <a href="../../churches/france/0365.htm" title="Basilique Sainte-Marie-Madeleine">
+        <img alt="Basilique Sainte-Marie-Madeleine" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/sens0.htm#4639" title="Archbishop Hervé Jean Robert Giraud (66)">
+        <img alt="Archbishop Hervé Jean Robert Giraud (66)" height="20" src="/images/prelateA1.gif" width="22"/>
+       </a>
+       <a href="../diocese/sens0.htm#4636" title="Archbishop Georges Edmond Robert Gilson (94)">
+        <img alt="Archbishop Georges Edmond Robert Gilson (94)" height="20" src="/images/prelateA2.gif" width="22"/>
+       </a>
+       <a href="../diocese/sens0.htm#4634" title="Archbishop Yves François Patenôtre (83)">
+        <img alt="Archbishop Yves François Patenôtre (83)" height="20" src="/images/prelateA2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.yonne.catholique.fr" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/CathoYonne" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+       <a class="linkf" href="https://www.facebook.com/CathoYonne" rel="nofollow" target="_blank" title="Facebook Page">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="stra0">
+     <td>
+      <img alt="Archdiocese" height="20" src="/images/map/s03.png"/>
+      <a class="typearch" href="../diocese/stra0.htm">
+       Strasbourg
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/france/1849.htm" title="Cathédrale Notre-Dame de Strasbourg">
+        <img alt="Cathédrale Notre-Dame de Strasbourg" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/france/0401.htm" title="Basilique du Sacré-Cœur">
+        <img alt="Basilique du Sacré-Cœur" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/france/0231.htm" title="Basilique Notre-Dame">
+        <img alt="Basilique Notre-Dame" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/france/0542.htm" title="Basilique Notre-Dame de Thierenbach">
+        <img alt="Basilique Notre-Dame de Thierenbach" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/france/3862.htm" title="Basilique Notre-Dame du Mont Sainte-Odile">
+        <img alt="Basilique Notre-Dame du Mont Sainte-Odile" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/metz0.htm#24284" title="Archbishop Philippe Ballot (66)">
+        <img alt="Archbishop Philippe Ballot (66)" height="20" src="/images/prelateA3.gif" width="16"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-KR.htm#4596" title="Bishop Christian George Nicolas Kratz (70)">
+        <img alt="Bishop Christian George Nicolas Kratz (70)" height="20" src="/images/prelateB3.gif" width="16"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-RE.htm#72742" title="Bishop Gilles Reithinger, M.E.P. (50)">
+        <img alt="Bishop Gilles Reithinger, M.E.P. (50)" height="20" src="/images/prelateB3.gif" width="16"/>
+       </a>
+       <a href="../diocese/stra0.htm#4598" title="Archbishop Joseph Pierre Aimé Marie Doré, P.S.S. (86)">
+        <img alt="Archbishop Joseph Pierre Aimé Marie Doré, P.S.S. (86)" height="20" src="/images/prelateA2.gif" width="22"/>
+       </a>
+       <a href="../diocese/stra0.htm#4597" title="Archbishop Jean-Pierre Grallet, O.F.M. (82)">
+        <img alt="Archbishop Jean-Pierre Grallet, O.F.M. (82)" height="20" src="/images/prelateA2.gif" width="22"/>
+       </a>
+       <a href="../diocese/stra0.htm#26215" title="Archbishop Luc Ravel, C.R.S.V. (66)">
+        <img alt="Archbishop Luc Ravel, C.R.S.V. (66)" height="20" src="/images/prelateA2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.alsace.catholique.fr" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/AlsaceCatho" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+       <a class="linkf" href="https://www.facebook.com/EgliseAlsace" rel="nofollow" target="_blank" title="Facebook Page">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="agen0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/agen0.htm">
+       Agen
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="FR-province.htm#agen0">
+       Bordeaux
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/france/1865.htm" title="Cathédrale Saint-Caprais">
+        <img alt="Cathédrale Saint-Caprais" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/france/0191.htm" title="Basilique Notre-Dame de Bon-Encontre">
+        <img alt="Basilique Notre-Dame de Bon-Encontre" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/agen0.htm#4619" title="Bishop Hubert Marie Michel Marcel Herbreteau (75)">
+        <img alt="Bishop Hubert Marie Michel Marcel Herbreteau (75)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.diocese47.fr" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="aire0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/aire0.htm">
+       Aire et Dax
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="FR-province.htm#aire0">
+       Bordeaux
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/france/1852.htm" title="Cathédrale Sainte-Marie">
+        <img alt="Cathédrale Sainte-Marie" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/france/1857.htm" title="Co-cathédrale Saint-Jean-Baptiste">
+        <img alt="Co-cathédrale Saint-Jean-Baptiste" height="20" src="/images/c1c.gif" width="17"/>
+       </a>
+       <a href="../../churches/france/0974.htm" title="Basilique Notre-Dame de Buglose">
+        <img alt="Basilique Notre-Dame de Buglose" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/aire0.htm#24194" title="Bishop Nicolas Jean-Marie Souchu (64)">
+        <img alt="Bishop Nicolas Jean-Marie Souchu (64)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../diocese/aire0.htm#18573" title="Bishop Hervé Gaschignard (63)">
+        <img alt="Bishop Hervé Gaschignard (63)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://diocese40.fr" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="ajac0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/ajac0.htm">
+       Ajaccio
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="FR-province.htm#ajac0">
+       Marseille
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/france/1821.htm" title="Cathédrale Notre-Dame-de-l’Assomption">
+        <img alt="Cathédrale Notre-Dame-de-l’Assomption" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/france/2734.htm" title="Ancienne cathédrale médiévale Sant’Appiano">
+        <img alt="Ancienne cathédrale médiévale Sant’Appiano" height="20" src="/images/c1b.gif" width="17"/>
+       </a>
+       <a href="../../churches/france/1818.htm" title="Ancienne cathédrale Saint-Erasme">
+        <img alt="Ancienne cathédrale Saint-Erasme" height="20" src="/images/c1b.gif" width="17"/>
+       </a>
+       <a href="../../churches/france/1649.htm" title="Ancienne cathédrale Santa-Maria-Assunta">
+        <img alt="Ancienne cathédrale Santa-Maria-Assunta" height="20" src="/images/c1b.gif" width="17"/>
+       </a>
+       <a href="../../churches/france/1817.htm" title="Ancienne cathédrale Santa-Maria-Assunta dite La Canonica">
+        <img alt="Ancienne cathédrale Santa-Maria-Assunta dite La Canonica" height="20" src="/images/c1b.gif" width="17"/>
+       </a>
+       <a href="../../churches/france/1819.htm" title="Ancienne pro-cathédrale Saint-Jean-Baptiste">
+        <img alt="Ancienne pro-cathédrale Saint-Jean-Baptiste" height="20" src="/images/c1b.gif" width="17"/>
+       </a>
+       <a href="../../churches/france/1820.htm" title="Ancienne pro-cathédrale Sainte-Marie de l’Assomption">
+        <img alt="Ancienne pro-cathédrale Sainte-Marie de l’Assomption" height="20" src="/images/c1b.gif" width="17"/>
+       </a>
+       <a href="../../churches/france/3286.htm" title="Église de Saint-Martin">
+        <img alt="Église de Saint-Martin" height="20" src="/images/c1b.gif" width="17"/>
+       </a>
+       <a href="../../churches/france/5306.htm" title="Ex-cathédrale Saint-Pierre">
+        <img alt="Ex-cathédrale Saint-Pierre" height="20" src="/images/c1b.gif" width="17"/>
+       </a>
+       <a href="../diocese/ajac0.htm#72689" title="Bishop François-Xavier Bustillo, O.F.M. Conv. (54)">
+        <img alt="Bishop François-Xavier Bustillo, O.F.M. Conv. (54)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.corse.catholique.fr" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/EglisedeCorse" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+       <a class="linkf" href="https://www.facebook.com/DioceseAjaccio" rel="nofollow" target="_blank" title="Facebook Page">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="amie0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/amie0.htm">
+       Amiens
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="FR-province.htm#amie0">
+       Reims
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/france/0155.htm" title="Basilique-Cathédrale Notre-Dame">
+        <img alt="Basilique-Cathédrale Notre-Dame" height="20" src="/images/c1ab.gif" width="19"/>
+       </a>
+       <a href="../../churches/france/0255.htm" title="Basilique Notre-Dame de Brebières">
+        <img alt="Basilique Notre-Dame de Brebières" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/amie0.htm#72614" title="Bishop Gérard Le Stang (59)">
+        <img alt="Bishop Gérard Le Stang (59)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.amiens.catholique.fr" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/Eglise80" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+       <a class="linkf" href="https://www.facebook.com/dioceseamiens" rel="nofollow" target="_blank" title="Facebook Page">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="ange0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/ange0.htm">
+       Angers
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="FR-province.htm#ange0">
+       Rennes
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/france/3274.htm" title="Cathédrale Saint-Maurice">
+        <img alt="Cathédrale Saint-Maurice" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/france/0402.htm" title="Basilique Sainte-Madeleine">
+        <img alt="Basilique Sainte-Madeleine" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/ange0.htm#24118" title="Bishop Emmanuel Delmas (68)">
+        <img alt="Bishop Emmanuel Delmas (68)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-BR.htm#4721" title="Archbishop Jean-Louis Bruguès, O.P. (79)">
+        <img alt="Archbishop Jean-Louis Bruguès, O.P. (79)" height="20" src="/images/prelateA2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.diocese49.org" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="ango0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/ango0.htm">
+       Angoulême
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="FR-province.htm#ango0">
+       Poitiers
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/france/3264.htm" title="Cathédrale Saint-Pierre">
+        <img alt="Cathédrale Saint-Pierre" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/ango0.htm#60199" title="Bishop Hervé Gosselin (67)">
+        <img alt="Bishop Hervé Gosselin (67)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../diocese/ango0.htm#4701" title="Bishop Claude Jean Pierre Dagens (83)">
+        <img alt="Bishop Claude Jean Pierre Dagens (83)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://charente.catholique.fr" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/diocesecharente" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="anne0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/anne0.htm">
+       Annecy
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="FR-province.htm#anne0">
+       Lyon
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/france/3366.htm" title="Cathédrale Saint-Pierre">
+        <img alt="Cathédrale Saint-Pierre" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/france/0716.htm" title="Basilique Notre-Dame de la Visitation">
+        <img alt="Basilique Notre-Dame de la Visitation" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/france/1309.htm" title="Basilique Saint-François-de-Sales">
+        <img alt="Basilique Saint-François-de-Sales" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/france/0931.htm" title="Basilique Saint-Joseph des Fins">
+        <img alt="Basilique Saint-Joseph des Fins" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/anne0.htm#24170" title="Bishop Yves Le Saux (62)">
+        <img alt="Bishop Yves Le Saux (62)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../diocese/anne0.htm#4644" title="Bishop Yves Jean Marie Arsène Boivineau (76)">
+        <img alt="Bishop Yves Jean Marie Arsène Boivineau (76)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.diocese-annecy.fr" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <span class="znote">
+        includes de jure the town of Saint-Gingolph in
+        <a class="zcountry" href="CH.htm">
+         Switzerland
+        </a>
+       </span>
+      </span>
+     </td>
+    </tr>
+    <tr id="arra0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/arra0.htm">
+       Arras
+      </a>
+      (–
+      <a class="typet6" href="../former/boul0.htm">
+       Boulogne
+      </a>
+      –
+      <a class="typet6" href="../former/zome0.htm">
+       Saint-Omer
+      </a>
+      )
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="FR-province.htm#arra0">
+       Lille
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/france/0160.htm" title="Basilique-Cathédrale Notre-Dame et Saint-Vaast">
+        <img alt="Basilique-Cathédrale Notre-Dame et Saint-Vaast" height="20" src="/images/c1ab.gif" width="19"/>
+       </a>
+       <a href="../../churches/france/0204.htm" title="Basilique Notre-Dame de l’Immaculée Conception">
+        <img alt="Basilique Notre-Dame de l’Immaculée Conception" height="20" src="/images/c1bb.gif" width="19"/>
+       </a>
+       <a href="../../churches/france/0205.htm" title="Basilique Notre-Dame des Miracles">
+        <img alt="Basilique Notre-Dame des Miracles" height="20" src="/images/c1bb.gif" width="19"/>
+       </a>
+       <a href="../diocese/arra0.htm#55284" title="Bishop Olivier Leborgne (59)">
+        <img alt="Bishop Olivier Leborgne (59)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../diocese/arra0.htm#4623" title="Bishop Jean-Paul Maurice Jaeger (78)">
+        <img alt="Bishop Jean-Paul Maurice Jaeger (78)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://arras.catholique.fr" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="autu0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/autu0.htm">
+       Autun
+      </a>
+      (–
+      <a class="typet6" href="../former/chal3.htm">
+       Châlon-sur-Saône
+      </a>
+      –
+      <a class="typet6" href="../former/maco0.htm">
+       Mâcon
+      </a>
+      –
+      <a class="typet8" href="../former/clun0.htm">
+       Cluny
+      </a>
+      )
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="FR-province.htm#autu0">
+       Dijon
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/france/0664.htm" title="Basilique-Cathédrale Saint-Lazare">
+        <img alt="Basilique-Cathédrale Saint-Lazare" height="20" src="/images/c1ab.gif" width="19"/>
+       </a>
+       <a href="../../churches/france/1807.htm" title="Ancienne cathédrale Saint-Vincent">
+        <img alt="Ancienne cathédrale Saint-Vincent" height="20" src="/images/c1b.gif" width="17"/>
+       </a>
+       <a href="../../churches/france/0189.htm" title="Basilique Sacré-Cœur">
+        <img alt="Basilique Sacré-Cœur" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/autu0.htm#4654" title="Bishop Benoît Rivière (68)">
+        <img alt="Bishop Benoît Rivière (68)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a class="link" href="http://autun.catholique.fr" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="baye0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/baye0.htm">
+       Bayeux
+      </a>
+      (–
+      <a class="typet6" href="../former/lisi0.htm">
+       Lisieux
+      </a>
+      )
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="FR-province.htm#baye0">
+       Rouen
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/france/1811.htm" title="Cathédrale Notre-Dame">
+        <img alt="Cathédrale Notre-Dame" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/france/1809.htm" title="Co-cathédrale Saint-Pierre">
+        <img alt="Co-cathédrale Saint-Pierre" height="20" src="/images/c1c.gif" width="17"/>
+       </a>
+       <a href="../../churches/france/0240.htm" title="Basilique Notre-Dame de la Délivrance">
+        <img alt="Basilique Notre-Dame de la Délivrance" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/france/0748.htm" title="Basilique Sainte-Thérèse">
+        <img alt="Basilique Sainte-Thérèse" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/baye0.htm#45963" title="Bishop Jacques Habert (63)">
+        <img alt="Bishop Jacques Habert (63)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../diocese/baye0.htm#4734" title="Bishop Jean-Claude Ézechiel Jean-Baptiste Boulanger (78)">
+        <img alt="Bishop Jean-Claude Ézechiel Jean-Baptiste Boulanger (78)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://bayeuxlisieux.catholique.fr" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="bayo1">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/bayo1.htm">
+       Bayonne
+      </a>
+      (–
+      <a class="typet6" href="../former/lesc1.htm">
+       Lescar
+      </a>
+      –
+      <a class="typet6" href="../former/olor0.htm">
+       Oloron
+      </a>
+      )
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="FR-province.htm#bayo1">
+       Bordeaux
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/france/1855.htm" title="Cathédrale Sainte-Marie">
+        <img alt="Cathédrale Sainte-Marie" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/france/1831.htm" title="Co-cathédrale Sainte-Marie">
+        <img alt="Co-cathédrale Sainte-Marie" height="20" src="/images/c1c.gif" width="17"/>
+       </a>
+       <a href="../../churches/france/1851.htm" title="Co-cathédrale Notre-Dame de l’Assomption">
+        <img alt="Co-cathédrale Notre-Dame de l’Assomption" height="20" src="/images/c1c.gif" width="17"/>
+       </a>
+       <a href="../diocese/bayo1.htm#24162" title="Bishop Marc Aillet (66)">
+        <img alt="Bishop Marc Aillet (66)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../diocese/bayo1.htm#4615" title="Bishop Pierre Jean Marie Marcel Molères (90)">
+        <img alt="Bishop Pierre Jean Marie Marcel Molères (90)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://diocese64.org" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="beau1">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/beau1.htm">
+       Beauvais
+      </a>
+      (–
+      <a class="typet6" href="../former/noyo0.htm">
+       Noyon
+      </a>
+      –
+      <a class="typet6" href="../former/senl0.htm">
+       Senlis
+      </a>
+      )
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="FR-province.htm#beau1">
+       Reims
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/france/3277.htm" title="Cathédrale Saint-Pierre">
+        <img alt="Cathédrale Saint-Pierre" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/france/3266.htm" title="Ancienne cathédrale Notre-Dame">
+        <img alt="Ancienne cathédrale Notre-Dame" height="20" src="/images/c1b.gif" width="17"/>
+       </a>
+       <a href="../../churches/france/3265.htm" title="Ancienne cathédrale Notre-Dame">
+        <img alt="Ancienne cathédrale Notre-Dame" height="20" src="/images/c1b.gif" width="17"/>
+       </a>
+       <a href="../diocese/beau1.htm#33953" title="Bishop Jacques Benoit-Gonnin (70)">
+        <img alt="Bishop Jacques Benoit-Gonnin (70)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a class="link" href="http://oise.catholique.fr" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="belf0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/belf0.htm">
+       Belfort–Montbéliard
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="FR-province.htm#belf0">
+       Besançon
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/france/0724.htm" title="Basilique-Cathédrale Saint-Christophe">
+        <img alt="Basilique-Cathédrale Saint-Christophe" height="20" src="/images/c1ab.gif" width="19"/>
+       </a>
+       <a href="../diocese/belf0.htm#60744" title="Bishop Denis Jachiet (61)">
+        <img alt="Bishop Denis Jachiet (61)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../diocese/belf0.htm#4612" title="Bishop Claude-Pierre-Charles Schockert (83)">
+        <img alt="Bishop Claude-Pierre-Charles Schockert (83)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.diocese-belfort-montbeliard.fr" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="bell3">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/bell3.htm">
+       Belley–Ars
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="FR-province.htm#bell3">
+       Lyon
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/france/3357.htm" title="Cathédrale Saint-Jean-Baptiste">
+        <img alt="Cathédrale Saint-Jean-Baptiste" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/france/3364.htm" title="Co-cathédrale Notre-Dame de Bourg">
+        <img alt="Co-cathédrale Notre-Dame de Bourg" height="20" src="/images/c1c.gif" width="17"/>
+       </a>
+       <a href="../../churches/france/1351.htm" title="Basilique Saint-Sixte">
+        <img alt="Basilique Saint-Sixte" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/bell3.htm#4628" title="Bishop Pascal Roland (72)">
+        <img alt="Bishop Pascal Roland (72)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../diocese/bell3.htm#4643" title="Bishop Guy Claude Bagnard (86)">
+        <img alt="Bishop Guy Claude Bagnard (86)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://catholique-belley-ars.fr" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="bloi0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/bloi0.htm">
+       Blois
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="FR-province.htm#bloi0">
+       Tours
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/france/1828.htm" title="Cathédrale Saint-Louis">
+        <img alt="Cathédrale Saint-Louis" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/france/0783.htm" title="Basilique Notre-Dame de la Trinité">
+        <img alt="Basilique Notre-Dame de la Trinité" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/bloi0.htm#24192" title="Bishop Jean-Pierre Batut (68)">
+        <img alt="Bishop Jean-Pierre Batut (68)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../diocese/bloi0.htm#4758" title="Bishop Maurice Le Bègue de Germiny (83)">
+        <img alt="Bishop Maurice Le Bègue de Germiny (83)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.catholique-blois.net" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="caho0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/caho0.htm">
+       Cahors
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="FR-province.htm#caho0">
+       Toulouse
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/france/3276.htm" title="Cathédrale Saint-Étienne">
+        <img alt="Cathédrale Saint-Étienne" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/france/0327.htm" title="Basilique Notre-Dame de Rocamadour">
+        <img alt="Basilique Notre-Dame de Rocamadour" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/caho0.htm#59986" title="Bishop Laurent Camiade (56)">
+        <img alt="Bishop Laurent Camiade (56)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a class="link" href="http://catholique-cahors.cef.fr" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="carc0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/carc0.htm">
+       Carcassonne et Narbonne
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="FR-province.htm#carc0">
+       Montpellier
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/france/3308.htm" title="Cathédrale Saint-Michel">
+        <img alt="Cathédrale Saint-Michel" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/france/0220.htm" title="Basilique Co-cathédrale Saint-Just et Saint-Pasteur">
+        <img alt="Basilique Co-cathédrale Saint-Just et Saint-Pasteur" height="20" src="/images/c1cb.gif" width="19"/>
+       </a>
+       <a href="../../churches/france/0253.htm" title="Basilique Saint-Nazaire et Saint-Celse">
+        <img alt="Basilique Saint-Nazaire et Saint-Celse" height="20" src="/images/c1bb.gif" width="19"/>
+       </a>
+       <a href="../../churches/france/3305.htm" title="Abbaye Saint-Papoul">
+        <img alt="Abbaye Saint-Papoul" height="20" src="/images/c1b.gif" width="17"/>
+       </a>
+       <a href="../../churches/france/3280.htm" title="Ancienne cathédrale Notre-Dame">
+        <img alt="Ancienne cathédrale Notre-Dame" height="20" src="/images/c1b.gif" width="17"/>
+       </a>
+       <a href="../../churches/france/5595.htm" title="Église Saint-Martin">
+        <img alt="Église Saint-Martin" height="20" src="/images/c1b.gif" width="17"/>
+       </a>
+       <a href="../../churches/france/0315.htm" title="Basilique Notre-Dame de Marceille">
+        <img alt="Basilique Notre-Dame de Marceille" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/france/0731.htm" title="Basilique Saint-Paul">
+        <img alt="Basilique Saint-Paul" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/carc0.htm#62362" title="Bishop Bruno Valentin (51)">
+        <img alt="Bishop Bruno Valentin (51)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../diocese/carc0.htm#4672" title="Bishop Jacques Joseph Marie Despierre, Prado (95)">
+        <img alt="Bishop Jacques Joseph Marie Despierre, Prado (95)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+       <a href="../diocese/carc0.htm#4668" title="Bishop Alain Émile Baptiste Planet (74)">
+        <img alt="Bishop Alain Émile Baptiste Planet (74)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.aude.catholique.fr" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="chal2">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/chal2.htm">
+       Châlons
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="FR-province.htm#chal2">
+       Reims
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/france/1816.htm" title="Cathédrale Saint-Étienne">
+        <img alt="Cathédrale Saint-Étienne" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/france/0330.htm" title="Basilique Notre-Dame de l’Épine">
+        <img alt="Basilique Notre-Dame de l’Épine" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/chal2.htm#60413" title="Bishop François Touvet (58)">
+        <img alt="Bishop François Touvet (58)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../diocese/chal2.htm#4713" title="Bishop Gilbert Louis (83)">
+        <img alt="Bishop Gilbert Louis (83)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://chalons.catholique.fr" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkf" href="https://www.facebook.com/diocesedechalons" rel="nofollow" target="_blank" title="Facebook Page">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="char3">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/char3.htm">
+       Chartres
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="FR-province.htm#char3">
+       Tours
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/france/0294.htm" title="Basilique-Cathédrale Notre-Dame de Chartres">
+        <img alt="Basilique-Cathédrale Notre-Dame de Chartres" height="20" src="/images/c1ab.gif" width="19"/>
+       </a>
+       <a href="../diocese/char3.htm#61863" title="Bishop Philippe Christory (65)">
+        <img alt="Bishop Philippe Christory (65)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.diocese-chartres.com" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="cout0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/cout0.htm">
+       Coutances
+      </a>
+      (–
+      <a class="typet6" href="../former/avra0.htm">
+       Avranches
+      </a>
+      )
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="FR-province.htm#cout0">
+       Rouen
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/france/1810.htm" title="Cathédrale Notre-Dame">
+        <img alt="Cathédrale Notre-Dame" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/france/0392.htm" title="Basilique de la Sainte-Trinité">
+        <img alt="Basilique de la Sainte-Trinité" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/france/0238.htm" title="Basilique Saint-Gervais-et-Saint-Protais">
+        <img alt="Basilique Saint-Gervais-et-Saint-Protais" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/france/5949.htm" title="Abbaye Saint-Michel">
+        <img alt="Abbaye Saint-Michel" height="20" src="/images/c4d.gif" width="15"/>
+       </a>
+       <a class="link" href="http://www.coutances.catholique.fr" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="cret0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/cret0.htm">
+       Créteil
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="FR-province.htm#cret0">
+       Paris
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/france/3287.htm" title="Cathédrale Notre-Dame">
+        <img alt="Cathédrale Notre-Dame" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/france/5916.htm" title="Église Saint-Louis et Saint-Nicolas">
+        <img alt="Église Saint-Louis et Saint-Nicolas" height="20" src="/images/c1b.gif" width="17"/>
+       </a>
+       <a href="../diocese/cret0.htm#59701" title="Bishop Dominique Blanchet (57)">
+        <img alt="Bishop Dominique Blanchet (57)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../diocese/cret0.htm#4725" title="Bishop Michel Léon Émile Santier (76)">
+        <img alt="Bishop Michel Léon Émile Santier (76)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://catholiques-val-de-marne.cef.fr" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="dign0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/dign0.htm">
+       Digne
+      </a>
+      (–
+      <a class="typet6" href="../former/riez0.htm">
+       Riez
+      </a>
+      –
+      <a class="typet6" href="../former/sist0.htm">
+       Sisteron
+      </a>
+      )
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="FR-province.htm#dign0">
+       Marseille
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/france/3350.htm" title="Cathédrale Notre-Dame du Bourg">
+        <img alt="Cathédrale Notre-Dame du Bourg" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/france/3341.htm" title="Co-cathédrale Saint-Jérôme">
+        <img alt="Co-cathédrale Saint-Jérôme" height="20" src="/images/c1c.gif" width="17"/>
+       </a>
+       <a href="../../churches/france/3356.htm" title="Ancienne cathédrale Notre-Dame de l’Assomption">
+        <img alt="Ancienne cathédrale Notre-Dame de l’Assomption" height="20" src="/images/c1b.gif" width="17"/>
+       </a>
+       <a href="../../churches/france/3371.htm" title="Ancienne cathédrale Notre-Dame de l’Assomption">
+        <img alt="Ancienne cathédrale Notre-Dame de l’Assomption" height="20" src="/images/c1b.gif" width="17"/>
+       </a>
+       <a href="../../churches/france/3349.htm" title="Ancienne cathédrale Notre-Dame de la Sède">
+        <img alt="Ancienne cathédrale Notre-Dame de la Sède" height="20" src="/images/c1b.gif" width="17"/>
+       </a>
+       <a href="../../churches/france/3346.htm" title="Ancienne cathédrale Notre-Dame du Bourguet">
+        <img alt="Ancienne cathédrale Notre-Dame du Bourguet" height="20" src="/images/c1b.gif" width="17"/>
+       </a>
+       <a href="../../churches/france/3370.htm" title="Ancienne cathédrale Notre-Dame et Saint-Thyrse">
+        <img alt="Ancienne cathédrale Notre-Dame et Saint-Thyrse" height="20" src="/images/c1b.gif" width="17"/>
+       </a>
+       <a href="../diocese/dign0.htm#60731" title="Bishop Emmanuel Gobilliard (55)">
+        <img alt="Bishop Emmanuel Gobilliard (55)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../diocese/dign0.htm#4661" title="Bishop François-Xavier Jacques Marie Loizeau (83)">
+        <img alt="Bishop François-Xavier Jacques Marie Loizeau (83)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://eglise.catholique04.fr" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="evre0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/evre0.htm">
+       Évreux
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="FR-province.htm#evre0">
+       Rouen
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/france/3291.htm" title="Cathédrale Notre-Dame">
+        <img alt="Cathédrale Notre-Dame" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/france/0671.htm" title="Basilique Notre-Dame de la Couture">
+        <img alt="Basilique Notre-Dame de la Couture" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/evre0.htm#75182" title="Bishop Olivier de Cagny (61)">
+        <img alt="Bishop Olivier de Cagny (61)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../diocese/evre0.htm#4732" title="Bishop Christian Nourrichard (75)">
+        <img alt="Bishop Christian Nourrichard (75)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://evreux.catholique.fr" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/CommdioEvreux" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="evry0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/evry0.htm">
+       Évry–Corbeil-Essonnes
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="FR-province.htm#evry0">
+       Paris
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/france/3278.htm" title="Cathédrale de la Résurrection et Saint-Corbinien">
+        <img alt="Cathédrale de la Résurrection et Saint-Corbinien" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/france/3288.htm" title="Cathédrale Saint-Spire">
+        <img alt="Cathédrale Saint-Spire" height="20" src="/images/c1c.gif" width="17"/>
+       </a>
+       <a href="../../churches/france/0326.htm" title="Basilique Notre-Dame de Bonne-Garde">
+        <img alt="Basilique Notre-Dame de Bonne-Garde" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/evry0.htm#4760" title="Bishop Michel Pansard (67)">
+        <img alt="Bishop Michel Pansard (67)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../diocese/evry0.htm#4681" title="Bishop Michel Marie Jacques Dubost, C.I.M. (81)">
+        <img alt="Bishop Michel Marie Jacques Dubost, C.I.M. (81)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://evry.catholique.fr" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="frej0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/frej0.htm">
+       Fréjus–Toulon
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="FR-province.htm#frej0">
+       Marseille
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/france/3369.htm" title="Cathédrale Notre-Dame de-la-Sède">
+        <img alt="Cathédrale Notre-Dame de-la-Sède" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/france/3345.htm" title="Co-cathédrale Notre-Dame et Saint-Léonce">
+        <img alt="Co-cathédrale Notre-Dame et Saint-Léonce" height="20" src="/images/c1c.gif" width="17"/>
+       </a>
+       <a href="../../churches/france/1459.htm" title="Basilique Notre-Dame de la Victoire">
+        <img alt="Basilique Notre-Dame de la Victoire" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/france/6386.htm" title="Basilique Sainte-Marie-Madeleine">
+        <img alt="Basilique Sainte-Marie-Madeleine" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/frej0.htm#4660" title="Bishop Dominique Marie Jean Rey (70)">
+        <img alt="Bishop Dominique Marie Jean Rey (70)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a class="link" href="http://frejustoulon.fr" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="gapz0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/gapz0.htm">
+       Gap–Embrun
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="FR-province.htm#gapz0">
+       Marseille
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/france/4190.htm" title="Cathédrale Notre-Dame-et-Saint-Arnoux">
+        <img alt="Cathédrale Notre-Dame-et-Saint-Arnoux" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/france/3348.htm" title="Co-cathédrale Notre-Dame">
+        <img alt="Co-cathédrale Notre-Dame" height="20" src="/images/c1c.gif" width="17"/>
+       </a>
+       <a href="../../churches/france/0230.htm" title="Basilique Notre-Dame du Laus">
+        <img alt="Basilique Notre-Dame du Laus" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/gapz0.htm#61305" title="Bishop Xavier Malle (57)">
+        <img alt="Bishop Xavier Malle (57)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../diocese/gapz0.htm#4663" title="Archbishop Jean-Michel di Falco Léandri (81)">
+        <img alt="Archbishop Jean-Michel di Falco Léandri (81)" height="20" src="/images/prelateA2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.diocesedegap.fr" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/DiocesedeGap" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+       <a class="linkf" href="https://www.facebook.com/DiocesedeGap" rel="nofollow" target="_blank" title="Facebook Page">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="gren0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/gren0.htm">
+       Grenoble–Vienne
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="FR-province.htm#gren0">
+       Lyon
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/france/3362.htm" title="Cathédrale Notre-Dame de l’Assomption">
+        <img alt="Cathédrale Notre-Dame de l’Assomption" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/france/3342.htm" title="Cathédrale Saint-Maurice">
+        <img alt="Cathédrale Saint-Maurice" height="20" src="/images/c1c.gif" width="17"/>
+       </a>
+       <a href="../../churches/france/0421.htm" title="Basilique Notre-Dame de l’Osier">
+        <img alt="Basilique Notre-Dame de l’Osier" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/france/0203.htm" title="Basilique Notre-Dame de la Salette">
+        <img alt="Basilique Notre-Dame de la Salette" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/france/0725.htm" title="Basilique Sacré-Cœur">
+        <img alt="Basilique Sacré-Cœur" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/france/0549.htm" title="Basilique Saint-Joseph">
+        <img alt="Basilique Saint-Joseph" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/gren0.htm#57452" title="Bishop Jean-Marc Eychenne (66)">
+        <img alt="Bishop Jean-Marc Eychenne (66)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.diocese-grenoble-vienne.fr" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="laro0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/laro0.htm">
+       La Rochelle
+      </a>
+      (–
+      <a class="typet6" href="../former/sain0.htm">
+       Saintes
+      </a>
+      )
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="FR-province.htm#laro0">
+       Poitiers
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/france/3324.htm" title="Cathédrale Saint-Louis">
+        <img alt="Cathédrale Saint-Louis" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/france/0173.htm" title="Basilique Co-cathédrale Saint-Pierre">
+        <img alt="Basilique Co-cathédrale Saint-Pierre" height="20" src="/images/c1cb.gif" width="19"/>
+       </a>
+       <a href="../../churches/northamerica/2494.htm" title="Co-cathédrale Saint-Pierre">
+        <img alt="Co-cathédrale Saint-Pierre" height="20" src="/images/c1c.gif" width="17"/>
+       </a>
+       <a href="../../churches/france/0219.htm" title="Basilique Saint-Eutrope">
+        <img alt="Basilique Saint-Eutrope" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/laro0.htm#45523" title="Bishop Georges Colomb, M.E.P. (69)">
+        <img alt="Bishop Georges Colomb, M.E.P. (69)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../diocese/laro0.htm#4748" title="Bishop Bernard Housset (83)">
+        <img alt="Bishop Bernard Housset (83)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://catholiques17.fr" rel="nofollow" target="_blank" title="Link">
+       </a>
+       Also covers
+       <a class="zcountry" href="PM.htm">
+        Saint Pierre and Miquelon
+       </a>
+       <a href="PM.htm" title="Saint Pierre and Miquelon">
+        <img alt="Saint Pierre and Miquelon" class="flag" height="15" src="/images/flags/PM2.png" width="22"/>
+       </a>
+       .
+      </span>
+     </td>
+    </tr>
+    <tr id="lang1">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/lang1.htm">
+       Langres
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="FR-province.htm#lang1">
+       Reims
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/france/1824.htm" title="Cathédrale Saint-Mammès">
+        <img alt="Cathédrale Saint-Mammès" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/france/0654.htm" title="Basilique Saint-Jean-Baptiste">
+        <img alt="Basilique Saint-Jean-Baptiste" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/lang1.htm#55075" title="Bishop Joseph de Metz-Noblat (64)">
+        <img alt="Bishop Joseph de Metz-Noblat (64)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../diocese/lang1.htm#4714" title="Bishop Philippe Jean Marie Joseph Gueneley (84)">
+        <img alt="Bishop Philippe Jean Marie Joseph Gueneley (84)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://52.catholique.fr" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/dioceselangres" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+       <a class="linkf" href="https://www.facebook.com/diocese.langres" rel="nofollow" target="_blank" title="Facebook Page">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="lava1">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/lava1.htm">
+       Laval
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="FR-province.htm#lava1">
+       Rennes
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/france/3273.htm" title="Cathédrale de la Trinité">
+        <img alt="Cathédrale de la Trinité" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/france/0250.htm" title="Basilique Notre-Dame d’Avesnières">
+        <img alt="Basilique Notre-Dame d’Avesnières" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/france/0570.htm" title="Basilique Notre-Dame de l’Épine">
+        <img alt="Basilique Notre-Dame de l’Épine" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/france/0276.htm" title="Basilique Notre-Dame de l’Espérance">
+        <img alt="Basilique Notre-Dame de l’Espérance" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/france/0260.htm" title="Basilique Notre-Dame des Miracles">
+        <img alt="Basilique Notre-Dame des Miracles" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a class="link" href="http://www.diocesedelaval.fr" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="leha0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/leha0.htm">
+       Le Havre
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="FR-province.htm#leha0">
+       Rouen
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/france/3290.htm" title="Cathédrale Notre-Dame du Havre">
+        <img alt="Cathédrale Notre-Dame du Havre" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/leha0.htm#4656" title="Bishop Jean-Luc Brunin (72)">
+        <img alt="Bishop Jean-Luc Brunin (72)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.lehavre.catholique.fr" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/DioceseduHavre" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="lema0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/lema0.htm">
+       Le Mans
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="FR-province.htm#lema0">
+       Rennes
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/france/3262.htm" title="Cathédrale Saint-Julien">
+        <img alt="Cathédrale Saint-Julien" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/france/0234.htm" title="Basilique Notre-Dame du Chêne">
+        <img alt="Basilique Notre-Dame du Chêne" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/lema0.htm#62380" title="Bishop Jean-Pierre Vuillemin (56)">
+        <img alt="Bishop Jean-Pierre Vuillemin (56)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.sarthecatholique.fr" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="lepu0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/lepu0.htm">
+       Le Puy-en-Velay
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="FR-province.htm#lepu0">
+       Clermont
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/france/0161.htm" title="Basilique-Cathédrale Notre-Dame-de-l’Annonciation du Puy">
+        <img alt="Basilique-Cathédrale Notre-Dame-de-l’Annonciation du Puy" height="20" src="/images/c1ab.gif" width="19"/>
+       </a>
+       <a href="../../churches/france/6592.htm" title="Basilique de Saint-Joseph de Bon Espoir">
+        <img alt="Basilique de Saint-Joseph de Bon Espoir" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/france/0792.htm" title="Basilique Saint-Julien">
+        <img alt="Basilique Saint-Julien" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/lepu0.htm#74141" title="Bishop Yves Baumgarten (58)">
+        <img alt="Bishop Yves Baumgarten (58)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.catholique-lepuy.fr" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/DioceseduPuy" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+       <a class="linkf" href="https://www.facebook.com/diocesedupuy" rel="nofollow" target="_blank" title="Facebook Page">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="limo1">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/limo1.htm">
+       Limoges
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="FR-province.htm#limo1">
+       Poitiers
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/france/3301.htm" title="Cathédrale Saint-Étienne">
+        <img alt="Cathédrale Saint-Étienne" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/france/6678.htm" title="Basilique Saint-Michel-des-Lions">
+        <img alt="Basilique Saint-Michel-des-Lions" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/limo1.htm#61357" title="Bishop Pierre-Antoine Bozo (57)">
+        <img alt="Bishop Pierre-Antoine Bozo (57)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.diocese-limoges.fr" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="luco0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/luco0.htm">
+       Luçon
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="FR-province.htm#luco0">
+       Rennes
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/france/3272.htm" title="Cathédrale Notre-Dame de l’Assomption">
+        <img alt="Cathédrale Notre-Dame de l’Assomption" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/france/3271.htm" title="Ancienne cathédrale Saint-Pierre">
+        <img alt="Ancienne cathédrale Saint-Pierre" height="20" src="/images/c1b.gif" width="17"/>
+       </a>
+       <a href="../../churches/france/0892.htm" title="Basilique Saint-Louis-Marie-Grignon-de-Montfort">
+        <img alt="Basilique Saint-Louis-Marie-Grignon-de-Montfort" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/luco0.htm#12419" title="Bishop François Jacolin, M.D.P. (73)">
+        <img alt="Bishop François Jacolin, M.D.P. (73)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../diocese/luco0.htm#23954" title="Bishop Alain Castet (73)">
+        <img alt="Bishop Alain Castet (73)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://vendee.catholique.fr" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="meau0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/meau0.htm">
+       Meaux
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="FR-province.htm#meau0">
+       Paris
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/france/0320.htm" title="Basilique-Cathédrale Saint-Étienne">
+        <img alt="Basilique-Cathédrale Saint-Étienne" height="20" src="/images/c1ab.gif" width="19"/>
+       </a>
+       <a href="../diocese/meau0.htm#9390" title="Bishop Jean-Yves Nahmias (65)">
+        <img alt="Bishop Jean-Yves Nahmias (65)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-LE.htm#72931" title="Bishop Guillaume Leschallier de Lisle (51)">
+        <img alt="Bishop Guillaume Leschallier de Lisle (51)" height="20" src="/images/prelateB3.gif" width="16"/>
+       </a>
+       <a class="link" href="http://catho77.fr" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/catho77_fr" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+       <a class="linkf" href="https://www.facebook.com/DiocesedeMeaux77" rel="nofollow" target="_blank" title="Facebook Page">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="mend1">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/mend1.htm">
+       Mende
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="FR-province.htm#mend1">
+       Montpellier
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/france/0182.htm" title="Basilique-Cathédrale Notre-Dame-et-Saint-Privat">
+        <img alt="Basilique-Cathédrale Notre-Dame-et-Saint-Privat" height="20" src="/images/c1ab.gif" width="19"/>
+       </a>
+       <a href="../diocese/mend1.htm#62389" title="Bishop Benoît Bertrand (63)">
+        <img alt="Bishop Benoît Bertrand (63)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.diocese-mende.fr" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="metz0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/metz0.htm">
+       Metz
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/france/3299.htm" title="Cathédrale Saint-Étienne">
+        <img alt="Cathédrale Saint-Étienne" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/france/0520.htm" title="Basilique Notre-Dame de Bon-Secours">
+        <img alt="Basilique Notre-Dame de Bon-Secours" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/metz0.htm#24284" title="Archbishop Philippe Ballot (66)">
+        <img alt="Archbishop Philippe Ballot (66)" height="20" src="/images/prelateA1.gif" width="22"/>
+       </a>
+       <a href="../diocese/metz0.htm#4599" title="Bishop Pierre René Ferdinand Raffin, O.P. (85)">
+        <img alt="Bishop Pierre René Ferdinand Raffin, O.P. (85)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+       <a href="../diocese/metz0.htm#4649" title="Bishop Jean-Christophe André Robert Lagleize (68)">
+        <img alt="Bishop Jean-Christophe André Robert Lagleize (68)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://metz.catholique.fr" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="montB">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/montB.htm">
+       Montauban
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="FR-province.htm#montB">
+       Toulouse
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/france/3252.htm" title="Cathédrale Notre-Dame-de-l’Assomption">
+        <img alt="Cathédrale Notre-Dame-de-l’Assomption" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/france/43831.htm" title="Abbaye Saint-Pierre">
+        <img alt="Abbaye Saint-Pierre" height="20" src="/images/c4d.gif" width="15"/>
+       </a>
+       <a href="../diocese/montB.htm#62625" title="Bishop Alain Guellec (62)">
+        <img alt="Bishop Alain Guellec (62)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../diocese/montB.htm#4752" title="Bishop Jacques Marie Sébastien de Saint-Blanquat (97)">
+        <img alt="Bishop Jacques Marie Sébastien de Saint-Blanquat (97)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+       <a href="../diocese/montB.htm#14969" title="Bishop Bernard Ginoux (75)">
+        <img alt="Bishop Bernard Ginoux (75)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.diocese-montauban.fr" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/cathomontauban" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="moul0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/moul0.htm">
+       Moulins
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="FR-province.htm#moul0">
+       Clermont
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/france/0673.htm" title="Basilique-Cathédrale Notre-Dame de l’Annonciation">
+        <img alt="Basilique-Cathédrale Notre-Dame de l’Annonciation" height="20" src="/images/c1ab.gif" width="19"/>
+       </a>
+       <a href="../diocese/moul0.htm#72621" title="Bishop Marc Beaumont (61)">
+        <img alt="Bishop Marc Beaumont (61)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.catholique-moulins.fr" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkf" href="https://www.facebook.com/diocesedemoulins" rel="nofollow" target="_blank" title="Facebook Page">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="nanc2">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/nanc2.htm">
+       Nancy
+      </a>
+      (–
+      <a class="typet6" href="../former/toul1.htm">
+       Toul
+      </a>
+      )
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="FR-province.htm#nanc2">
+       Besançon
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/france/3298.htm" title="Cathédrale de l’Annonciation de la Vierge">
+        <img alt="Cathédrale de l’Annonciation de la Vierge" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/france/3296.htm" title="Ancienne cathédrale Saint-Étienne">
+        <img alt="Ancienne cathédrale Saint-Étienne" height="20" src="/images/c1b.gif" width="17"/>
+       </a>
+       <a href="../../churches/france/0437.htm" title="Basilique Notre-Dame de Lourdes">
+        <img alt="Basilique Notre-Dame de Lourdes" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/france/0525.htm" title="Basilique Notre-Dame de Sion">
+        <img alt="Basilique Notre-Dame de Sion" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/france/0279.htm" title="Basilique Sacré-Cœur">
+        <img alt="Basilique Sacré-Cœur" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/france/0186.htm" title="Basilique Saint-Epvre">
+        <img alt="Basilique Saint-Epvre" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/france/0692.htm" title="Basilique Saint-Nicolas">
+        <img alt="Basilique Saint-Nicolas" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/nanc2.htm#55486" title="Bishop Pierre-Yves Michel (63)">
+        <img alt="Bishop Pierre-Yves Michel (63)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../diocese/nanc2.htm#4609" title="Bishop Jean-Louis-Henri-Maurice Papin (75)">
+        <img alt="Bishop Jean-Louis-Henri-Maurice Papin (75)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.catholique-nancy.fr" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="nant0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/nant0.htm">
+       Nanterre
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="FR-province.htm#nant0">
+       Paris
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/france/3285.htm" title="Cathédrale Sainte-Geneviève et Saint-Maurice">
+        <img alt="Cathédrale Sainte-Geneviève et Saint-Maurice" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/nant0.htm#62093" title="Bishop Matthieu Rougé (57)">
+        <img alt="Bishop Matthieu Rougé (57)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../diocese/nant0.htm#4694" title="Bishop Gérard Antoine Daucourt (82)">
+        <img alt="Bishop Gérard Antoine Daucourt (82)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://diocese92.fr" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/92catholique" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="nant1">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/nant1.htm">
+       Nantes
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="FR-province.htm#nant1">
+       Rennes
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/france/3269.htm" title="Cathédrale Saint-Pierre">
+        <img alt="Cathédrale Saint-Pierre" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/france/0226.htm" title="Basilique Saint-Donatien et Saint-Rogatien">
+        <img alt="Basilique Saint-Donatien et Saint-Rogatien" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/france/0210.htm" title="Basilique Saint-Nicolas">
+        <img alt="Basilique Saint-Nicolas" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/nant1.htm#52022" title="Bishop Laurent Percerou (61)">
+        <img alt="Bishop Laurent Percerou (61)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../diocese/nant1.htm#4724" title="Bishop Georges Pierre Soubrier, P.S.S. (89)">
+        <img alt="Bishop Georges Pierre Soubrier, P.S.S. (89)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://diocese44.fr" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/Diocese44" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="neve0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/neve0.htm">
+       Nevers
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="FR-province.htm#neve0">
+       Dijon
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/france/0170.htm" title="Basilique-Cathédrale Saint-Cyr-et-Sainte-Juliette">
+        <img alt="Basilique-Cathédrale Saint-Cyr-et-Sainte-Juliette" height="20" src="/images/c1ab.gif" width="19"/>
+       </a>
+       <a href="../diocese/neve0.htm#4640" title="Bishop Thierry Marie Jacques Brac de la Perrière (63)">
+        <img alt="Bishop Thierry Marie Jacques Brac de la Perrière (63)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../diocese/autu0.htm#4654" title="Bishop Benoît Rivière (68)">
+        <img alt="Bishop Benoît Rivière (68)" height="20" src="/images/prelateB3.gif" width="16"/>
+       </a>
+       <a class="link" href="http://www.nievre.catholique.fr" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/diocese_nevers" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="nice0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/nice0.htm">
+       Nice
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="FR-province.htm#nice0">
+       Marseille
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/france/0668.htm" title="Basilique-Cathédrale Sainte-Marie et Sainte-Réparate">
+        <img alt="Basilique-Cathédrale Sainte-Marie et Sainte-Réparate" height="20" src="/images/c1ab.gif" width="19"/>
+       </a>
+       <a href="../../churches/france/5309.htm" title="Ancienne cathédrale de Saint-Michel">
+        <img alt="Ancienne cathédrale de Saint-Michel" height="20" src="/images/c1b.gif" width="17"/>
+       </a>
+       <a href="../../churches/france/3355.htm" title="Ancienne cathédrale Notre-Dame de l’Immaculée Conception">
+        <img alt="Ancienne cathédrale Notre-Dame de l’Immaculée Conception" height="20" src="/images/c1b.gif" width="17"/>
+       </a>
+       <a href="../../churches/france/3367.htm" title="Ancienne cathédrale Notre-Dame-de-la-Nativité">
+        <img alt="Ancienne cathédrale Notre-Dame-de-la-Nativité" height="20" src="/images/c1b.gif" width="17"/>
+       </a>
+       <a href="../../churches/france/3344.htm" title="Ancienne cathédrale Notre-Dame du Puy">
+        <img alt="Ancienne cathédrale Notre-Dame du Puy" height="20" src="/images/c1b.gif" width="17"/>
+       </a>
+       <a href="../../churches/france/1092.htm" title="Basilique Notre-Dame de l’Assomption">
+        <img alt="Basilique Notre-Dame de l’Assomption" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/france/1394.htm" title="Basilique Saint-Michel Archange">
+        <img alt="Basilique Saint-Michel Archange" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/france/3642.htm" title="Sanctuaire national Notre-Dame Auxiliatrice">
+        <img alt="Sanctuaire national Notre-Dame Auxiliatrice" height="20" src="/images/c3d.gif" width="15"/>
+       </a>
+       <a href="../diocese/nice0.htm#57199" title="Bishop Jean-Philippe Nault, S.J.M.V. (58)">
+        <img alt="Bishop Jean-Philippe Nault, S.J.M.V. (58)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../diocese/nice0.htm#4665" title="Bishop Jean-Marie-Louis Bonfils, S.M.A. (93)">
+        <img alt="Bishop Jean-Marie-Louis Bonfils, S.M.A. (93)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+       <a href="../diocese/nice0.htm#4666" title="Bishop Louis Albert Joseph Roger Sankalé (76)">
+        <img alt="Bishop Louis Albert Joseph Roger Sankalé (76)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+       <a href="../diocese/nice0.htm#4674" title="Bishop André Marceau (77)">
+        <img alt="Bishop André Marceau (77)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://nice.catholique.fr" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkf" href="https://www.facebook.com/catholiques.desalpesmaritimes" rel="nofollow" target="_blank" title="Facebook Page">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="nime0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/nime0.htm">
+       Nîmes
+      </a>
+      (–
+      <a class="typet6" href="../former/ales2.htm">
+       Alès
+      </a>
+      –
+      <a class="typet6" href="../former/uzes0.htm">
+       Uzès
+      </a>
+      )
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="FR-province.htm#nime0">
+       Montpellier
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/france/0198.htm" title="Basilique-Cathédrale Notre-Dame-et-Saint-Castor">
+        <img alt="Basilique-Cathédrale Notre-Dame-et-Saint-Castor" height="20" src="/images/c1ab.gif" width="19"/>
+       </a>
+       <a href="../../churches/france/3300.htm" title="Ancienne cathédrale Saint-Jean">
+        <img alt="Ancienne cathédrale Saint-Jean" height="20" src="/images/c1b.gif" width="17"/>
+       </a>
+       <a href="../../churches/france/3303.htm" title="Ancienne cathédrale Saint-Théodorit">
+        <img alt="Ancienne cathédrale Saint-Théodorit" height="20" src="/images/c1b.gif" width="17"/>
+       </a>
+       <a href="../diocese/nime0.htm#23951" title="Bishop Nicolas Brouwet (60)">
+        <img alt="Bishop Nicolas Brouwet (60)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../diocese/nime0.htm#4673" title="Bishop Robert Léon Wattebled (77)">
+        <img alt="Bishop Robert Léon Wattebled (77)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.nimes-catholique.fr" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/infocomnimes" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="pari2">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s24.png"/>
+      <a class="typedioc" href="../diocese/pari2.htm">
+       Notre-Dame du Liban de Paris
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-M.htm">
+       Maronite
+      </a>
+     </td>
+     <td>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/france/5458.htm" title="Cathédrale Notre-Dame du Liban">
+        <img alt="Cathédrale Notre-Dame du Liban" height="20" src="/images/c2a.gif" width="17"/>
+       </a>
+       <a href="../diocese/pari2.htm#50444" title="Bishop Maroun-Nasser Gemayel (72)">
+        <img alt="Bishop Maroun-Nasser Gemayel (72)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-K.htm#62694" title="Bishop Peter Karam (63)">
+        <img alt="Bishop Peter Karam (63)" height="20" src="/images/prelateB3.gif" width="16"/>
+       </a>
+       <a class="link" href="http://maronites.fr" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkf" href="https://www.facebook.com/maronites.fr" rel="nofollow" target="_blank" title="Facebook Page">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="orle0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/orle0.htm">
+       Orléans
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="FR-province.htm#orle0">
+       Tours
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/france/0158.htm" title="Basilique-Cathédrale Sainte-Croix">
+        <img alt="Basilique-Cathédrale Sainte-Croix" height="20" src="/images/c1ab.gif" width="19"/>
+       </a>
+       <a href="../../churches/france/0233.htm" title="Basilique Notre-Dame de Cléry">
+        <img alt="Basilique Notre-Dame de Cléry" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/france/0670.htm" title="Basilique Saint-Benoît">
+        <img alt="Basilique Saint-Benoît" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/orle0.htm#9867" title="Bishop Jacques André Blaquart (71)">
+        <img alt="Bishop Jacques André Blaquart (71)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../diocese/orle0.htm#4756" title="Bishop André Louis Fort (87)">
+        <img alt="Bishop André Louis Fort (87)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.orleans.catholique.fr" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="pami0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/pami0.htm">
+       Pamiers
+      </a>
+      (–
+      <a class="typet6" href="../former/cous0.htm">
+       Couserans
+      </a>
+      –
+      <a class="typet6" href="../former/mire0.htm">
+       Mirepoix
+      </a>
+      )
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="FR-province.htm#pami0">
+       Toulouse
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/france/3254.htm" title="Cathédrale Saint-Antonin">
+        <img alt="Cathédrale Saint-Antonin" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/france/3258.htm" title="Ancienne cathédrale Notre-Dame de la Sède">
+        <img alt="Ancienne cathédrale Notre-Dame de la Sède" height="20" src="/images/c1b.gif" width="17"/>
+       </a>
+       <a href="../../churches/france/3257.htm" title="Ancienne cathédrale Saint-Lizier">
+        <img alt="Ancienne cathédrale Saint-Lizier" height="20" src="/images/c1b.gif" width="17"/>
+       </a>
+       <a href="../../churches/france/3253.htm" title="Ancienne cathédrale Saint-Maurice">
+        <img alt="Ancienne cathédrale Saint-Maurice" height="20" src="/images/c1b.gif" width="17"/>
+       </a>
+       <a class="link" href="http://ariege-catholique.fr" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="peri0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/peri0.htm">
+       Périgueux
+      </a>
+      (–
+      <a class="typet6" href="../former/sarl0.htm">
+       Sarlat
+      </a>
+      )
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="FR-province.htm#peri0">
+       Bordeaux
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/france/0247.htm" title="Basilique-Cathédrale Saint-Front">
+        <img alt="Basilique-Cathédrale Saint-Front" height="20" src="/images/c1ab.gif" width="19"/>
+       </a>
+       <a href="../../churches/france/1850.htm" title="Ancienne cathédrale Saint-Étienne-de-la-Cité">
+        <img alt="Ancienne cathédrale Saint-Étienne-de-la-Cité" height="20" src="/images/c1b.gif" width="17"/>
+       </a>
+       <a href="../../churches/france/1806.htm" title="Ancienne cathédrale Saint-Sacerdos">
+        <img alt="Ancienne cathédrale Saint-Sacerdos" height="20" src="/images/c1b.gif" width="17"/>
+       </a>
+       <a href="../../churches/france/59852.htm" title="Abbaye de Notre-Dame de la Nativité de Cadouin">
+        <img alt="Abbaye de Notre-Dame de la Nativité de Cadouin" height="20" src="/images/c1d.gif" width="15"/>
+       </a>
+       <a href="../diocese/peri0.htm#24261" title="Bishop Philippe Mousset (68)">
+        <img alt="Bishop Philippe Mousset (68)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../diocese/peri0.htm#4616" title="Bishop Michel Pierre Marie Mouïsse (83)">
+        <img alt="Bishop Michel Pierre Marie Mouïsse (83)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://diocese24.fr" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="perp0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/perp0.htm">
+       Perpignan–Elne
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="FR-province.htm#perp0">
+       Montpellier
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/france/0194.htm" title="Basilique-Cathédrale Saint-Jean-Baptiste">
+        <img alt="Basilique-Cathédrale Saint-Jean-Baptiste" height="20" src="/images/c1ab.gif" width="19"/>
+       </a>
+       <a href="../../churches/france/3307.htm" title="Co-cathédrale Sainte-Eulalie-et-Sainte-Julie">
+        <img alt="Co-cathédrale Sainte-Eulalie-et-Sainte-Julie" height="20" src="/images/c1c.gif" width="17"/>
+       </a>
+       <a href="../diocese/perp0.htm#24096" title="Bishop Thierry Marie Scherrer (64)">
+        <img alt="Bishop Thierry Marie Scherrer (64)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a class="link" href="http://perpignan.catholique.fr" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/dioceseperpi" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+       <a class="linkf" href="https://www.facebook.com/Diocese66" rel="nofollow" target="_blank" title="Facebook Page">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="pont3">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/pont3.htm">
+       Pontoise
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="FR-province.htm#pont3">
+       Paris
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/france/3293.htm" title="Cathédrale Saint-Maclou">
+        <img alt="Cathédrale Saint-Maclou" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/france/0254.htm" title="Basilique Saint-Denis">
+        <img alt="Basilique Saint-Denis" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/pont3.htm#13721" title="Bishop Stanislas Lalanne (74)">
+        <img alt="Bishop Stanislas Lalanne (74)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.catholique95.fr" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="quim0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/quim0.htm">
+       Quimper
+      </a>
+      /
+      <a class="typedioc" href="../diocese/quim0.htm">
+       Cornouailles
+      </a>
+      (–
+      <a class="typet6" href="../former/leon3.htm">
+       Léon
+      </a>
+      )
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="FR-province.htm#quim0">
+       Rennes
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/france/0172.htm" title="Basilique-Cathédrale Saint-Corentin">
+        <img alt="Basilique-Cathédrale Saint-Corentin" height="20" src="/images/c1ab.gif" width="19"/>
+       </a>
+       <a href="../../churches/france/0261.htm" title="Ancienne cathédrale Saint-Paul-Aurélien">
+        <img alt="Ancienne cathédrale Saint-Paul-Aurélien" height="20" src="/images/c1bb.gif" width="19"/>
+       </a>
+       <a href="../../churches/france/6129.htm" title="Basilique Notre-Dame-du-Folgoët">
+        <img alt="Basilique Notre-Dame-du-Folgoët" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/quim0.htm#46111" title="Bishop Laurent Dognin (70)">
+        <img alt="Bishop Laurent Dognin (70)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.diocese-quimper.fr" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="rode0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/rode0.htm">
+       Rodez
+      </a>
+      (–
+      <a class="typet6" href="../former/vabr0.htm">
+       Vabres
+      </a>
+      )
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="FR-province.htm#rode0">
+       Toulouse
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/france/0187.htm" title="Basilique-Cathédrale Notre-Dame">
+        <img alt="Basilique-Cathédrale Notre-Dame" height="20" src="/images/c1ab.gif" width="19"/>
+       </a>
+       <a href="../../churches/france/3268.htm" title="Ancienne cathédrale Saint-Sauveur et Saint-Pierre">
+        <img alt="Ancienne cathédrale Saint-Sauveur et Saint-Pierre" height="20" src="/images/c1b.gif" width="17"/>
+       </a>
+       <a href="../../churches/france/0545.htm" title="Basilique Notre-Dame de Ceignac">
+        <img alt="Basilique Notre-Dame de Ceignac" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/france/43851.htm" title="Abbatiale Sainte-Foy">
+        <img alt="Abbatiale Sainte-Foy" height="20" src="/images/c4d.gif" width="15"/>
+       </a>
+       <a href="../diocese/rode0.htm#74409" title="Bishop Luc Meyer (54)">
+        <img alt="Bishop Luc Meyer (54)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a class="link" href="http://rodez.catholique.fr" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="zbri0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/zbri0.htm">
+       Saint-Brieuc
+      </a>
+      (–
+      <a class="typet6" href="../former/treg0.htm">
+       Tréguier
+      </a>
+      )
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="FR-province.htm#zbri0">
+       Rennes
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/france/0192.htm" title="Basilique-Cathédrale Saint-Étienne">
+        <img alt="Basilique-Cathédrale Saint-Étienne" height="20" src="/images/c1ab.gif" width="19"/>
+       </a>
+       <a href="../../churches/france/0629.htm" title="Basilique Saint-Tugdual">
+        <img alt="Basilique Saint-Tugdual" height="20" src="/images/c1bb.gif" width="19"/>
+       </a>
+       <a href="../../churches/france/0265.htm" title="Basilique Notre-Dame d’Espérance">
+        <img alt="Basilique Notre-Dame d’Espérance" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/france/0257.htm" title="Basilique Notre-Dame de Bon-Secours">
+        <img alt="Basilique Notre-Dame de Bon-Secours" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/france/0523.htm" title="Basilique Notre-Dame de la Délivrance">
+        <img alt="Basilique Notre-Dame de la Délivrance" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/france/0735.htm" title="Basilique Saint-Sauveur">
+        <img alt="Basilique Saint-Sauveur" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/zbri0.htm#45820" title="Bishop Denis Moutel (71)">
+        <img alt="Bishop Denis Moutel (71)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../diocese/zbri0.htm#4727" title="Bishop Lucien Fruchaud (88)">
+        <img alt="Bishop Lucien Fruchaud (88)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://saintbrieuc-treguier.catholique.fr" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/diocese22" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="zcla0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/zcla0.htm">
+       Saint-Claude
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="FR-province.htm#zcla0">
+       Besançon
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/france/0688.htm" title="Basilique-Cathédrale Saint-Pierre-Saint-Paul-et-Saint-André">
+        <img alt="Basilique-Cathédrale Saint-Pierre-Saint-Paul-et-Saint-André" height="20" src="/images/c1ab.gif" width="19"/>
+       </a>
+       <a href="../../churches/france/0689.htm" title="Basilique Notre-Dame de Dole">
+        <img alt="Basilique Notre-Dame de Dole" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/zcla0.htm#70499" title="Bishop Jean-Luc Garin (53)">
+        <img alt="Bishop Jean-Luc Garin (53)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.eglisejura.com" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="zden0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/zden0.htm">
+       Saint-Denis
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="FR-province.htm#zden0">
+       Paris
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/france/3283.htm" title="Cathédrale Royale Saint-Denis">
+        <img alt="Cathédrale Royale Saint-Denis" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/zden0.htm#4626" title="Bishop Pascal Michel Ghislain Delannoy (66)">
+        <img alt="Bishop Pascal Michel Ghislain Delannoy (66)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a class="link" href="http://saint-denis.catholique.fr" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/InfoEglise93" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="zdie0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/zdie0.htm">
+       Saint-Dié
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="FR-province.htm#zdie0">
+       Besançon
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/france/3297.htm" title="Cathédrale Saint-Dié">
+        <img alt="Cathédrale Saint-Dié" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/france/0524.htm" title="Basilique Saint-Maurice">
+        <img alt="Basilique Saint-Maurice" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/france/0246.htm" title="Basilique Saint-Pierre Fourier">
+        <img alt="Basilique Saint-Pierre Fourier" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/france/0556.htm" title="Basilique Sainte-Jeanne-d’Arc">
+        <img alt="Basilique Sainte-Jeanne-d’Arc" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/zdie0.htm#60730" title="Bishop Didier Berthet (61)">
+        <img alt="Bishop Didier Berthet (61)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../diocese/zdie0.htm#4605" title="Bishop Paul-Marie Joseph André Guillaume (93)">
+        <img alt="Bishop Paul-Marie Joseph André Guillaume (93)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+       <a href="../diocese/zdie0.htm#4606" title="Bishop Jean-Paul Mathieu (82)">
+        <img alt="Bishop Jean-Paul Mathieu (82)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.catholique88.fr" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/cathos88" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+       <a class="linkf" href="https://www.facebook.com/diocesesaintdie" rel="nofollow" target="_blank" title="Facebook Page">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="zeti0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/zeti0.htm">
+       Saint-Étienne
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="FR-province.htm#zeti0">
+       Lyon
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/france/3365.htm" title="Cathédrale Saint-Charles Borromé">
+        <img alt="Cathédrale Saint-Charles Borromé" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/zeti0.htm#60696" title="Bishop Sylvain Bataille (58)">
+        <img alt="Bishop Sylvain Bataille (58)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.diocese-saintetienne.fr" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/DioceseStEtienn" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="zflo0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/zflo0.htm">
+       Saint-Flour
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="FR-province.htm#zflo0">
+       Clermont
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/france/1813.htm" title="Cathédrale Saint-Pierre-et-Saint-Flour">
+        <img alt="Cathédrale Saint-Pierre-et-Saint-Flour" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/france/0387.htm" title="Basilique Notre-Dame des Miracles">
+        <img alt="Basilique Notre-Dame des Miracles" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/zflo0.htm#72711" title="Bishop Didier Noblot (57)">
+        <img alt="Bishop Didier Noblot (57)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../diocese/zflo0.htm#8832" title="Bishop Bruno Grua (76)">
+        <img alt="Bishop Bruno Grua (76)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.diocese15.net" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/Diocese15" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="fran2">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s24.png"/>
+      <a class="typedioc" href="../diocese/fran2.htm">
+       Saint-Vladimir-le-Grand de Paris
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-U.htm">
+       Ukrainian
+      </a>
+     </td>
+     <td>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/france/3207.htm" title="Cathédrale Saint-Volodymyr-le-Grand">
+        <img alt="Cathédrale Saint-Volodymyr-le-Grand" height="20" src="/images/c2a.gif" width="17"/>
+       </a>
+       <a href="../diocese/grea1.htm#3730" title="Bishop Hlib Borys Sviatoslav Lonchyna, M.S.U. (69)">
+        <img alt="Bishop Hlib Borys Sviatoslav Lonchyna, M.S.U. (69)" height="20" src="/images/prelateB3.gif" width="16"/>
+       </a>
+       <a class="link" href="http://ugcc.fr" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkf" href="https://www.facebook.com/%C3%89parchie-de-Saint-Volodymyr-le-Grand-%C3%A0-Paris-494815347246637" rel="nofollow" target="_blank" title="Facebook Page">
+       </a>
+       Also covers
+       <a class="zcountry" href="BE.htm">
+        Belgium
+       </a>
+       <a href="BE.htm" title="Belgium">
+        <img alt="Belgium" class="flag" height="15" src="/images/flags/BE2.png" width="22"/>
+       </a>
+       ,
+       <a class="zcountry" href="LU.htm">
+        Luxembourg
+       </a>
+       <a href="LU.htm" title="Luxembourg">
+        <img alt="Luxembourg" class="flag" height="13" src="/images/flags/LU2.png" width="22"/>
+       </a>
+       ,
+       <a class="zcountry" href="NL.htm">
+        Netherlands
+       </a>
+       <a href="NL.htm" title="Netherlands">
+        <img alt="Netherlands" class="flag" height="15" src="/images/flags/NL2.png" width="22"/>
+       </a>
+       ,
+       <a class="zcountry" href="CH.htm">
+        Switzerland
+       </a>
+       <a href="CH.htm" title="Switzerland">
+        <img alt="Switzerland" class="flag" height="20" src="/images/flags/CH2.png" width="20"/>
+       </a>
+       .
+      </span>
+     </td>
+    </tr>
+    <tr id="zcro0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s24.png"/>
+      <a class="typedioc" href="../diocese/zcro0.htm">
+       Sainte-Croix-de-Paris
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-A.htm">
+       Armenian
+      </a>
+     </td>
+     <td>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/france/3313.htm" title="Cathédrale Sainte-Croix-de-Paris">
+        <img alt="Cathédrale Sainte-Croix-de-Paris" height="20" src="/images/c2a.gif" width="17"/>
+       </a>
+       <a href="../diocese/zcro0.htm#62109" title="Bishop Elie Yéghia Yéghiayan (73)">
+        <img alt="Bishop Elie Yéghia Yéghiayan (73)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../diocese/zcro0.htm#3280" title="Bishop Jean Teyrouz, I.C.P.B. (82)">
+        <img alt="Bishop Jean Teyrouz, I.C.P.B. (82)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="sees0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/sees0.htm">
+       Séez
+      </a>
+      /
+      <a class="typedioc" href="../diocese/sees0.htm">
+       Sées
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="FR-province.htm#sees0">
+       Rouen
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/france/0176.htm" title="Basilique-Cathédrale Notre-Dame">
+        <img alt="Basilique-Cathédrale Notre-Dame" height="20" src="/images/c1ab.gif" width="19"/>
+       </a>
+       <a href="../../churches/france/4935.htm" title="Basilique Notre-Dame d’Alençon">
+        <img alt="Basilique Notre-Dame d’Alençon" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/france/0264.htm" title="Basilique Notre-Dame de l’Immaculée-Conception">
+        <img alt="Basilique Notre-Dame de l’Immaculée-Conception" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/france/0474.htm" title="Basilique Notre-Dame Libératrice de Montligeon">
+        <img alt="Basilique Notre-Dame Libératrice de Montligeon" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/sees0.htm#54302" title="Bishop Bruno Feillet (63)">
+        <img alt="Bishop Bruno Feillet (63)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.orne.catholique.fr" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="sois0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/sois0.htm">
+       Soissons
+      </a>
+      (–
+      <a class="typet6" href="../former/laon0.htm">
+       Laon
+      </a>
+      –
+      <a class="typet6" href="../former/zque0.htm">
+       Saint-Quentin
+      </a>
+      )
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="FR-province.htm#sois0">
+       Reims
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/france/0162.htm" title="Basilique-Cathédrale Saint-Gervais-et-Saint-Protais">
+        <img alt="Basilique-Cathédrale Saint-Gervais-et-Saint-Protais" height="20" src="/images/c1ab.gif" width="19"/>
+       </a>
+       <a href="../../churches/france/3267.htm" title="Ancienne cathédrale Notre-Dame">
+        <img alt="Ancienne cathédrale Notre-Dame" height="20" src="/images/c1b.gif" width="17"/>
+       </a>
+       <a href="../../churches/france/0324.htm" title="Basilique Notre-Dame de Liesse">
+        <img alt="Basilique Notre-Dame de Liesse" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/france/0196.htm" title="Basilique Saint-Quentin">
+        <img alt="Basilique Saint-Quentin" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/sois0.htm#24098" title="Bishop Renauld Dupont de Dinechin (65)">
+        <img alt="Bishop Renauld Dupont de Dinechin (65)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.soissons.catholique.fr" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="tarb0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/tarb0.htm">
+       Tarbes et Lourdes
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="FR-province.htm#tarb0">
+       Toulouse
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/france/3259.htm" title="Cathédrale Notre-Dame de la Sède">
+        <img alt="Cathédrale Notre-Dame de la Sède" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/france/0179.htm" title="Basilique Notre-Dame de l’Immaculée-Conception">
+        <img alt="Basilique Notre-Dame de l’Immaculée-Conception" height="20" src="/images/c3db.gif" width="19"/>
+       </a>
+       <a href="../../churches/france/0455.htm" title="Basilique Notre-Dame du Rosaire">
+        <img alt="Basilique Notre-Dame du Rosaire" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/france/0818.htm" title="Basilique souterraine Saint-Pie X">
+        <img alt="Basilique souterraine Saint-Pie X" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/tarb0.htm#74206" title="Bishop Jean-Marc Micas, P.S.S. (59)">
+        <img alt="Bishop Jean-Marc Micas, P.S.S. (59)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../diocese/dijo0.htm#61248" title="Archbishop Antoine Hérouard (66)">
+        <img alt="Archbishop Antoine Hérouard (66)" height="20" src="/images/prelateA3.gif" width="16"/>
+       </a>
+       <a href="../diocese/tarb0.htm#4751" title="Bishop Jacques Jean Joseph Jules Perrier (86)">
+        <img alt="Bishop Jacques Jean Joseph Jules Perrier (86)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.catholique65.fr" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/catholique65" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+       <a class="linkf" href="https://www.facebook.com/catholique65" rel="nofollow" target="_blank" title="Facebook Page">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="troy0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/troy0.htm">
+       Troyes
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="FR-province.htm#troy0">
+       Reims
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/france/1822.htm" title="Cathédrale Saint-Pierre-et-Saint-Paul">
+        <img alt="Cathédrale Saint-Pierre-et-Saint-Paul" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/france/0922.htm" title="Basilique Saint-Urbain">
+        <img alt="Basilique Saint-Urbain" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/troy0.htm#62361" title="Bishop Alexandre Joly (51)">
+        <img alt="Bishop Alexandre Joly (51)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../diocese/troy0.htm#4716" title="Bishop Marc Camille Michel Stenger (76)">
+        <img alt="Bishop Marc Camille Michel Stenger (76)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.cathotroyes.fr" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/diocesedetroyes" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+       <a class="linkf" href="https://www.facebook.com/diocesedelaube" rel="nofollow" target="_blank" title="Facebook Page">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="tull0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/tull0.htm">
+       Tulle
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="FR-province.htm#tull0">
+       Poitiers
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/france/3309.htm" title="Cathédrale Notre-Dame et Saint-Martin">
+        <img alt="Cathédrale Notre-Dame et Saint-Martin" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/tull0.htm#55028" title="Bishop Francis Victor Bestion (66)">
+        <img alt="Bishop Francis Victor Bestion (66)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../diocese/tull0.htm#4699" title="Bishop Bernard Louis Marie Charrier (84)">
+        <img alt="Bishop Bernard Louis Marie Charrier (84)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.correze.catholique.fr" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/CorrezeCatho" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+       <a class="linkf" href="https://www.facebook.com/eglisecatholiqueencorreze" rel="nofollow" target="_blank" title="Facebook Page">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="vale3">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/vale3.htm">
+       Valence
+      </a>
+      (–
+      <a class="typet6" href="../former/diez0.htm">
+       Die
+      </a>
+      –
+      <a class="typet6" href="../former/zpau3.htm">
+       Saint-Paul-Trois-Châteaux
+      </a>
+      )
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="FR-province.htm#vale3">
+       Lyon
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/france/0151.htm" title="Basilique-Cathédrale Saint-Apollinaire">
+        <img alt="Basilique-Cathédrale Saint-Apollinaire" height="20" src="/images/c1ab.gif" width="19"/>
+       </a>
+       <a href="../../churches/france/3372.htm" title="Ancienne cathédrale Notre-Dame">
+        <img alt="Ancienne cathédrale Notre-Dame" height="20" src="/images/c1b.gif" width="17"/>
+       </a>
+       <a href="../../churches/france/3339.htm" title="Ancienne cathédrale Notre-Dame et Saint-Paul">
+        <img alt="Ancienne cathédrale Notre-Dame et Saint-Paul" height="20" src="/images/c1b.gif" width="17"/>
+       </a>
+       <a href="../../churches/france/0550.htm" title="Basilique Notre-Dame d’Aiguebelle">
+        <img alt="Basilique Notre-Dame d’Aiguebelle" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/france/0256.htm" title="Basilique Sainte-Anne">
+        <img alt="Basilique Sainte-Anne" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a class="link" href="http://valence.cef.fr" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <span class="znote">
+        United
+        <i>
+         æque principaliter
+        </i>
+        with
+        <a class="typet6" href="../former/diez0.htm">
+         Die
+        </a>
+        1275–1692.07.07
+       </span>
+      </span>
+     </td>
+    </tr>
+    <tr id="vann1">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/vann1.htm">
+       Vannes
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="FR-province.htm#vann1">
+       Rennes
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/france/0216.htm" title="Basilique-Cathédrale Saint-Pierre">
+        <img alt="Basilique-Cathédrale Saint-Pierre" height="20" src="/images/c1ab.gif" width="19"/>
+       </a>
+       <a href="../../churches/france/0830.htm" title="Basilique Notre-Dame-de-la-Joie">
+        <img alt="Basilique Notre-Dame-de-la-Joie" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/france/0325.htm" title="Basilique Notre-Dame du Paradis">
+        <img alt="Basilique Notre-Dame du Paradis" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/france/0229.htm" title="Basilique Notre-Dame du Roncier">
+        <img alt="Basilique Notre-Dame du Roncier" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/france/0181.htm" title="Basilique Sainte-Anne d’Auray">
+        <img alt="Basilique Sainte-Anne d’Auray" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/vann1.htm#4728" title="Bishop Raymond Centène (65)">
+        <img alt="Bishop Raymond Centène (65)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.vannes.catholique.fr" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="verd0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/verd0.htm">
+       Verdun
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="FR-province.htm#verd0">
+       Besançon
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/france/0631.htm" title="Basilique-Cathédrale Notre-Dame">
+        <img alt="Basilique-Cathédrale Notre-Dame" height="20" src="/images/c1ab.gif" width="19"/>
+       </a>
+       <a href="../../churches/france/1302.htm" title="Basilique Notre-Dame d’Avioth">
+        <img alt="Basilique Notre-Dame d’Avioth" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/verd0.htm#56849" title="Bishop Jean-Paul Gusching (67)">
+        <img alt="Bishop Jean-Paul Gusching (67)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../diocese/verd0.htm#4604" title="Bishop François-Paul-Marie Maupu (83)">
+        <img alt="Bishop François-Paul-Marie Maupu (83)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://catholique-verdun.cef.fr" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="vers0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/vers0.htm">
+       Versailles
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="FR-province.htm#vers0">
+       Paris
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/france/3282.htm" title="Cathédrale Saint-Louis">
+        <img alt="Cathédrale Saint-Louis" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/vers0.htm#59102" title="Bishop Luc Crepy, C.I.M. (65)">
+        <img alt="Bishop Luc Crepy, C.I.M. (65)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../diocese/vers0.htm#4689" title="Bishop Jean-Charles Thomas (93)">
+        <img alt="Bishop Jean-Charles Thomas (93)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+       <a href="../diocese/vers0.htm#4691" title="Bishop Éric Marie Pierre Henri Aumonier (77)">
+        <img alt="Bishop Éric Marie Pierre Henri Aumonier (77)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.catholique78.fr" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="vivi0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/vivi0.htm">
+       Viviers
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="FR-province.htm#vivi0">
+       Lyon
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/france/3311.htm" title="Cathédrale Saint-Vincent">
+        <img alt="Cathédrale Saint-Vincent" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/france/0502.htm" title="Basilique Notre-Dame de Bon-Secours">
+        <img alt="Basilique Notre-Dame de Bon-Secours" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/france/0223.htm" title="Basilique Saint-Jean-François Régis">
+        <img alt="Basilique Saint-Jean-François Régis" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/vivi0.htm#59704" title="Bishop Jean-Louis Balsa (66)">
+        <img alt="Bishop Jean-Louis Balsa (66)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../diocese/vivi0.htm#4648" title="Bishop François-Marie-Joseph Blondel (83)">
+        <img alt="Bishop François-Marie-Joseph Blondel (83)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://ardeche.catholique.fr" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="miss0">
+     <td>
+      <img alt="Territorial Prelature" height="20" src="/images/map/s05.png"/>
+      <a class="typeprel" href="../diocese/miss0.htm">
+       Mission de France
+      </a>
+      /
+      <a class="typeprel" href="../diocese/miss0.htm">
+       Pontigny
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="FR-province.htm#miss0">
+       Dijon
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/france/3312.htm" title="Cathédrale-abbatiale de Notre-Dame-de-l’Assomption">
+        <img alt="Cathédrale-abbatiale de Notre-Dame-de-l’Assomption" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/sens0.htm#4639" title="Archbishop Hervé Jean Robert Giraud (66)">
+        <img alt="Archbishop Hervé Jean Robert Giraud (66)" height="20" src="/images/prelateA1.gif" width="22"/>
+       </a>
+       <a href="../diocese/sens0.htm#4636" title="Archbishop Georges Edmond Robert Gilson (94)">
+        <img alt="Archbishop Georges Edmond Robert Gilson (94)" height="20" src="/images/prelateA2.gif" width="22"/>
+       </a>
+       <a href="../diocese/sens0.htm#4634" title="Archbishop Yves François Patenôtre (83)">
+        <img alt="Archbishop Yves François Patenôtre (83)" height="20" src="/images/prelateA2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://missiondefrance.fr" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/missiondefrance" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="fran1">
+     <td>
+      <img alt="Ordinariate" height="20" src="/images/map/s30.png"/>
+      <a class="typeordi" href="../diocese/fran1.htm">
+       Ordinariat des catholiques de rite oriental résidant en France
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-Or.htm">
+       Eastern
+      </a>
+     </td>
+     <td>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../diocese/fran1.htm#4642" title="Archbishop Laurent Bernard Marie Ulrich (71)">
+        <img alt="Archbishop Laurent Bernard Marie Ulrich (71)" height="20" src="/images/prelateA1.gif" width="22"/>
+       </a>
+       <a href="../../hierarchy/data/cardB16-2.htm#4603" title="Cardinal André Armand Vingt-Trois (80)">
+        <img alt="Cardinal André Armand Vingt-Trois (80)" height="20" src="/images/prelateC2.gif" width="22"/>
+       </a>
+       <a href="../diocese/pari0.htm#51927" title="Archbishop Michel Christian Alain Aupetit (72)">
+        <img alt="Archbishop Michel Christian Alain Aupetit (72)" height="20" src="/images/prelateA2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.ordinariat.fr" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="fran3">
+     <td>
+      <img alt="Military Ordinariate" height="20" src="/images/map/s09.png"/>
+      <a class="typemltr" href="../diocese/fran3.htm">
+       Diocèse aux Armées Françaises
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/france/1761.htm" title="Cathédrale Saint-Louis des Invalides">
+        <img alt="Cathédrale Saint-Louis des Invalides" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/fran3.htm#61493" title="Bishop Antoine de Romanet de Beaune (60)">
+        <img alt="Bishop Antoine de Romanet de Beaune (60)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a class="link" href="http://dioceseauxarmees.fr" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/diocese_armees" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+      </span>
+     </td>
+    </tr>
+   </table>
+  </div>
+  <div class="separator">
+  </div>
+  <a name="titular">
+  </a>
+  <div class="entries">
+   <p>
+    <span class="label">
+     <span class="em">
+      Titular Metropolitan Sees
+     </span>
+     <span class="zstat">
+      (1 united)
+     </span>
+     :
+    </span>
+    <a class="typet2" href="../former/arle0.htm">
+     Arles
+    </a>
+    <span class="znote">
+     (united)
+    </span>
+   </p>
+  </div>
+  <div class="entries">
+   <p>
+    <span class="label">
+     <span class="em">
+      Titular Episcopal Sees
+     </span>
+     <span class="zstat">
+      (18, 41 united)
+     </span>
+     :
+    </span>
+    <a class="typet6" href="../former/t0030.htm">
+     Accia
+    </a>
+    ,
+    <a class="typet6" href="../former/agde0.htm">
+     Agde
+    </a>
+    <span class="znote">
+     (united)
+    </span>
+    ,
+    <a class="typet6" href="../former/t2058.htm">
+     Aléria
+    </a>
+    ,
+    <a class="typet6" href="../former/ales2.htm">
+     Alès
+    </a>
+    <span class="znote">
+     (united)
+    </span>
+    ,
+    <a class="typet6" href="../former/t2069.htm">
+     Alet
+    </a>
+    ,
+    <a class="typet6" href="../former/t2065.htm">
+     Apt
+    </a>
+    ,
+    <a class="typet6" href="../former/t2077.htm">
+     Arisitum
+    </a>
+    ,
+    <a class="typet6" href="../former/auxe0.htm">
+     Auxerre
+    </a>
+    <span class="znote">
+     (united)
+    </span>
+    ,
+    <a class="typet6" href="../former/avra0.htm">
+     Avranches
+    </a>
+    <span class="znote">
+     (united)
+    </span>
+    ,
+    <a class="typet6" href="../former/baza0.htm">
+     Bazas
+    </a>
+    <span class="znote">
+     (united)
+    </span>
+    ,
+    <a class="typet6" href="../former/bezi0.htm">
+     Béziers
+    </a>
+    <span class="znote">
+     (united)
+    </span>
+    ,
+    <a class="typet6" href="../former/boul0.htm">
+     Boulogne
+    </a>
+    <span class="znote">
+     (united)
+    </span>
+    ,
+    <a class="typet6" href="../former/t2075.htm">
+     Briançonnet
+    </a>
+    ,
+    <a class="typet6" href="../former/t2066.htm">
+     Carpentras
+    </a>
+    ,
+    <a class="typet6" href="../former/cast5.htm">
+     Castres
+    </a>
+    <span class="znote">
+     (united)
+    </span>
+    ,
+    <a class="typet6" href="../former/t2064.htm">
+     Cavaillon
+    </a>
+    ,
+    <a class="typet6" href="../former/chal3.htm">
+     Châlon-sur-Saône
+    </a>
+    <span class="znote">
+     (united)
+    </span>
+    ,
+    <a class="typet6" href="../former/cond0.htm">
+     Condom
+    </a>
+    <span class="znote">
+     (united)
+    </span>
+    ,
+    <a class="typet6" href="../former/cous0.htm">
+     Couserans
+    </a>
+    <span class="znote">
+     (united)
+    </span>
+    ,
+    <a class="typet6" href="../former/diez0.htm">
+     Die
+    </a>
+    <span class="znote">
+     (united)
+    </span>
+    ,
+    <a class="typet6" href="../former/dolz0.htm">
+     Dol
+    </a>
+    <span class="znote">
+     (united)
+    </span>
+    ,
+    <a class="typet6" href="../former/t2076.htm">
+     Entrevaux
+    </a>
+    ,
+    <a class="typet6" href="../former/laon0.htm">
+     Laon
+    </a>
+    <span class="znote">
+     (united)
+    </span>
+    ,
+    <a class="typet6" href="../former/lava0.htm">
+     Lavaur
+    </a>
+    <span class="znote">
+     (united)
+    </span>
+    ,
+    <a class="typet6" href="../former/lect0.htm">
+     Lectoure
+    </a>
+    <span class="znote">
+     (united)
+    </span>
+    ,
+    <a class="typet6" href="../former/leon3.htm">
+     Léon
+    </a>
+    <span class="znote">
+     (united)
+    </span>
+    ,
+    <a class="typet6" href="../former/lesc1.htm">
+     Lescar
+    </a>
+    <span class="znote">
+     (united)
+    </span>
+    ,
+    <a class="typet6" href="../former/lisi0.htm">
+     Lisieux
+    </a>
+    <span class="znote">
+     (united)
+    </span>
+    ,
+    <a class="typet6" href="../former/lode0.htm">
+     Lodève
+    </a>
+    <span class="znote">
+     (united)
+    </span>
+    ,
+    <a class="typet6" href="../former/lomb0.htm">
+     Lombez
+    </a>
+    <span class="znote">
+     (united)
+    </span>
+    ,
+    <a class="typet6" href="../former/maco0.htm">
+     Mâcon
+    </a>
+    <span class="znote">
+     (united)
+    </span>
+    ,
+    <a class="typet6" href="../former/t2070.htm">
+     Maillezais
+    </a>
+    ,
+    <a class="typet6" href="../former/t2060.htm">
+     Mariana en Corse
+    </a>
+    ,
+    <a class="typet6" href="../former/mire0.htm">
+     Mirepoix
+    </a>
+    <span class="znote">
+     (united)
+    </span>
+    ,
+    <a class="typet6" href="../former/t2061.htm">
+     Nebbio
+    </a>
+    ,
+    <a class="typet6" href="../former/noyo0.htm">
+     Noyon
+    </a>
+    <span class="znote">
+     (united)
+    </span>
+    ,
+    <a class="typet6" href="../former/olor0.htm">
+     Oloron
+    </a>
+    <span class="znote">
+     (united)
+    </span>
+    ,
+    <a class="typet6" href="../former/t2067.htm">
+     Orange
+    </a>
+    ,
+    <a class="typet6" href="../former/rieu0.htm">
+     Rieux
+    </a>
+    <span class="znote">
+     (united)
+    </span>
+    ,
+    <a class="typet6" href="../former/riez0.htm">
+     Riez
+    </a>
+    <span class="znote">
+     (united)
+    </span>
+    ,
+    <a class="typet6" href="../former/t2062.htm">
+     Sagone
+    </a>
+    ,
+    <a class="typet6" href="../former/zber2.htm">
+     Saint-Bertrand-de-Comminges
+    </a>
+    <span class="znote">
+     (united)
+    </span>
+    ,
+    <a class="typet6" href="../former/zmal0.htm">
+     Saint-Malo
+    </a>
+    <span class="znote">
+     (united)
+    </span>
+    ,
+    <a class="typet6" href="../former/zome0.htm">
+     Saint-Omer
+    </a>
+    <span class="znote">
+     (united)
+    </span>
+    ,
+    <a class="typet6" href="../former/t2073.htm">
+     Saint-Papoul
+    </a>
+    ,
+    <a class="typet6" href="../former/zpau3.htm">
+     Saint-Paul-Trois-Châteaux
+    </a>
+    <span class="znote">
+     (united)
+    </span>
+    ,
+    <a class="typet6" href="../former/zpon0.htm">
+     Saint-Pons-de-Thomières
+    </a>
+    <span class="znote">
+     (united)
+    </span>
+    ,
+    <a class="typet6" href="../former/zque0.htm">
+     Saint-Quentin
+    </a>
+    <span class="znote">
+     (united)
+    </span>
+    ,
+    <a class="typet6" href="../former/sain0.htm">
+     Saintes
+    </a>
+    <span class="znote">
+     (united)
+    </span>
+    ,
+    <a class="typet6" href="../former/sarl0.htm">
+     Sarlat
+    </a>
+    <span class="znote">
+     (united)
+    </span>
+    ,
+    <a class="typet6" href="../former/t2071.htm">
+     Senez
+    </a>
+    ,
+    <a class="typet6" href="../former/senl0.htm">
+     Senlis
+    </a>
+    <span class="znote">
+     (united)
+    </span>
+    ,
+    <a class="typet6" href="../former/sist0.htm">
+     Sisteron
+    </a>
+    <span class="znote">
+     (united)
+    </span>
+    ,
+    <a class="typet6" href="../former/t2074.htm">
+     Thérouanne
+    </a>
+    ,
+    <a class="typet6" href="../former/toul1.htm">
+     Toul
+    </a>
+    <span class="znote">
+     (united)
+    </span>
+    ,
+    <a class="typet6" href="../former/treg0.htm">
+     Tréguier
+    </a>
+    <span class="znote">
+     (united)
+    </span>
+    ,
+    <a class="typet6" href="../former/uzes0.htm">
+     Uzès
+    </a>
+    <span class="znote">
+     (united)
+    </span>
+    ,
+    <a class="typet6" href="../former/vabr0.htm">
+     Vabres
+    </a>
+    <span class="znote">
+     (united)
+    </span>
+    ,
+    <a class="typet6" href="../former/t2068.htm">
+     Vaison
+    </a>
+   </p>
+  </div>
+  <div class="entries">
+   <p>
+    <span class="label">
+     <span class="em">
+      Titular Abbacies
+     </span>
+     <span class="zstat">
+      (1 united)
+     </span>
+     :
+    </span>
+    <a class="typet8" href="../former/clun0.htm">
+     Cluny
+    </a>
+    <span class="znote">
+     (united)
+    </span>
+   </p>
+  </div>
+  <p class="asof">
+   Last updated on 2023.06.11
+  </p>
+  <p class="copy" id="end">
+   © 2023 GCatholic.org
+  </p>
+  <table width="100%">
+   <tr>
+    <td align="left" width="50%">
+    </td>
+    <td valign="bottom" width="50%">
+     <p align="right">
+      <a href="FR.htm" title="Up">
+       <img alt="Up" height="30" src="/images/nav-up.png" width="50"/>
+      </a>
+     </p>
+    </td>
+   </tr>
+  </table>
+  <script src="/menu/footer.js">
+  </script>
+ </body>
+</html>

@@ -1,0 +1,2379 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <title>
+   Catholic Dioceses in Poland (by Type)
+  </title>
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+  <meta content="Sun, 18 Jun 2023 16:00:00 GMT" http-equiv="EXPIRES"/>
+  <meta content="IE=Edge" http-equiv="X-UA-Compatible">
+   <link href="/css/gcatholic.css?15" rel="stylesheet" type="text/css"/>
+   <script src="/menu/menu2.js?d">
+   </script>
+   <link href="http://www.gcatholic.org/dioceses/country/PL-type.htm" rel="canonical"/>
+  </meta>
+ </head>
+ <body alink="#008040" link="#408040" vlink="#387038">
+  <script src="/menu/header.js?23">
+  </script>
+  <table class="hd">
+   <tr>
+    <td width="150">
+    </td>
+    <td>
+     <h1>
+      Catholic Dioceses
+     </h1>
+     <h3>
+      in
+     </h3>
+     <h2>
+      Republic of Poland (Poland)
+     </h2>
+    </td>
+    <td align="right" width="150">
+     <a href="PL.htm" title="Poland">
+      <img alt="Poland" class="flag" height="80" src="/images/flags/PL.png" width="128"/>
+     </a>
+    </td>
+   </tr>
+  </table>
+  <div align="center" class="nav">
+   <table cellspacing="0">
+    <tr class="tr">
+     <td class="t">
+      by Type
+     </td>
+     <td>
+      <a href="PL-name.htm">
+       by Name
+      </a>
+     </td>
+     <td>
+      <a href="PL-province.htm">
+       by Ecclesiastical Province
+      </a>
+     </td>
+     <td>
+      <a href="PL-former.htm">
+       Former Jurisdictions
+      </a>
+     </td>
+    </tr>
+   </table>
+  </div>
+  <div align="center">
+   <table class="tb" width="90%">
+    <tr id="bial0">
+     <td>
+      <img alt="Metr. Archdiocese" height="20" src="/images/map/s02.png"/>
+      <a class="typemetr" href="../diocese/bial0.htm">
+       Białystok
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="PL-province.htm#bial0">
+       Białystok
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/poland/3338.htm" title="Bazylika Archikatedralna Wniebowzięcia NMP">
+        <img alt="Bazylika Archikatedralna Wniebowzięcia NMP" height="20" src="/images/c1ab.gif" width="19"/>
+       </a>
+       <a href="../../churches/poland/1203.htm" title="Bazylika Ofiarowania NMP">
+        <img alt="Bazylika Ofiarowania NMP" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/poland/6385.htm" title="Bazylika św. Rocha">
+        <img alt="Bazylika św. Rocha" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/bial0.htm#3907" title="Archbishop Józef Guzdek (67)">
+        <img alt="Archbishop Józef Guzdek (67)" height="20" src="/images/prelateA1.gif" width="22"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-CI.htm#51729" title="Bishop Henryk Ciereszko (67)">
+        <img alt="Bishop Henryk Ciereszko (67)" height="20" src="/images/prelateB3.gif" width="16"/>
+       </a>
+       <a href="../diocese/bial0.htm#3859" title="Archbishop Edward Ozorowski (82)">
+        <img alt="Archbishop Edward Ozorowski (82)" height="20" src="/images/prelateA2.gif" width="22"/>
+       </a>
+       <a href="../diocese/bial0.htm#3858" title="Archbishop Stanisław Szymecki (99)">
+        <img alt="Archbishop Stanisław Szymecki (99)" height="20" src="/images/prelateA2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://archibial.pl" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="czes0">
+     <td>
+      <img alt="Metr. Archdiocese" height="20" src="/images/map/s02.png"/>
+      <a class="typemetr" href="../diocese/czes0.htm">
+       Częstochowa
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="PL-province.htm#czes0">
+       Częstochowa
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/poland/0885.htm" title="Bazylika Archikatedralna Sanktuarium Świętej Rodziny">
+        <img alt="Bazylika Archikatedralna Sanktuarium Świętej Rodziny" height="20" src="/images/c1ab.gif" width="19"/>
+       </a>
+       <a href="../../churches/poland/0286.htm" title="Bazylika Jasnogórska Wniebowzięcia NMP">
+        <img alt="Bazylika Jasnogórska Wniebowzięcia NMP" height="20" src="/images/c3db.gif" width="19"/>
+       </a>
+       <a href="../../churches/poland/4989.htm" title="Bazylika św. Apostołów Piotra i Pawła">
+        <img alt="Bazylika św. Apostołów Piotra i Pawła" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/poland/1376.htm" title="Bazylika Wniebowzięcia NMP">
+        <img alt="Bazylika Wniebowzięcia NMP" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/czes0.htm#10172" title="Archbishop Wacław Tomasz Depo (69)">
+        <img alt="Archbishop Wacław Tomasz Depo (69)" height="20" src="/images/prelateA1.gif" width="22"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-PR.htm#61455" title="Bishop Andrzej Przybylski (58)">
+        <img alt="Bishop Andrzej Przybylski (58)" height="20" src="/images/prelateB3.gif" width="16"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-DI.htm#3861" title="Bishop Antoni Józef Długosz (82)">
+        <img alt="Bishop Antoni Józef Długosz (82)" height="20" src="/images/prelateB4.gif" width="16"/>
+       </a>
+       <a class="link" href="http://archiczest.pl" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="gdan0">
+     <td>
+      <img alt="Metr. Archdiocese" height="20" src="/images/map/s02.png"/>
+      <a class="typemetr" href="../diocese/gdan0.htm">
+       Gdańsk
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="PL-province.htm#gdan0">
+       Gdańsk
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/poland/1079.htm" title="Bazylika Archikatedralna Świętej Trójcy, Wniebowzięcia NMP i św. Bernarda">
+        <img alt="Bazylika Archikatedralna Świętej Trójcy, Wniebowzięcia NMP i św. Bernarda" height="20" src="/images/c1ab.gif" width="19"/>
+       </a>
+       <a href="../../churches/poland/0959.htm" title="Bazylika Konkatedralna Wniebowzięcia NMP (Mariacka)">
+        <img alt="Bazylika Konkatedralna Wniebowzięcia NMP (Mariacka)" height="20" src="/images/c1cb.gif" width="19"/>
+       </a>
+       <a href="../../churches/poland/6399.htm" title="Bazylika NMP Królowej Polski">
+        <img alt="Bazylika NMP Królowej Polski" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/poland/1274.htm" title="Bazylika św. Brygidy">
+        <img alt="Bazylika św. Brygidy" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/poland/0477.htm" title="Bazylika św. Mikołaja">
+        <img alt="Bazylika św. Mikołaja" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/gdan0.htm#50448" title="Archbishop Tadeusz Wojda, S.A.C. (66)">
+        <img alt="Archbishop Tadeusz Wojda, S.A.C. (66)" height="20" src="/images/prelateA1.gif" width="22"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-SU.htm#55036" title="Bishop Wiesław Szlachetka (63)">
+        <img alt="Bishop Wiesław Szlachetka (63)" height="20" src="/images/prelateB3.gif" width="16"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-PR.htm#74407" title="Bishop Piotr Przyborek (46)">
+        <img alt="Bishop Piotr Przyborek (46)" height="20" src="/images/prelateB3.gif" width="16"/>
+       </a>
+       <a href="../diocese/gdan0.htm#3969" title="Archbishop Sławoj Leszek Głódź (77)">
+        <img alt="Archbishop Sławoj Leszek Głódź (77)" height="20" src="/images/prelateA2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.diecezja.gda.pl" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="gnie0">
+     <td>
+      <img alt="Metr. Archdiocese" height="20" src="/images/map/s02.png"/>
+      <a class="typemetr" href="../diocese/gnie0.htm">
+       Gniezno
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="PL-province.htm#gnie0">
+       Gniezno
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/poland/0508.htm" title="Bazylika Archikatedralna Wniebowzięcia NMP i św. Wojciecha">
+        <img alt="Bazylika Archikatedralna Wniebowzięcia NMP i św. Wojciecha" height="20" src="/images/c1ab.gif" width="19"/>
+       </a>
+       <a href="../../churches/poland/1003.htm" title="Bazylika św. Apostołów Piotra i Pawła">
+        <img alt="Bazylika św. Apostołów Piotra i Pawła" height="20" src="/images/c1bb.gif" width="19"/>
+       </a>
+       <a href="../../churches/poland/4870.htm" title="Bazylika Imienia NMP">
+        <img alt="Bazylika Imienia NMP" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/poland/6203.htm" title="Bazylika Matki Bożej Królowej Miłości i Pokoju Pani Kujaw">
+        <img alt="Bazylika Matki Bożej Królowej Miłości i Pokoju Pani Kujaw" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/poland/0999.htm" title="Bazylika Wniebowzięcia NMP">
+        <img alt="Bazylika Wniebowzięcia NMP" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/gnie0.htm#3885" title="Archbishop Wojciech Polak (58)">
+        <img alt="Archbishop Wojciech Polak (58)" height="20" src="/images/prelateA1.gif" width="22"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-OL.htm#74088" title="Bishop Radosław Orchowicz (53)">
+        <img alt="Bishop Radosław Orchowicz (53)" height="20" src="/images/prelateB3.gif" width="16"/>
+       </a>
+       <a href="../diocese/gnie0.htm#3886" title="Archbishop Henryk Józef Muszyński (90)">
+        <img alt="Archbishop Henryk Józef Muszyński (90)" height="20" src="/images/prelateA2.gif" width="22"/>
+       </a>
+       <a href="../diocese/gnie0.htm#6867" title="Archbishop Józef Kowalczyk (84)">
+        <img alt="Archbishop Józef Kowalczyk (84)" height="20" src="/images/prelateA2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.archidiecezja.pl" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <span class="znote">
+        United
+        <i>
+         æque principaliter
+        </i>
+        with
+        <a class="typemetr" href="../diocese/pozn0.htm">
+         Poznań
+        </a>
+        1821.07.16–1948.11.12
+       </span>
+      </span>
+     </td>
+    </tr>
+    <tr id="kato0">
+     <td>
+      <img alt="Metr. Archdiocese" height="20" src="/images/map/s02.png"/>
+      <a class="typemetr" href="../diocese/kato0.htm">
+       Katowice
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="PL-province.htm#kato0">
+       Katowice
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/poland/3310.htm" title="Archikatedra Chrystusa Króla">
+        <img alt="Archikatedra Chrystusa Króla" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/poland/6118.htm" title="Cerkiew św. Apostołów Piotra i Pawła">
+        <img alt="Cerkiew św. Apostołów Piotra i Pawła" height="20" src="/images/c1b.gif" width="17"/>
+       </a>
+       <a href="../../churches/poland/1348.htm" title="Bazylika Narodzenia NMP">
+        <img alt="Bazylika Narodzenia NMP" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/poland/0899.htm" title="Bazylika NMP i św. Bartłomieja Apostoła">
+        <img alt="Bazylika NMP i św. Bartłomieja Apostoła" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/poland/1306.htm" title="Bazylika św. Antoniego Padewskiego">
+        <img alt="Bazylika św. Antoniego Padewskiego" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/poland/1067.htm" title="Bazylika św. Ludwika Króla i Wniebowzięcia NMP">
+        <img alt="Bazylika św. Ludwika Króla i Wniebowzięcia NMP" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/poland/6068.htm" title="Bazylika św. Szczepana i Matki Boskiej Boguckiej">
+        <img alt="Bazylika św. Szczepana i Matki Boskiej Boguckiej" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/poland/4871.htm" title="Bazylika św. Wojciecha">
+        <img alt="Bazylika św. Wojciecha" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/kato0.htm#63535" title="Archbishop Adrian Józef Galbas, S.A.C. (55)">
+        <img alt="Archbishop Adrian Józef Galbas, S.A.C. (55)" height="20" src="/images/prelateA1.gif" width="22"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-SU.htm#57447" title="Bishop Marek Szkudło (71)">
+        <img alt="Bishop Marek Szkudło (71)" height="20" src="/images/prelateB3.gif" width="16"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-WO.htm#57448" title="Bishop Adam Wodarczyk (55)">
+        <img alt="Bishop Adam Wodarczyk (55)" height="20" src="/images/prelateB3.gif" width="16"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-OL.htm#62101" title="Bishop Grzegorz Olszowski (56)">
+        <img alt="Bishop Grzegorz Olszowski (56)" height="20" src="/images/prelateB3.gif" width="16"/>
+       </a>
+       <a href="../diocese/kato0.htm#3892" title="Archbishop Damian Zimoń (88)">
+        <img alt="Archbishop Damian Zimoń (88)" height="20" src="/images/prelateA2.gif" width="22"/>
+       </a>
+       <a href="../diocese/kato0.htm#3900" title="Archbishop Wiktor Paweł Skworc (75)">
+        <img alt="Archbishop Wiktor Paweł Skworc (75)" height="20" src="/images/prelateA2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.archidiecezja.katowice.pl" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="krak0">
+     <td>
+      <img alt="Metr. Archdiocese" height="20" src="/images/map/s02.png"/>
+      <a class="typemetr" href="../diocese/krak0.htm">
+       Kraków
+      </a>
+      /
+      <a class="typemetr" href="../diocese/krak0.htm">
+       Cracow
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="PL-province.htm#krak0">
+       Kraków
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/poland/0116.htm" title="Bazylika Archikatedralna św. Stanisława Biskupa i męczennika i św. Wacława">
+        <img alt="Bazylika Archikatedralna św. Stanisława Biskupa i męczennika i św. Wacława" height="20" src="/images/c1ab.gif" width="19"/>
+       </a>
+       <a href="../../churches/poland/5788.htm" title="Kościół św. Apostołów Piotra i Pawła">
+        <img alt="Kościół św. Apostołów Piotra i Pawła" height="20" src="/images/c1b.gif" width="17"/>
+       </a>
+       <a href="../../churches/poland/1120.htm" title="Bazylika Matki Bożej Anielskiej">
+        <img alt="Bazylika Matki Bożej Anielskiej" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/poland/1005.htm" title="Bazylika Wniebowzięcia NMP (Mariacka)">
+        <img alt="Bazylika Wniebowzięcia NMP (Mariacka)" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/poland/0852.htm" title="Bazylika Najświętszego Serca Pana Jezusa">
+        <img alt="Bazylika Najświętszego Serca Pana Jezusa" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/poland/1334.htm" title="Bazylika Nawiedzenia NMP">
+        <img alt="Bazylika Nawiedzenia NMP" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/poland/0800.htm" title="Bazylika Przenajświętszej Trójcy">
+        <img alt="Bazylika Przenajświętszej Trójcy" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/poland/0362.htm" title="Bazylika św. Franciszka z Asyżu">
+        <img alt="Bazylika św. Franciszka z Asyżu" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/poland/0907.htm" title="Bazylika Wniebowzięcia NMP Królowej Polski">
+        <img alt="Bazylika Wniebowzięcia NMP Królowej Polski" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/poland/3693.htm" title="Bazylika Bożego Ciała">
+        <img alt="Bazylika Bożego Ciała" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/poland/1447.htm" title="Bazylika Bożego Miłosierdzia">
+        <img alt="Bazylika Bożego Miłosierdzia" height="20" src="/images/c3db.gif" width="19"/>
+       </a>
+       <a href="../../churches/poland/4760.htm" title="Bazylika Matki Bożej">
+        <img alt="Bazylika Matki Bożej" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/poland/5806.htm" title="Bazylika Najświętszego Serca Pana Jezusa">
+        <img alt="Bazylika Najświętszego Serca Pana Jezusa" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/poland/1294.htm" title="Bazylika Ofiarowania NMP">
+        <img alt="Bazylika Ofiarowania NMP" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/poland/4759.htm" title="Bazylika Podwyższenia Krzyża Świętego">
+        <img alt="Bazylika Podwyższenia Krzyża Świętego" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/poland/4758.htm" title="Bazylika św. Apostołów Piotra i Pawła">
+        <img alt="Bazylika św. Apostołów Piotra i Pawła" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/poland/1392.htm" title="Bazylika św. Floriana">
+        <img alt="Bazylika św. Floriana" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/poland/3616.htm" title="Bazylika św. Michała Archanioła i św. Stanisława Biskupa">
+        <img alt="Bazylika św. Michała Archanioła i św. Stanisława Biskupa" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/europe-east/47050.htm" title="Kaplica św. Kingi">
+        <img alt="Kaplica św. Kingi" height="20" src="/images/c1e.gif" width="15"/>
+       </a>
+       <a href="../../churches/europe-east/46697.htm" title="Parafia św. Michała Archanioła">
+        <img alt="Parafia św. Michała Archanioła" height="20" src="/images/c1d.gif" width="15"/>
+       </a>
+       <a href="../diocese/krak0.htm#3937" title="Archbishop Marek Jędraszewski (73)">
+        <img alt="Archbishop Marek Jędraszewski (73)" height="20" src="/images/prelateA1.gif" width="22"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-MS.htm#47069" title="Bishop Damian Andrzej Muskus, O.F.M. (55)">
+        <img alt="Bishop Damian Andrzej Muskus, O.F.M. (55)" height="20" src="/images/prelateB3.gif" width="16"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-MAS.htm#62351" title="Bishop Janusz Edward Mastalski (59)">
+        <img alt="Bishop Janusz Edward Mastalski (59)" height="20" src="/images/prelateB3.gif" width="16"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-CE.htm#70299" title="Bishop Robert Józef Chrząszcz (53)">
+        <img alt="Bishop Robert Józef Chrząszcz (53)" height="20" src="/images/prelateB3.gif" width="16"/>
+       </a>
+       <a href="../../hierarchy/data/cardB16-1.htm#727" title="Cardinal Stanisław Dziwisz (84)">
+        <img alt="Cardinal Stanisław Dziwisz (84)" height="20" src="/images/prelateC2.gif" width="22"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-SU.htm#3908" title="Bishop Jan Szkodoń (76)">
+        <img alt="Bishop Jan Szkodoń (76)" height="20" src="/images/prelateB4.gif" width="16"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-Z.htm#3909" title="Bishop Jan Zając (83)">
+        <img alt="Bishop Jan Zając (83)" height="20" src="/images/prelateB4.gif" width="16"/>
+       </a>
+       <a class="link" href="http://www.diecezja.pl" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="lodz0">
+     <td>
+      <img alt="Metr. Archdiocese" height="20" src="/images/map/s02.png"/>
+      <a class="typemetr" href="../diocese/lodz0.htm">
+       Łódź
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="PL-province.htm#lodz0">
+       Łódź
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/poland/1237.htm" title="Bazylika Archikatedralna św. Stanisława Kostki">
+        <img alt="Bazylika Archikatedralna św. Stanisława Kostki" height="20" src="/images/c1ab.gif" width="19"/>
+       </a>
+       <a href="../../churches/poland/6431.htm" title="Bazylika św. Jakuba">
+        <img alt="Bazylika św. Jakuba" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/lodz0.htm#47068" title="Archbishop Grzegorz Ryś (59)">
+        <img alt="Archbishop Grzegorz Ryś (59)" height="20" src="/images/prelateA1.gif" width="22"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-PE.htm#3915" title="Bishop Ireneusz Józef Pękalski (73)">
+        <img alt="Bishop Ireneusz Józef Pękalski (73)" height="20" src="/images/prelateB3.gif" width="16"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-MAR.htm#59119" title="Bishop Marek Marczak (54)">
+        <img alt="Bishop Marek Marczak (54)" height="20" src="/images/prelateB3.gif" width="16"/>
+       </a>
+       <a href="../diocese/lodz0.htm#3917" title="Archbishop Władysław Ziółek (87)">
+        <img alt="Archbishop Władysław Ziółek (87)" height="20" src="/images/prelateA2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.archidiecezja.lodz.pl" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="lubl0">
+     <td>
+      <img alt="Metr. Archdiocese" height="20" src="/images/map/s02.png"/>
+      <a class="typemetr" href="../diocese/lubl0.htm">
+       Lublin
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="PL-province.htm#lubl0">
+       Lublin
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/poland/3337.htm" title="Archikatedra św. Jana Chrzciciela">
+        <img alt="Archikatedra św. Jana Chrzciciela" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/poland/1208.htm" title="Bazylika Narodzenia NMP">
+        <img alt="Bazylika Narodzenia NMP" height="20" src="/images/c1bb.gif" width="19"/>
+       </a>
+       <a href="../../churches/poland/5852.htm" title="Kościół św. Apostołów">
+        <img alt="Kościół św. Apostołów" height="20" src="/images/c1b.gif" width="17"/>
+       </a>
+       <a href="../../churches/poland/5853.htm" title="Kościół św. Franciszka Ksawerego">
+        <img alt="Kościół św. Franciszka Ksawerego" height="20" src="/images/c1b.gif" width="17"/>
+       </a>
+       <a href="../../churches/poland/4872.htm" title="Bazylika św. Anny">
+        <img alt="Bazylika św. Anny" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/poland/0984.htm" title="Bazylika św. Stanisława BM">
+        <img alt="Bazylika św. Stanisława BM" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/poland/1430.htm" title="Bazylika św. Wojciecha">
+        <img alt="Bazylika św. Wojciecha" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/lubl0.htm#3901" title="Archbishop Stanisław Budzik (71)">
+        <img alt="Archbishop Stanisław Budzik (71)" height="20" src="/images/prelateA1.gif" width="22"/>
+       </a>
+       <a href="../diocese/hels0.htm#2511" title="Bishop Józef Wróbel, S.C.I. (70)">
+        <img alt="Bishop Józef Wróbel, S.C.I. (70)" height="20" src="/images/prelateB3.gif" width="16"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-MI.htm#3919" title="Bishop Artur Grzegorz Miziński (58)">
+        <img alt="Bishop Artur Grzegorz Miziński (58)" height="20" src="/images/prelateB3.gif" width="16"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-B.htm#69943" title="Bishop Adam Piotr Bab (48)">
+        <img alt="Bishop Adam Piotr Bab (48)" height="20" src="/images/prelateB3.gif" width="16"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-K.htm#3920" title="Bishop Ryszard Karpiński (87)">
+        <img alt="Bishop Ryszard Karpiński (87)" height="20" src="/images/prelateB4.gif" width="16"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-CI.htm#3921" title="Bishop Mieczysław Cisło (77)">
+        <img alt="Bishop Mieczysław Cisło (77)" height="20" src="/images/prelateB4.gif" width="16"/>
+       </a>
+       <a class="link" href="http://www.kuria.lublin.pl" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="pozn0">
+     <td>
+      <img alt="Metr. Archdiocese" height="20" src="/images/map/s02.png"/>
+      <a class="typemetr" href="../diocese/pozn0.htm">
+       Poznań
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="PL-province.htm#pozn0">
+       Poznań
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/poland/0902.htm" title="Bazylika Archikatedralna św. Piotra i Pawła">
+        <img alt="Bazylika Archikatedralna św. Piotra i Pawła" height="20" src="/images/c1ab.gif" width="19"/>
+       </a>
+       <a href="../../churches/poland/6054.htm" title="Bazylika kolegiacka Matki Bożej Pocieszenia i św. Stanisława Biskupa">
+        <img alt="Bazylika kolegiacka Matki Bożej Pocieszenia i św. Stanisława Biskupa" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/poland/6612.htm" title="Bazylika kolegiacka Wniebowzięcia Najświętszej Maryi Panny">
+        <img alt="Bazylika kolegiacka Wniebowzięcia Najświętszej Maryi Panny" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/poland/1021.htm" title="Bazylika Niepokalanego Poczęcia NMP na Świętej Górze">
+        <img alt="Bazylika Niepokalanego Poczęcia NMP na Świętej Górze" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/poland/6277.htm" title="Bazylika św. Józefa">
+        <img alt="Bazylika św. Józefa" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/poland/5804.htm" title="Bazylika św. Mikołaja">
+        <img alt="Bazylika św. Mikołaja" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/poland/5359.htm" title="Kolegiata Matki Boskiej Nieustającej Pomocy i św. Marii Magdaleny">
+        <img alt="Kolegiata Matki Boskiej Nieustającej Pomocy i św. Marii Magdaleny" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/pozn0.htm#3933" title="Archbishop Stanisław Gądecki (73)">
+        <img alt="Archbishop Stanisław Gądecki (73)" height="20" src="/images/prelateA1.gif" width="22"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-B.htm#3935" title="Bishop Grzegorz Balcerek (69)">
+        <img alt="Bishop Grzegorz Balcerek (69)" height="20" src="/images/prelateB3.gif" width="16"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-GL.htm#73013" title="Bishop Jan Glapiak (63)">
+        <img alt="Bishop Jan Glapiak (63)" height="20" src="/images/prelateB3.gif" width="16"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-FO.htm#3936" title="Bishop Zdzisław Fortuniak (84)">
+        <img alt="Bishop Zdzisław Fortuniak (84)" height="20" src="/images/prelateB4.gif" width="16"/>
+       </a>
+       <a class="link" href="http://www.archpoznan.pl" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <span class="znote">
+        United
+        <i>
+         æque principaliter
+        </i>
+        with
+        <a class="typemetr" href="../diocese/gnie0.htm">
+         Gniezno
+        </a>
+        1821.07.16–1948.11.12
+       </span>
+      </span>
+     </td>
+    </tr>
+    <tr id="prze0">
+     <td>
+      <img alt="Metr. Archdiocese" height="20" src="/images/map/s02.png"/>
+      <a class="typemetr" href="../diocese/prze0.htm">
+       Przemyśl
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="PL-province.htm#prze0">
+       Przemyśl
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/poland/0842.htm" title="Bazylika Archikatedralna Wniebowzięcia NMP i św. Jana Chrzciciela">
+        <img alt="Bazylika Archikatedralna Wniebowzięcia NMP i św. Jana Chrzciciela" height="20" src="/images/c1ab.gif" width="19"/>
+       </a>
+       <a href="../../churches/poland/6545.htm" title="Kościół Najświętszego Serca Jezusowego i św. Teresy od Dzieciątka Jezus">
+        <img alt="Kościół Najświętszego Serca Jezusowego i św. Teresy od Dzieciątka Jezus" height="20" src="/images/c1b.gif" width="17"/>
+       </a>
+       <a href="../../churches/poland/1158.htm" title="Bazylika Ducha Świętego">
+        <img alt="Bazylika Ducha Świętego" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/poland/0967.htm" title="Bazylika Matki Bożej Bolesnej">
+        <img alt="Bazylika Matki Bożej Bolesnej" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/poland/6338.htm" title="Bazylika Przemienienia Pańskiego">
+        <img alt="Bazylika Przemienienia Pańskiego" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/poland/1357.htm" title="Bazylika Trójcy Przenajświętszej">
+        <img alt="Bazylika Trójcy Przenajświętszej" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/poland/0468.htm" title="Bazylika Wniebowzięcia NMP">
+        <img alt="Bazylika Wniebowzięcia NMP" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/poland/6531.htm" title="Bazylika Znalezienia Krzyża Świętego">
+        <img alt="Bazylika Znalezienia Krzyża Świętego" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/poland/0478.htm" title="Bazylika Zwiastowania NMP">
+        <img alt="Bazylika Zwiastowania NMP" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/poland/5631.htm" title="Cerkiew Narodzenia Przenajświętszej Bogurodzicy">
+        <img alt="Cerkiew Narodzenia Przenajświętszej Bogurodzicy" height="20" src="/images/c1d.gif" width="15"/>
+       </a>
+       <a href="../../churches/poland/5632.htm" title="Cerkiew św. Michała Archanioła">
+        <img alt="Cerkiew św. Michała Archanioła" height="20" src="/images/c1d.gif" width="15"/>
+       </a>
+       <a href="../../churches/poland/5960.htm" title="Kościół Wszystkich Świętych">
+        <img alt="Kościół Wszystkich Świętych" height="20" src="/images/c1d.gif" width="15"/>
+       </a>
+       <a href="../../churches/poland/5962.htm" title="Sanktuarium Matki Bożej Bolesnej">
+        <img alt="Sanktuarium Matki Bożej Bolesnej" height="20" src="/images/c4d.gif" width="15"/>
+       </a>
+       <a href="../diocese/prze0.htm#3938" title="Archbishop Adam Szal (69)">
+        <img alt="Archbishop Adam Szal (69)" height="20" src="/images/prelateA1.gif" width="22"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-J.htm#52183" title="Bishop Stanisław Jamrozek (63)">
+        <img alt="Bishop Stanisław Jamrozek (63)" height="20" src="/images/prelateB3.gif" width="16"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-CE.htm#68667" title="Bishop Krzysztof Chudzio (59)">
+        <img alt="Bishop Krzysztof Chudzio (59)" height="20" src="/images/prelateB3.gif" width="16"/>
+       </a>
+       <a href="../diocese/prze0.htm#3939" title="Archbishop Józef Michalik (82)">
+        <img alt="Archbishop Józef Michalik (82)" height="20" src="/images/prelateA2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.przemyska.pl" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="prze1">
+     <td>
+      <img alt="Metr. Archdiocese" height="20" src="/images/map/s22.png"/>
+      <a class="typemetr" href="../diocese/prze1.htm">
+       Przemyśl–Warszawa
+      </a>
+      /
+      <a class="typemetr" href="../diocese/prze1.htm">
+       Przemysl–Warsaw
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-U.htm">
+       Ukrainian
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="PL-province.htm#prze1">
+       Przemyśl–Warszawa
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/poland/3336.htm" title="Archikatedra św. Jana Chrzciciela">
+        <img alt="Archikatedra św. Jana Chrzciciela" height="20" src="/images/c2a.gif" width="17"/>
+       </a>
+       <a href="../../churches/poland/6454.htm" title="Konkatedra Zaśnięcia Najświętszej Marii Panny">
+        <img alt="Konkatedra Zaśnięcia Najświętszej Marii Panny" height="20" src="/images/c2c.gif" width="17"/>
+       </a>
+       <a href="../diocese/prze1.htm#54780" title="Archbishop Eugeniusz Mirosław Popowicz (61)">
+        <img alt="Archbishop Eugeniusz Mirosław Popowicz (61)" height="20" src="/images/prelateA1.gif" width="22"/>
+       </a>
+       <a href="../diocese/prze1.htm#3888" title="Archbishop Jan Martyniak (83)">
+        <img alt="Archbishop Jan Martyniak (83)" height="20" src="/images/prelateA2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://cerkiew.org" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="szcz0">
+     <td>
+      <img alt="Metr. Archdiocese" height="20" src="/images/map/s02.png"/>
+      <a class="typemetr" href="../diocese/szcz0.htm">
+       Szczecin–Kamień
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="PL-province.htm#szcz0">
+       Szczecin–Kamień
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/poland/1166.htm" title="Bazylika Archikatedralna św. Jakuba Apostoła">
+        <img alt="Bazylika Archikatedralna św. Jakuba Apostoła" height="20" src="/images/c1ab.gif" width="19"/>
+       </a>
+       <a href="../../churches/poland/3333.htm" title="Konkatedra św. Jana Chrzciciela">
+        <img alt="Konkatedra św. Jana Chrzciciela" height="20" src="/images/c1c.gif" width="17"/>
+       </a>
+       <a href="../../churches/poland/4881.htm" title="Bazylika św. Jana Chrzciciela">
+        <img alt="Bazylika św. Jana Chrzciciela" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/szcz0.htm#3927" title="Archbishop Andrzej Dzięga (70)">
+        <img alt="Archbishop Andrzej Dzięga (70)" height="20" src="/images/prelateA1.gif" width="22"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-WE.htm#57313" title="Bishop Henryk Wejman (63)">
+        <img alt="Bishop Henryk Wejman (63)" height="20" src="/images/prelateB3.gif" width="16"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-KR.htm#3947" title="Bishop Marian Błażej Kruszyłowicz, O.F.M. Conv. (87)">
+        <img alt="Bishop Marian Błażej Kruszyłowicz, O.F.M. Conv. (87)" height="20" src="/images/prelateB4.gif" width="16"/>
+       </a>
+       <a class="link" href="http://diecezja.szczecin.pl" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="warm0">
+     <td>
+      <img alt="Metr. Archdiocese" height="20" src="/images/map/s02.png"/>
+      <a class="typemetr" href="../diocese/warm0.htm">
+       Warmia
+      </a>
+      /
+      <a class="typemetr" href="../diocese/warm0.htm">
+       Ermland
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="PL-province.htm#warm0">
+       Warmia
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/poland/3518.htm" title="Bazylika Archikatedralna Wniebowzięcia NMP i św. Andrzeja Apostoła">
+        <img alt="Bazylika Archikatedralna Wniebowzięcia NMP i św. Andrzeja Apostoła" height="20" src="/images/c1ab.gif" width="19"/>
+       </a>
+       <a href="../../churches/poland/0951.htm" title="Bazylika Konkatedralna św. Jakuba Apostoła">
+        <img alt="Bazylika Konkatedralna św. Jakuba Apostoła" height="20" src="/images/c1cb.gif" width="19"/>
+       </a>
+       <a href="../../churches/poland/1229.htm" title="Bazylika Najświętszego Zbawiciela i Wszystkich Świętych">
+        <img alt="Bazylika Najświętszego Zbawiciela i Wszystkich Świętych" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/poland/1004.htm" title="Bazylika Narodzenia NMP">
+        <img alt="Bazylika Narodzenia NMP" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/poland/1163.htm" title="Bazylika Nawiedzenia NMP, Matki Jedności">
+        <img alt="Bazylika Nawiedzenia NMP, Matki Jedności" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/poland/1201.htm" title="Bazylika Sanktuarium Matki Pokoju">
+        <img alt="Bazylika Sanktuarium Matki Pokoju" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/poland/1401.htm" title="Bazylika św. Jerzego">
+        <img alt="Bazylika św. Jerzego" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/poland/1426.htm" title="Bazylika św. Katarzyny">
+        <img alt="Bazylika św. Katarzyny" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/warm0.htm#54778" title="Archbishop Józef Górzyński (64)">
+        <img alt="Archbishop Józef Górzyński (64)" height="20" src="/images/prelateA1.gif" width="22"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-OL.htm#62023" title="Bishop Janusz Ostrowski (58)">
+        <img alt="Bishop Janusz Ostrowski (58)" height="20" src="/images/prelateB3.gif" width="16"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-WO.htm#3958" title="Bishop Julian Andrzej Wojtkowski (96)">
+        <img alt="Bishop Julian Andrzej Wojtkowski (96)" height="20" src="/images/prelateB4.gif" width="16"/>
+       </a>
+       <a class="link" href="http://archidiecezjawarminska.pl" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="wars0">
+     <td>
+      <img alt="Metr. Archdiocese" height="20" src="/images/map/s02.png"/>
+      <a class="typemetr" href="../diocese/wars0.htm">
+       Warszawa
+      </a>
+      /
+      <a class="typemetr" href="../diocese/wars0.htm">
+       Warsaw
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="PL-province.htm#wars0">
+       Warszawa
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/poland/0860.htm" title="Bazylika Archikatedralna św. Jana Chrzciciela">
+        <img alt="Bazylika Archikatedralna św. Jana Chrzciciela" height="20" src="/images/c1ab.gif" width="19"/>
+       </a>
+       <a href="../../churches/poland/1435.htm" title="Bazylika św. Krzyża">
+        <img alt="Bazylika św. Krzyża" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/poland/1121.htm" title="Bazylika Niepokalanego Poczęcia NMP">
+        <img alt="Bazylika Niepokalanego Poczęcia NMP" height="20" src="/images/c3db.gif" width="19"/>
+       </a>
+       <a href="../diocese/wars0.htm#3949" title="Cardinal Kazimierz Nycz (73)">
+        <img alt="Cardinal Kazimierz Nycz (73)" height="20" src="/images/prelateC1.gif" width="22"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-J.htm#3964" title="Bishop Piotr Jarecki (67)">
+        <img alt="Bishop Piotr Jarecki (67)" height="20" src="/images/prelateB3.gif" width="16"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-MAR.htm#54779" title="Bishop Rafał Markowski (65)">
+        <img alt="Bishop Rafał Markowski (65)" height="20" src="/images/prelateB3.gif" width="16"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-J.htm#59595" title="Bishop Michał Janocha (63)">
+        <img alt="Bishop Michał Janocha (63)" height="20" src="/images/prelateB3.gif" width="16"/>
+       </a>
+       <a href="../diocese/wars0.htm#3970" title="Archbishop Stanisław Wojciech Wielgus (84)">
+        <img alt="Archbishop Stanisław Wojciech Wielgus (84)" height="20" src="/images/prelateA2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://archidiecezja.warszawa.pl" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/ArchWarszawska" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+       <a class="linkf" href="https://www.facebook.com/ArchidiecezjaWarszawska" rel="nofollow" target="_blank" title="Facebook Page">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="wroc0">
+     <td>
+      <img alt="Metr. Archdiocese" height="20" src="/images/map/s02.png"/>
+      <a class="typemetr" href="../diocese/wroc0.htm">
+       Wrocław
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="PL-province.htm#wroc0">
+       Wrocław
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/poland/3335.htm" title="Bazylika Archikatedralna św. Jana Chrzciciela">
+        <img alt="Bazylika Archikatedralna św. Jana Chrzciciela" height="20" src="/images/c1ab.gif" width="19"/>
+       </a>
+       <a href="../../churches/poland/1450.htm" title="Bazylika św. Elżbiety">
+        <img alt="Bazylika św. Elżbiety" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/poland/0606.htm" title="Bazylika św. Jadwigi Śląskiej">
+        <img alt="Bazylika św. Jadwigi Śląskiej" height="20" src="/images/c3db.gif" width="19"/>
+       </a>
+       <a href="../../churches/poland/1384.htm" title="Bazylika św. Jana Apostoła i Ewangelisty">
+        <img alt="Bazylika św. Jana Apostoła i Ewangelisty" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/poland/4874.htm" title="Bazylika św. Jerzego Męczennika">
+        <img alt="Bazylika św. Jerzego Męczennika" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/wroc0.htm#4761" title="Archbishop Józef Piotr Kupny (67)">
+        <img alt="Archbishop Józef Piotr Kupny (67)" height="20" src="/images/prelateA1.gif" width="22"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-KI.htm#60513" title="Bishop Jacek Kiciński, C.M.F. (54)">
+        <img alt="Bishop Jacek Kiciński, C.M.F. (54)" height="20" src="/images/prelateB3.gif" width="16"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-MAJ.htm#74182" title="Bishop Maciej Małyga (44)">
+        <img alt="Bishop Maciej Małyga (44)" height="20" src="/images/prelateB3.gif" width="16"/>
+       </a>
+       <a href="../diocese/wroc0.htm#3976" title="Archbishop Marian Gołębiewski (85)">
+        <img alt="Archbishop Marian Gołębiewski (85)" height="20" src="/images/prelateA2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.archidiecezja.wroc.pl" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="biel1">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/biel1.htm">
+       Bielsko–Żywiec
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="PL-province.htm#biel1">
+       Kraków
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/poland/3334.htm" title="Katedra św. Mikołaja">
+        <img alt="Katedra św. Mikołaja" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/poland/3325.htm" title="Konkatedra Narodzenia NMP">
+        <img alt="Konkatedra Narodzenia NMP" height="20" src="/images/c1c.gif" width="17"/>
+       </a>
+       <a href="../../churches/poland/6184.htm" title="Bazylika Nawiedzenia Najświętszej Maryi Panny">
+        <img alt="Bazylika Nawiedzenia Najświętszej Maryi Panny" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/poland/6300.htm" title="Bazylika św. Mikołaja">
+        <img alt="Bazylika św. Mikołaja" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/biel1.htm#54885" title="Bishop Roman Pindel (64)">
+        <img alt="Bishop Roman Pindel (64)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-GR.htm#47443" title="Bishop Piotr Greger (59)">
+        <img alt="Bishop Piotr Greger (59)" height="20" src="/images/prelateB3.gif" width="16"/>
+       </a>
+       <a href="../diocese/biel1.htm#3906" title="Bishop Tadeusz Rakoczy (85)">
+        <img alt="Bishop Tadeusz Rakoczy (85)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-ZE.htm#3905" title="Bishop Janusz Edmund Zimniak (89)">
+        <img alt="Bishop Janusz Edmund Zimniak (89)" height="20" src="/images/prelateB4.gif" width="16"/>
+       </a>
+       <a class="link" href="http://www.diecezja.bielsko.pl" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="bydg0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/bydg0.htm">
+       Bydgoszcz
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="PL-province.htm#bydg0">
+       Gniezno
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/poland/3193.htm" title="Katedra św. Marcina i Mikołaja">
+        <img alt="Katedra św. Marcina i Mikołaja" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/poland/6055.htm" title="Bazylika Matki Boskiej Królowej Męczenników">
+        <img alt="Bazylika Matki Boskiej Królowej Męczenników" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/poland/6067.htm" title="Bazylika NMP Niepokalanie Poczętej">
+        <img alt="Bazylika NMP Niepokalanie Poczętej" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/poland/1344.htm" title="Bazylika św. Wincentego à Paulo">
+        <img alt="Bazylika św. Wincentego à Paulo" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/bydg0.htm#60691" title="Bishop Krzysztof Stefan Włodarczyk (62)">
+        <img alt="Bishop Krzysztof Stefan Włodarczyk (62)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../diocese/bydg0.htm#3882" title="Bishop Jan Karol Tyrawa (74)">
+        <img alt="Bishop Jan Karol Tyrawa (74)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.diecezja.bydgoszcz.pl" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="droh0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/droh0.htm">
+       Drohiczyn
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="PL-province.htm#droh0">
+       Białystok
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/poland/3331.htm" title="Katedra Trójcy Przenajświętszej">
+        <img alt="Katedra Trójcy Przenajświętszej" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/poland/3323.htm" title="Konkatedra Niepokalanego Serca NMP">
+        <img alt="Konkatedra Niepokalanego Serca NMP" height="20" src="/images/c1c.gif" width="17"/>
+       </a>
+       <a href="../../churches/poland/1331.htm" title="Bazylika Narodzenia NMP i św. Mikołaja">
+        <img alt="Bazylika Narodzenia NMP i św. Mikołaja" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/poland/5510.htm" title="Bazylika Trójcy Przenajświętszej i św. Anny">
+        <img alt="Bazylika Trójcy Przenajświętszej i św. Anny" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/poland/1341.htm" title="Bazylika Wniebowzięcia NMP">
+        <img alt="Bazylika Wniebowzięcia NMP" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/droh0.htm#51840" title="Bishop Piotr Henryk Sawczuk (61)">
+        <img alt="Bishop Piotr Henryk Sawczuk (61)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../diocese/droh0.htm#3857" title="Bishop Antoni Pacyfik Dydycz, O.F.M. Cap. (84)">
+        <img alt="Bishop Antoni Pacyfik Dydycz, O.F.M. Cap. (84)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+       <a href="../diocese/droh0.htm#3963" title="Bishop Tadeusz Pikus (73)">
+        <img alt="Bishop Tadeusz Pikus (73)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.drohiczyn.opoka.org.pl" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="elbl0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/elbl0.htm">
+       Elbląg
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="PL-province.htm#elbl0">
+       Warmia
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/poland/3332.htm" title="Katedra św. Mikołaja">
+        <img alt="Katedra św. Mikołaja" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/poland/3510.htm" title="Konkatedra św. Jana Ewangelisty">
+        <img alt="Konkatedra św. Jana Ewangelisty" height="20" src="/images/c1c.gif" width="17"/>
+       </a>
+       <a href="../../churches/poland/3511.htm" title="Konkatedra św. Wojciecha">
+        <img alt="Konkatedra św. Wojciecha" height="20" src="/images/c1c.gif" width="17"/>
+       </a>
+       <a href="../diocese/elbl0.htm#3959" title="Bishop Jacek Jezierski (73)">
+        <img alt="Bishop Jacek Jezierski (73)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-SK.htm#62403" title="Bishop Wojciech Skibicki (53)">
+        <img alt="Bishop Wojciech Skibicki (53)" height="20" src="/images/prelateB3.gif" width="16"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-WO.htm#3957" title="Bishop Józef Wysocki (82)">
+        <img alt="Bishop Józef Wysocki (82)" height="20" src="/images/prelateB4.gif" width="16"/>
+       </a>
+       <a class="link" href="http://diecezja.elblag.pl" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="elkz0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/elkz0.htm">
+       Ełk
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="PL-province.htm#elkz0">
+       Warmia
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/poland/3340.htm" title="Katedra św. Wojciecha Biskupa i Męczennika">
+        <img alt="Katedra św. Wojciecha Biskupa i Męczennika" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/poland/3330.htm" title="Konkatedra NMP Matki Kościoła">
+        <img alt="Konkatedra NMP Matki Kościoła" height="20" src="/images/c1c.gif" width="17"/>
+       </a>
+       <a href="../../churches/poland/3512.htm" title="Konkatedra św. Aleksandra">
+        <img alt="Konkatedra św. Aleksandra" height="20" src="/images/c1c.gif" width="17"/>
+       </a>
+       <a href="../../churches/poland/1047.htm" title="Bazylika Nawiedzenia Matki Bożej">
+        <img alt="Bazylika Nawiedzenia Matki Bożej" height="20" src="/images/c1bb.gif" width="19"/>
+       </a>
+       <a href="../../churches/poland/5851.htm" title="Kościół Niepokalanego Poczęcia NMP">
+        <img alt="Kościół Niepokalanego Poczęcia NMP" height="20" src="/images/c1b.gif" width="17"/>
+       </a>
+       <a href="../../churches/poland/1425.htm" title="Bazylika Najświętszego Serca Jezusowego">
+        <img alt="Bazylika Najświętszego Serca Jezusowego" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/elkz0.htm#3539" title="Bishop Jerzy Mazur, S.V.D. (69)">
+        <img alt="Bishop Jerzy Mazur, S.V.D. (69)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-Z.htm#74485" title="Bishop Dariusz Zalewski (49)">
+        <img alt="Bishop Dariusz Zalewski (49)" height="20" src="/images/prelateB3.gif" width="16"/>
+       </a>
+       <a class="link" href="http://www.diecezja.elk.pl" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="gliw0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/gliw0.htm">
+       Gliwice
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="PL-province.htm#gliw0">
+       Katowice
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/poland/3329.htm" title="Katedra św. Apostołów Piotra i Pawła">
+        <img alt="Katedra św. Apostołów Piotra i Pawła" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/poland/4987.htm" title="Bazylika Wniebowzięcia NMP">
+        <img alt="Bazylika Wniebowzięcia NMP" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/gliw0.htm#74781" title="Bishop Sławomir Oder (62)">
+        <img alt="Bishop Sławomir Oder (62)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-I.htm#61610" title="Bishop Andrzej Iwanecki (62)">
+        <img alt="Bishop Andrzej Iwanecki (62)" height="20" src="/images/prelateB3.gif" width="16"/>
+       </a>
+       <a href="../diocese/gliw0.htm#3894" title="Bishop Jan Walenty Wieczorek (88)">
+        <img alt="Bishop Jan Walenty Wieczorek (88)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+       <a href="../diocese/gliw0.htm#3896" title="Bishop Jan Kopiec (75)">
+        <img alt="Bishop Jan Kopiec (75)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.kuria.gliwice.pl" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="kali1">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/kali1.htm">
+       Kalisz
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="PL-province.htm#kali1">
+       Poznań
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/poland/3328.htm" title="Katedra św. Mikołaja">
+        <img alt="Katedra św. Mikołaja" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/poland/3327.htm" title="Konkatedra św. Stanisława">
+        <img alt="Konkatedra św. Stanisława" height="20" src="/images/c1c.gif" width="17"/>
+       </a>
+       <a href="../../churches/poland/1095.htm" title="Bazylika kolegiacka Wniebowzięcia NMP">
+        <img alt="Bazylika kolegiacka Wniebowzięcia NMP" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/poland/1457.htm" title="Bazylika Matki Bożej Wspomożenia Wiernych">
+        <img alt="Bazylika Matki Bożej Wspomożenia Wiernych" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/poland/6430.htm" title="Bazylika św. Jana Chrzciciela">
+        <img alt="Bazylika św. Jana Chrzciciela" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/kali1.htm#54358" title="Bishop Damian Bryl (54)">
+        <img alt="Bishop Damian Bryl (54)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-BU.htm#56855" title="Bishop Łukasz Mirosław Buzun, O.S.P.P.E. (55)">
+        <img alt="Bishop Łukasz Mirosław Buzun, O.S.P.P.E. (55)" height="20" src="/images/prelateB3.gif" width="16"/>
+       </a>
+       <a href="../diocese/kali1.htm#3931" title="Bishop Stanisław Napierała (86)">
+        <img alt="Bishop Stanisław Napierała (86)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.diecezja.kalisz.pl" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="kiel0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/kiel0.htm">
+       Kielce
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="PL-province.htm#kiel0">
+       Kraków
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/poland/1010.htm" title="Bazylika Katedralna Wniebowzięcia NMP">
+        <img alt="Bazylika Katedralna Wniebowzięcia NMP" height="20" src="/images/c1ab.gif" width="19"/>
+       </a>
+       <a href="../../churches/poland/1326.htm" title="Bazylika Groby Bożego">
+        <img alt="Bazylika Groby Bożego" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/poland/1466.htm" title="Bazylika Narodzenia NMP">
+        <img alt="Bazylika Narodzenia NMP" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/poland/4957.htm" title="Bazylika św. Marcina">
+        <img alt="Bazylika św. Marcina" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/kiel0.htm#55030" title="Bishop Jan Piotrowski (70)">
+        <img alt="Bishop Jan Piotrowski (70)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-FI.htm#3904" title="Bishop Marian Florczyk (68)">
+        <img alt="Bishop Marian Florczyk (68)" height="20" src="/images/prelateB3.gif" width="16"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-K.htm#61596" title="Bishop Andrzej Kaleta (66)">
+        <img alt="Bishop Andrzej Kaleta (66)" height="20" src="/images/prelateB3.gif" width="16"/>
+       </a>
+       <a class="link" href="http://www.diecezja.kielce.pl" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="kosz0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/kosz0.htm">
+       Koszalin–Kołobrzeg
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="PL-province.htm#kosz0">
+       Szczecin–Kamień
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/poland/3322.htm" title="Katedra Niepokalanego Poczęcia NMP">
+        <img alt="Katedra Niepokalanego Poczęcia NMP" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/poland/1194.htm" title="Bazylika Konkatedralna Wniebowzięcia NMP">
+        <img alt="Bazylika Konkatedralna Wniebowzięcia NMP" height="20" src="/images/c1cb.gif" width="19"/>
+       </a>
+       <a href="../../churches/poland/4049.htm" title="Katedra Świętej Rodziny">
+        <img alt="Katedra Świętej Rodziny" height="20" src="/images/c1b.gif" width="17"/>
+       </a>
+       <a href="../../churches/poland/6397.htm" title="Bazylika Wniebowzięcia NMP">
+        <img alt="Bazylika Wniebowzięcia NMP" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/kosz0.htm#60074" title="Bishop Zbigniew Jan Zieliński (58)">
+        <img alt="Bishop Zbigniew Jan Zieliński (58)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-Z.htm#24373" title="Bishop Krzysztof Zadarko (62)">
+        <img alt="Bishop Krzysztof Zadarko (62)" height="20" src="/images/prelateB3.gif" width="16"/>
+       </a>
+       <a href="../diocese/kosz0.htm#3954" title="Bishop Edward Dajczak (74)">
+        <img alt="Bishop Edward Dajczak (74)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-CI.htm#3950" title="Bishop Paweł Cieślik (82)">
+        <img alt="Bishop Paweł Cieślik (82)" height="20" src="/images/prelateB4.gif" width="16"/>
+       </a>
+       <a class="link" href="http://www.koszalin.opoka.org.pl" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="legn0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/legn0.htm">
+       Legnica
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="PL-province.htm#legn0">
+       Wrocław
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/poland/3229.htm" title="Katedra św. Apostołów Piotra i Pawła">
+        <img alt="Katedra św. Apostołów Piotra i Pawła" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/poland/5364.htm" title="Bazylika św. Erazma i św. Pankracego">
+        <img alt="Bazylika św. Erazma i św. Pankracego" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/poland/6066.htm" title="Bazylika św. Jadwigi Śląskiej">
+        <img alt="Bazylika św. Jadwigi Śląskiej" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/poland/1364.htm" title="Bazylika Wniebowzięcia NMP">
+        <img alt="Bazylika Wniebowzięcia NMP" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/poland/5512.htm" title="Bazylika Wniebowzięcia NMP i św. Mikołaja">
+        <img alt="Bazylika Wniebowzięcia NMP i św. Mikołaja" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/legn0.htm#6191" title="Bishop Andrzej Siemieniewski (65)">
+        <img alt="Bishop Andrzej Siemieniewski (65)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-W.htm#75059" title="Bishop Piotr Wawrzynek (53)">
+        <img alt="Bishop Piotr Wawrzynek (53)" height="20" src="/images/prelateB3.gif" width="16"/>
+       </a>
+       <a href="../diocese/legn0.htm#3973" title="Bishop Stefan Cichy (84)">
+        <img alt="Bishop Stefan Cichy (84)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+       <a href="../diocese/legn0.htm#3925" title="Bishop Zbigniew Kiernikowski (76)">
+        <img alt="Bishop Zbigniew Kiernikowski (76)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.diecezja.legnica.pl" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="lomz0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/lomz0.htm">
+       Łomża
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="PL-province.htm#lomz0">
+       Białystok
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/poland/3358.htm" title="Katedra św. Michała Archanioła">
+        <img alt="Katedra św. Michała Archanioła" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/poland/5711.htm" title="Bazylika kolegiacka Trójcy Przenajświętszej">
+        <img alt="Bazylika kolegiacka Trójcy Przenajświętszej" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/poland/5511.htm" title="Bazylika Wniebowzięcia NMP">
+        <img alt="Bazylika Wniebowzięcia NMP" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/lomz0.htm#47473" title="Bishop Janusz Bogusław Stepnowski (64)">
+        <img alt="Bishop Janusz Bogusław Stepnowski (64)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-BR.htm#8736" title="Bishop Tadeusz Bronakowski (63)">
+        <img alt="Bishop Tadeusz Bronakowski (63)" height="20" src="/images/prelateB3.gif" width="16"/>
+       </a>
+       <a class="link" href="http://www.diecezja.lomza.pl" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="lowi0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/lowi0.htm">
+       Łowicz
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="PL-province.htm#lowi0">
+       Łódź
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/poland/3263.htm" title="Bazylika katedralna Wniebowzięcia NMP i św. Mikołaja">
+        <img alt="Bazylika katedralna Wniebowzięcia NMP i św. Mikołaja" height="20" src="/images/c1ab.gif" width="19"/>
+       </a>
+       <a href="../diocese/lowi0.htm#3914" title="Bishop Andrzej Franciszek Dziuba (72)">
+        <img alt="Bishop Andrzej Franciszek Dziuba (72)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-OL.htm#60416" title="Bishop Wojciech Tomasz Osial (52)">
+        <img alt="Bishop Wojciech Tomasz Osial (52)" height="20" src="/images/prelateB3.gif" width="16"/>
+       </a>
+       <a class="link" href="http://www.diecezja.lowicz.pl" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="olsz0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s24.png"/>
+      <a class="typedioc" href="../diocese/olsz0.htm">
+       Olsztyn–Gdańsk
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-U.htm">
+       Ukrainian
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="PL-province.htm#olsz0">
+       Przemyśl–Warszawa
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/poland/6529.htm" title="Katedra Pokrowa Matki Bożej">
+        <img alt="Katedra Pokrowa Matki Bożej" height="20" src="/images/c2a.gif" width="17"/>
+       </a>
+       <a href="../../churches/poland/3514.htm" title="Konkatedra św. Bartłomieja i Opieki Przenajświętszej Bogurodzicy">
+        <img alt="Konkatedra św. Bartłomieja i Opieki Przenajświętszej Bogurodzicy" height="20" src="/images/c2c.gif" width="17"/>
+       </a>
+       <a href="../diocese/olsz0.htm#70327" title="Bishop Arkadiusz Trochanowski (50)">
+        <img alt="Bishop Arkadiusz Trochanowski (50)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a class="link" href="http://cerkiew.eu" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="opol0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/opol0.htm">
+       Opole
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="PL-province.htm#opol0">
+       Katowice
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/poland/3154.htm" title="Bazylika Katedralna Podwyższenia Krzyża Świętego">
+        <img alt="Bazylika Katedralna Podwyższenia Krzyża Świętego" height="20" src="/images/c1ab.gif" width="19"/>
+       </a>
+       <a href="../../churches/poland/1116.htm" title="Bazylika św. Anny">
+        <img alt="Bazylika św. Anny" height="20" src="/images/c3db.gif" width="19"/>
+       </a>
+       <a href="../../churches/poland/4988.htm" title="Bazylika św. Jakuba Apostoła i św. Agnieszki">
+        <img alt="Bazylika św. Jakuba Apostoła i św. Agnieszki" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/opol0.htm#25832" title="Bishop Andrzej Konrad Czaja (59)">
+        <img alt="Bishop Andrzej Konrad Czaja (59)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-PF.htm#55022" title="Bishop Rudolf Pierskała (63)">
+        <img alt="Bishop Rudolf Pierskała (63)" height="20" src="/images/prelateB3.gif" width="16"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-MS.htm#74519" title="Bishop Waldemar Musioł (46)">
+        <img alt="Bishop Waldemar Musioł (46)" height="20" src="/images/prelateB3.gif" width="16"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-NI.htm#3898" title="Archbishop Alfons Nossol (90)">
+        <img alt="Archbishop Alfons Nossol (90)" height="20" src="/images/prelateA2.gif" width="22"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-ST.htm#3895" title="Bishop Paweł Stobrawa (76)">
+        <img alt="Bishop Paweł Stobrawa (76)" height="20" src="/images/prelateB4.gif" width="16"/>
+       </a>
+       <a class="link" href="http://www.diecezja.opole.pl" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="pelp0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/pelp0.htm">
+       Pelplin
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="PL-province.htm#pelp0">
+       Gdańsk
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/poland/0945.htm" title="Bazylika Katedralna Wniebowzięcia NMP">
+        <img alt="Bazylika Katedralna Wniebowzięcia NMP" height="20" src="/images/c1ab.gif" width="19"/>
+       </a>
+       <a href="../../churches/poland/1297.htm" title="Bazylika Ścięcia św. Jana Chrzciciela">
+        <img alt="Bazylika Ścięcia św. Jana Chrzciciela" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/poland/5361.htm" title="Bazylika Wniebowzięcia NMP">
+        <img alt="Bazylika Wniebowzięcia NMP" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/pelp0.htm#3876" title="Bishop Ryszard Kasyna (65)">
+        <img alt="Bishop Ryszard Kasyna (65)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-O.htm#62401" title="Bishop Arkadiusz Okroj (56)">
+        <img alt="Bishop Arkadiusz Okroj (56)" height="20" src="/images/prelateB3.gif" width="16"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-KR.htm#3872" title="Bishop Piotr Krupa (86)">
+        <img alt="Bishop Piotr Krupa (86)" height="20" src="/images/prelateB4.gif" width="16"/>
+       </a>
+       <a class="link" href="http://www.diecezja-pelplin.pl" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="ploc0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/ploc0.htm">
+       Płock
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="PL-province.htm#ploc0">
+       Warszawa
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/poland/0305.htm" title="Bazylika katedralna Najświętszej NMP Czczonej w Tajemnicy Wniebowzięcia (św. Zygmunt)">
+        <img alt="Bazylika katedralna Najświętszej NMP Czczonej w Tajemnicy Wniebowzięcia (św. Zygmunt)" height="20" src="/images/c1ab.gif" width="19"/>
+       </a>
+       <a href="../../churches/poland/0982.htm" title="Bazylika Zwiastowania NMP">
+        <img alt="Bazylika Zwiastowania NMP" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/poland/1064.htm" title="Bazylika Zwiastowania NMP">
+        <img alt="Bazylika Zwiastowania NMP" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/ploc0.htm#62662" title="Bishop Szymon Stułkowski (62)">
+        <img alt="Bishop Szymon Stułkowski (62)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-MI.htm#60433" title="Bishop Mirosław Milewski (52)">
+        <img alt="Bishop Mirosław Milewski (52)" height="20" src="/images/prelateB3.gif" width="16"/>
+       </a>
+       <a href="../diocese/ploc0.htm#3890" title="Bishop Piotr Libera (72)">
+        <img alt="Bishop Piotr Libera (72)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-MAR.htm#3967" title="Bishop Roman Adam Marcinkowski (81)">
+        <img alt="Bishop Roman Adam Marcinkowski (81)" height="20" src="/images/prelateB4.gif" width="16"/>
+       </a>
+       <a class="link" href="http://diecezjaplocka.pl" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="rado0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/rado0.htm">
+       Radom
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="PL-province.htm#rado0">
+       Częstochowa
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/poland/3155.htm" title="Katedra Opieki NMP">
+        <img alt="Katedra Opieki NMP" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/poland/6010.htm" title="Bazylika Matki Bożej Ostrobramskiej">
+        <img alt="Bazylika Matki Bożej Ostrobramskiej" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/poland/1051.htm" title="Bazylika św. Filipa Nerri i św. Jana Chrzciciela">
+        <img alt="Bazylika św. Filipa Nerri i św. Jana Chrzciciela" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/poland/1454.htm" title="Bazylika św. Kazimierza">
+        <img alt="Bazylika św. Kazimierza" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/rado0.htm#47436" title="Bishop Marek Solarczyk (56)">
+        <img alt="Bishop Marek Solarczyk (56)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-TR.htm#59074" title="Bishop Piotr Turzyński (58)">
+        <img alt="Bishop Piotr Turzyński (58)" height="20" src="/images/prelateB3.gif" width="16"/>
+       </a>
+       <a href="../diocese/rado0.htm#3924" title="Bishop Henryk Marian Tomasik (77)">
+        <img alt="Bishop Henryk Marian Tomasik (77)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.diecezja.radom.pl" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/Diecezja_Radom" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="rzes0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/rzes0.htm">
+       Rzeszów
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="PL-province.htm#rzes0">
+       Przemyśl
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/poland/3321.htm" title="Katedra Najświętszego Serca Pana Jezusa">
+        <img alt="Katedra Najświętszego Serca Pana Jezusa" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/poland/5509.htm" title="Bazylika Matki Bozej Saletynskiej">
+        <img alt="Bazylika Matki Bozej Saletynskiej" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/poland/4961.htm" title="Bazylika Narodzenia NMP">
+        <img alt="Bazylika Narodzenia NMP" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/poland/4873.htm" title="Bazylika Wniebowzięcia NMP">
+        <img alt="Bazylika Wniebowzięcia NMP" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/poland/5635.htm" title="Cerkiew Opieki Matki Bożej">
+        <img alt="Cerkiew Opieki Matki Bożej" height="20" src="/images/c1d.gif" width="15"/>
+       </a>
+       <a href="../../churches/poland/5964.htm" title="Kościół św. Filipa i św. Jakuba">
+        <img alt="Kościół św. Filipa i św. Jakuba" height="20" src="/images/c1d.gif" width="15"/>
+       </a>
+       <a href="../../churches/poland/5959.htm" title="Kościół św. Michała Archanioła">
+        <img alt="Kościół św. Michała Archanioła" height="20" src="/images/c1d.gif" width="15"/>
+       </a>
+       <a href="../diocese/rzes0.htm#3862" title="Bishop Jan Franciszek Wątroba (69)">
+        <img alt="Bishop Jan Franciszek Wątroba (69)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../diocese/rzes0.htm#3941" title="Bishop Kazimierz Górny (85)">
+        <img alt="Bishop Kazimierz Górny (85)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-BI.htm#3940" title="Bishop Edward Eugeniusz Białogłowski (76)">
+        <img alt="Bishop Edward Eugeniusz Białogłowski (76)" height="20" src="/images/prelateB4.gif" width="16"/>
+       </a>
+       <a class="link" href="http://www.rzeszow.opoka.org.pl" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="sand1">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/sand1.htm">
+       Sandomierz
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="PL-province.htm#sand1">
+       Lublin
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/poland/0850.htm" title="Bazylika Katedralna Narodzenia NMP">
+        <img alt="Bazylika Katedralna Narodzenia NMP" height="20" src="/images/c1ab.gif" width="19"/>
+       </a>
+       <a href="../../churches/poland/1381.htm" title="Bazylika Konkatedralna pod wezwaniem Matki Bożej Królowej Polski">
+        <img alt="Bazylika Konkatedralna pod wezwaniem Matki Bożej Królowej Polski" height="20" src="/images/c1cb.gif" width="19"/>
+       </a>
+       <a href="../../churches/poland/5807.htm" title="Bazylika Trójcy Świętej">
+        <img alt="Bazylika Trójcy Świętej" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/sand1.htm#670" title="Bishop Krzysztof Nitkiewicz (62)">
+        <img alt="Bishop Krzysztof Nitkiewicz (62)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-FR.htm#3926" title="Bishop Edward Marian Frankowski (85)">
+        <img alt="Bishop Edward Marian Frankowski (85)" height="20" src="/images/prelateB4.gif" width="16"/>
+       </a>
+       <a class="link" href="http://diecezjasandomierska.pl" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/d_sandomierska" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+       <a class="linkf" href="https://www.facebook.com/DiecezjaSandomierskaPL" rel="nofollow" target="_blank" title="Facebook Page">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="sied0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/sied0.htm">
+       Siedlce
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="PL-province.htm#sied0">
+       Lublin
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/poland/3156.htm" title="Katedra Niepokalanego Poczęcia NMP">
+        <img alt="Katedra Niepokalanego Poczęcia NMP" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/poland/5787.htm" title="Bazylika Trójcy Przenajświętszej">
+        <img alt="Bazylika Trójcy Przenajświętszej" height="20" src="/images/c1bb.gif" width="19"/>
+       </a>
+       <a href="../../churches/poland/1041.htm" title="Bazylika św. Anny">
+        <img alt="Bazylika św. Anny" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/poland/1228.htm" title="Bazylika św. Jana Chrzciciela Sanktuarium Maryjne">
+        <img alt="Bazylika św. Jana Chrzciciela Sanktuarium Maryjne" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/poland/1170.htm" title="Bazylika św. Piotra i św. Pawła">
+        <img alt="Bazylika św. Piotra i św. Pawła" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/sied0.htm#3903" title="Bishop Kazimierz Gurda (69)">
+        <img alt="Bishop Kazimierz Gurda (69)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-SU.htm#69215" title="Bishop Grzegorz Suchodolski (59)">
+        <img alt="Bishop Grzegorz Suchodolski (59)" height="20" src="/images/prelateB3.gif" width="16"/>
+       </a>
+       <a class="link" href="http://www.diecezja.siedlce.pl" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="sosn0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/sosn0.htm">
+       Sosnowiec
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="PL-province.htm#sosn0">
+       Częstochowa
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/poland/1415.htm" title="Bazylika Katedralna Wniebowzięcia NMP">
+        <img alt="Bazylika Katedralna Wniebowzięcia NMP" height="20" src="/images/c1ab.gif" width="19"/>
+       </a>
+       <a href="../../churches/poland/0289.htm" title="Bazylika Matki Boskiej Anielskiej">
+        <img alt="Bazylika Matki Boskiej Anielskiej" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/poland/4880.htm" title="Bazylika Najświętszego Serca Pana Jezusa">
+        <img alt="Bazylika Najświętszego Serca Pana Jezusa" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/poland/1432.htm" title="Bazylika św. Andrzeja Apostoła">
+        <img alt="Bazylika św. Andrzeja Apostoła" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/sosn0.htm#18577" title="Bishop Grzegorz Kaszak (59)">
+        <img alt="Bishop Grzegorz Kaszak (59)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-SK.htm#3866" title="Bishop Piotr Skucha (76)">
+        <img alt="Bishop Piotr Skucha (76)" height="20" src="/images/prelateB4.gif" width="16"/>
+       </a>
+       <a class="link" href="http://www.kuria.sosnowiec.pl" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="swid0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/swid0.htm">
+       Świdnica
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="PL-province.htm#swid0">
+       Wrocław
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/poland/3194.htm" title="Katedra św. Stanisława i św. Wacława">
+        <img alt="Katedra św. Stanisława i św. Wacława" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/poland/4966.htm" title="Bazylika Nawiedzenia NMP">
+        <img alt="Bazylika Nawiedzenia NMP" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/poland/0536.htm" title="Bazylika Nawiedzenia NMP">
+        <img alt="Bazylika Nawiedzenia NMP" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/poland/1437.htm" title="Bazylika św. Piotra i Pawła">
+        <img alt="Bazylika św. Piotra i Pawła" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/poland/4761.htm" title="Sanktuarium Matki Bożej Bolesnej">
+        <img alt="Sanktuarium Matki Bożej Bolesnej" height="20" src="/images/c3d.gif" width="15"/>
+       </a>
+       <a href="../diocese/swid0.htm#24249" title="Bishop Marek Mendyk (62)">
+        <img alt="Bishop Marek Mendyk (62)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-B.htm#23936" title="Bishop Adam Bałabuch (62)">
+        <img alt="Bishop Adam Bałabuch (62)" height="20" src="/images/prelateB3.gif" width="16"/>
+       </a>
+       <a href="../diocese/swid0.htm#3980" title="Bishop Ignacy Dec (78)">
+        <img alt="Bishop Ignacy Dec (78)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.diecezja.swidnica.pl" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="tarn0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/tarn0.htm">
+       Tarnów
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="PL-province.htm#tarn0">
+       Kraków
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/poland/1031.htm" title="Bazylika Katedralna Narodzenia NMP">
+        <img alt="Bazylika Katedralna Narodzenia NMP" height="20" src="/images/c1ab.gif" width="19"/>
+       </a>
+       <a href="../../churches/poland/1283.htm" title="Bazylika Kolegiacka św. Małgorzaty">
+        <img alt="Bazylika Kolegiacka św. Małgorzaty" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/poland/1259.htm" title="Bazylika Matki Boskiej Bolesnej">
+        <img alt="Bazylika Matki Boskiej Bolesnej" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/poland/3851.htm" title="Bazylika Mniejsza św. Mateusza Apostoła i Ewangelisty">
+        <img alt="Bazylika Mniejsza św. Mateusza Apostoła i Ewangelisty" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/poland/5362.htm" title="Bazylika Nawiedzenia NMP">
+        <img alt="Bazylika Nawiedzenia NMP" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/poland/5805.htm" title="Bazylika św. Katarzyny Aleksandryjskiej">
+        <img alt="Bazylika św. Katarzyny Aleksandryjskiej" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/poland/1458.htm" title="Bazylika św. Marii Magdaleny i św. Stanisława BM">
+        <img alt="Bazylika św. Marii Magdaleny i św. Stanisława BM" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/poland/1354.htm" title="Bazylika św. Mikołaja">
+        <img alt="Bazylika św. Mikołaja" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/poland/5634.htm" title="Cerkiew św. Jakuba">
+        <img alt="Cerkiew św. Jakuba" height="20" src="/images/c1d.gif" width="15"/>
+       </a>
+       <a href="../../churches/poland/5637.htm" title="Cerkiew św. Michała Archanioła">
+        <img alt="Cerkiew św. Michała Archanioła" height="20" src="/images/c1d.gif" width="15"/>
+       </a>
+       <a href="../../churches/poland/5636.htm" title="Cerkiew św. Paraskewy">
+        <img alt="Cerkiew św. Paraskewy" height="20" src="/images/c1d.gif" width="15"/>
+       </a>
+       <a href="../../churches/poland/5963.htm" title="Kościół św. Leonarda">
+        <img alt="Kościół św. Leonarda" height="20" src="/images/c1d.gif" width="15"/>
+       </a>
+       <a href="../diocese/tarn0.htm#26285" title="Bishop Andrzej Jeż (60)">
+        <img alt="Bishop Andrzej Jeż (60)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-S.htm#55029" title="Bishop Stanisław Salaterski (68)">
+        <img alt="Bishop Stanisław Salaterski (68)" height="20" src="/images/prelateB3.gif" width="16"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-LE.htm#60407" title="Bishop Leszek Leszkiewicz (53)">
+        <img alt="Bishop Leszek Leszkiewicz (53)" height="20" src="/images/prelateB3.gif" width="16"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-W.htm#70517" title="Bishop Artur Ważny (56)">
+        <img alt="Bishop Artur Ważny (56)" height="20" src="/images/prelateB3.gif" width="16"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-BO.htm#3902" title="Bishop Władysław Bobowski (91)">
+        <img alt="Bishop Władysław Bobowski (91)" height="20" src="/images/prelateB4.gif" width="16"/>
+       </a>
+       <a class="link" href="http://www.diecezja.tarnow.pl" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="toru0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/toru0.htm">
+       Toruń
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="PL-province.htm#toru0">
+       Gdańsk
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/poland/0531.htm" title="Bazylika Katedralna św. Jana Chrzciciela">
+        <img alt="Bazylika Katedralna św. Jana Chrzciciela" height="20" src="/images/c1ab.gif" width="19"/>
+       </a>
+       <a href="../../churches/poland/1145.htm" title="Bazylika Konkatedralna Trójcy Świętej">
+        <img alt="Bazylika Konkatedralna Trójcy Świętej" height="20" src="/images/c1cb.gif" width="19"/>
+       </a>
+       <a href="../../churches/poland/5360.htm" title="Bazylika kolegiacka św. Mikołaja">
+        <img alt="Bazylika kolegiacka św. Mikołaja" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/poland/1027.htm" title="Bazylika św. Tomasza Apostoła">
+        <img alt="Bazylika św. Tomasza Apostoła" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/toru0.htm#50334" title="Bishop Wiesław Śmigiel (54)">
+        <img alt="Bishop Wiesław Śmigiel (54)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-SU.htm#3871" title="Bishop Józef Szamocki (68)">
+        <img alt="Bishop Józef Szamocki (68)" height="20" src="/images/prelateB3.gif" width="16"/>
+       </a>
+       <a href="../diocese/toru0.htm#3874" title="Bishop Andrzej Wojciech Suski (81)">
+        <img alt="Bishop Andrzej Wojciech Suski (81)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.diecezja.torun.pl" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="wars1">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/wars1.htm">
+       Warszawa-Praga
+      </a>
+      /
+      <a class="typedioc" href="../diocese/wars1.htm">
+       Warsaw-Praga
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="PL-province.htm#wars1">
+       Warszawa
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/poland/1336.htm" title="Bazylika Katedralna św. Michała Archanioła i św. Floriana Męczennika">
+        <img alt="Bazylika Katedralna św. Michała Archanioła i św. Floriana Męczennika" height="20" src="/images/c1ab.gif" width="19"/>
+       </a>
+       <a href="../../churches/poland/3513.htm" title="Konkatedra Matki Boskiej Zwycięskiej">
+        <img alt="Konkatedra Matki Boskiej Zwycięskiej" height="20" src="/images/c1c.gif" width="17"/>
+       </a>
+       <a href="../../churches/poland/0414.htm" title="Bazylika Najswietszego Serca Jezusowego">
+        <img alt="Bazylika Najswietszego Serca Jezusowego" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/poland/5363.htm" title="Bazylika Świętej Trójcy">
+        <img alt="Bazylika Świętej Trójcy" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/wars1.htm#3960" title="Bishop Romuald Kamiński (68)">
+        <img alt="Bishop Romuald Kamiński (68)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-GR.htm#70462" title="Bishop Jacek Grzybowski (49)">
+        <img alt="Bishop Jacek Grzybowski (49)" height="20" src="/images/prelateB3.gif" width="16"/>
+       </a>
+       <a href="../diocese/wars1.htm#3968" title="Bishop Kazimierz Romaniuk (95)">
+        <img alt="Bishop Kazimierz Romaniuk (95)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.diecezja.waw.pl" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="wloc0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/wloc0.htm">
+       Włocławek
+      </a>
+      /
+      <a class="typedioc" href="../diocese/wloc0.htm">
+       Wladislavia
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="PL-province.htm#wloc0">
+       Gniezno
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/poland/3157.htm" title="Bazylika Katedralna Wniebowzięcia NMP">
+        <img alt="Bazylika Katedralna Wniebowzięcia NMP" height="20" src="/images/c1ab.gif" width="19"/>
+       </a>
+       <a href="../../churches/poland/6356.htm" title="Bazylika kolegiacka Wszystkich Świętych">
+        <img alt="Bazylika kolegiacka Wszystkich Świętych" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/poland/3695.htm" title="Bazylika MB Bolesnej Królowej Polski">
+        <img alt="Bazylika MB Bolesnej Królowej Polski" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/poland/4971.htm" title="Bazylika Wniebowzięcia NMP">
+        <img alt="Bazylika Wniebowzięcia NMP" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/wloc0.htm#51811" title="Bishop Krzysztof Jakub Wętkowski (59)">
+        <img alt="Bishop Krzysztof Jakub Wętkowski (59)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../diocese/wloc0.htm#3881" title="Bishop Wiesław Alojzy Mering (77)">
+        <img alt="Bishop Wiesław Alojzy Mering (77)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-GE.htm#3878" title="Bishop Stanisław Gębicki (77)">
+        <img alt="Bishop Stanisław Gębicki (77)" height="20" src="/images/prelateB4.gif" width="16"/>
+       </a>
+       <a class="link" href="http://www.diecezja.wloclawek.pl" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="wroc1">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s24.png"/>
+      <a class="typedioc" href="../diocese/wroc1.htm">
+       Wrocław–Koszalin
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-U.htm">
+       Ukrainian
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="PL-province.htm#wroc1">
+       Przemyśl–Warszawa
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/poland/3162.htm" title="Katedra św. Wincentego i św. Jakuba">
+        <img alt="Katedra św. Wincentego i św. Jakuba" height="20" src="/images/c2a.gif" width="17"/>
+       </a>
+       <a href="../../churches/poland/6671.htm" title="Konkatedra Zaśnięcia Najświętszej Bogurodzicy">
+        <img alt="Konkatedra Zaśnięcia Najświętszej Bogurodzicy" height="20" src="/images/c2c.gif" width="17"/>
+       </a>
+       <a href="../diocese/wroc1.htm#3887" title="Bishop Włodzimierz Roman Juszczak, O.S.B.M. (65)">
+        <img alt="Bishop Włodzimierz Roman Juszczak, O.S.B.M. (65)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.cerkiew.net.pl" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkf" href="https://www.facebook.com/eparchia.wroc" rel="nofollow" target="_blank" title="Facebook Page">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="zamo2">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/zamo2.htm">
+       Zamość–Lubaczów
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="PL-province.htm#zamo2">
+       Przemyśl
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/poland/3158.htm" title="Katedra Zmartwychwstania Pańskiego i św. Tomasza Apostoła">
+        <img alt="Katedra Zmartwychwstania Pańskiego i św. Tomasza Apostoła" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/poland/3159.htm" title="Konkatedra św. Stanisława">
+        <img alt="Konkatedra św. Stanisława" height="20" src="/images/c1c.gif" width="17"/>
+       </a>
+       <a href="../../churches/poland/6149.htm" title="Bazylika św. Antoniego z Padwy">
+        <img alt="Bazylika św. Antoniego z Padwy" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/poland/5630.htm" title="Cerkiew św. Paraskewy">
+        <img alt="Cerkiew św. Paraskewy" height="20" src="/images/c1d.gif" width="15"/>
+       </a>
+       <a href="../diocese/zamo2.htm#4762" title="Bishop Marian Rojek (68)">
+        <img alt="Bishop Marian Rojek (68)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-LE.htm#3942" title="Bishop Mariusz Leszczyński (66)">
+        <img alt="Bishop Mariusz Leszczyński (66)" height="20" src="/images/prelateB3.gif" width="16"/>
+       </a>
+       <a href="../diocese/zamo2.htm#3943" title="Bishop Jan Śrutwa (82)">
+        <img alt="Bishop Jan Śrutwa (82)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.zamosc.opoka.org.pl" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="ziel0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/ziel0.htm">
+       Zielona Góra–Gorzów
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="PL-province.htm#ziel0">
+       Szczecin–Kamień
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/poland/3160.htm" title="Katedra Wniebowzięcia Najświętszej Maryi Panny">
+        <img alt="Katedra Wniebowzięcia Najświętszej Maryi Panny" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/poland/3161.htm" title="Konkatedra św. Jadwigi Śląskiej">
+        <img alt="Konkatedra św. Jadwigi Śląskiej" height="20" src="/images/c1c.gif" width="17"/>
+       </a>
+       <a href="../../churches/poland/1431.htm" title="Bazylika Matki Bożej Rokitniańskiej">
+        <img alt="Bazylika Matki Bożej Rokitniańskiej" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/ziel0.htm#50378" title="Bishop Tadeusz Lityński (60)">
+        <img alt="Bishop Tadeusz Lityński (60)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-PR.htm#74400" title="Bishop Adrian Put (44)">
+        <img alt="Bishop Adrian Put (44)" height="20" src="/images/prelateB3.gif" width="16"/>
+       </a>
+       <a href="../diocese/ziel0.htm#3972" title="Bishop Stefan Regmunt (71)">
+        <img alt="Bishop Stefan Regmunt (71)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-SK.htm#3955" title="Bishop Paweł Socha, C.M. (88)">
+        <img alt="Bishop Paweł Socha, C.M. (88)" height="20" src="/images/prelateB4.gif" width="16"/>
+       </a>
+       <a class="link" href="http://diecezjazg.pl" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/diecezjazg" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+       <a class="linkf" href="https://www.facebook.com/DIEC.ZG" rel="nofollow" target="_blank" title="Facebook Page">
+       </a>
+      </span>
+     </td>
+    </tr>
+
+    <tr id="pola0">
+     <td>
+      <img alt="Ordinariate" height="20" src="/images/map/s30.png"/>
+      <a class="typeordi" href="../diocese/pola0.htm">
+       Ordynariat dla wiernych obrządku wschodniego w Polsce
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-Or.htm">
+       Eastern
+      </a>
+     </td>
+     <td>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../diocese/wars0.htm#3949" title="Cardinal Kazimierz Nycz (73)">
+        <img alt="Cardinal Kazimierz Nycz (73)" height="20" src="/images/prelateC1.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.ordynariat.ormianie.pl" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="pola1">
+     <td>
+      <img alt="Military Ordinariate" height="20" src="/images/map/s09.png"/>
+      <a class="typemltr" href="../diocese/pola1.htm">
+       Ordynariat Polowy Wojska Polskiego
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/poland/1860.htm" title="Katedra Polowa Wojska Polskiego">
+        <img alt="Katedra Polowa Wojska Polskiego" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/pola1.htm#21188" title="Bishop Wiesław Lechowicz (60)">
+        <img alt="Bishop Wiesław Lechowicz (60)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.ordynariat.wp.mil.pl" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+   </table>
+  </div>
+  <div class="separator">
+  </div>
+  <a name="titular">
+  </a>
+  <div class="entries">
+   <p>
+    <span class="label">
+     <span class="em">
+      Titular Episcopal Sees
+     </span>
+     <span class="zstat">
+      (4)
+     </span>
+     :
+    </span>
+    <a class="typet6" href="../former/t2081.htm">
+     Chełm
+    </a>
+    ,
+    <a class="typet6" href="../former/pome0.htm">
+     Pomezania
+    </a>
+    ,
+    <a class="typet6" href="../former/t2084.htm">
+     Sejny
+    </a>
+    ,
+    <a class="typet6" href="../former/t2088.htm">
+     Wigry
+    </a>
+   </p>
+  </div>
+  <p class="asof">
+   Last updated on 2023.06.11
+  </p>
+  <p class="copy" id="end">
+   © 2023 GCatholic.org
+  </p>
+  <table width="100%">
+   <tr>
+    <td align="left" width="50%">
+    </td>
+    <td valign="bottom" width="50%">
+     <p align="right">
+      <a href="PL.htm" title="Up">
+       <img alt="Up" height="30" src="/images/nav-up.png" width="50"/>
+      </a>
+     </p>
+    </td>
+   </tr>
+  </table>
+  <script src="/menu/footer.js">
+  </script>
+ </body>
+</html>

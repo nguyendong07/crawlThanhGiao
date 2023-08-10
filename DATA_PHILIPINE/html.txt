@@ -1,0 +1,2883 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <title>
+   Catholic Dioceses in Philippines (by Type)
+  </title>
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+  <meta content="Sun, 18 Jun 2023 16:00:00 GMT" http-equiv="EXPIRES"/>
+  <meta content="IE=Edge" http-equiv="X-UA-Compatible">
+   <link href="/css/gcatholic.css?15" rel="stylesheet" type="text/css"/>
+   <script src="/menu/menu2.js?d">
+   </script>
+   <link href="http://www.gcatholic.org/dioceses/country/PH-type.htm" rel="canonical"/>
+  </meta>
+ </head>
+ <body alink="#008040" link="#408040" vlink="#387038">
+  <script src="/menu/header.js?23">
+  </script>
+  <table class="hd">
+   <tr>
+    <td width="150">
+    </td>
+    <td>
+     <h1>
+      Catholic Dioceses
+     </h1>
+     <h3>
+      in
+     </h3>
+     <h2>
+      Republic of the Philippines (Philippines)
+     </h2>
+    </td>
+    <td align="right" width="150">
+     <a href="PH.htm" title="Philippines">
+      <img alt="Philippines" class="flag" height="80" src="/images/flags/PH.png" width="160"/>
+     </a>
+    </td>
+   </tr>
+  </table>
+  <div align="center" class="nav">
+   <table cellspacing="0">
+    <tr class="tr">
+     <td class="t">
+      by Type
+     </td>
+     <td>
+      <a href="PH-name.htm">
+       by Name
+      </a>
+     </td>
+     <td>
+      <a href="PH-province.htm">
+       by Ecclesiastical Province
+      </a>
+     </td>
+     <td>
+      <a href="PH-former.htm">
+       Former Jurisdictions
+      </a>
+     </td>
+    </tr>
+   </table>
+  </div>
+  <div align="center">
+   <table class="tb" width="90%">
+    <tr id="cace0">
+     <td>
+      <img alt="Metr. Archdiocese" height="20" src="/images/map/s02.png"/>
+      <a class="typemetr" href="../diocese/cace0.htm">
+       Caceres
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="PH-province.htm#cace0">
+       Caceres
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/asia/2617.htm" title="Metropolitan Cathedral of St. John the Evangelist">
+        <img alt="Metropolitan Cathedral of St. John the Evangelist" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/asia/1184.htm" title="Basilica of Our Lady of Peñafrancia">
+        <img alt="Basilica of Our Lady of Peñafrancia" height="20" src="/images/c3db.gif" width="19"/>
+       </a>
+       <a href="../diocese/cace0.htm#3156" title="Archbishop Rolando Joven Tria Tirona, O.C.D. (76)">
+        <img alt="Archbishop Rolando Joven Tria Tirona, O.C.D. (76)" height="20" src="/images/prelateA1.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.caceres-naga.org" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkf" href="https://www.facebook.com/ArchdioceseOfCaceres" rel="nofollow" target="_blank" title="Facebook Page">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="caga0">
+     <td>
+      <img alt="Metr. Archdiocese" height="20" src="/images/map/s02.png"/>
+      <a class="typemetr" href="../diocese/caga0.htm">
+       Cagayan de Oro
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="PH-province.htm#caga0">
+       Cagayan de Oro
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/asia/1918.htm" title="St. Augustine Metropolitan Cathedral">
+        <img alt="St. Augustine Metropolitan Cathedral" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/caga0.htm#29961" title="Archbishop José Araneta Cabantan (65)">
+        <img alt="Archbishop José Araneta Cabantan (65)" height="20" src="/images/prelateA1.gif" width="22"/>
+       </a>
+       <a href="../diocese/caga0.htm#3206" title="Archbishop Antonio Javellana Ledesma, S.J. (80)">
+        <img alt="Archbishop Antonio Javellana Ledesma, S.J. (80)" height="20" src="/images/prelateA2.gif" width="22"/>
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="capi0">
+     <td>
+      <img alt="Metr. Archdiocese" height="20" src="/images/map/s02.png"/>
+      <a class="typemetr" href="../diocese/capi0.htm">
+       Capiz
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="PH-province.htm#capi0">
+       Capiz
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/asia/1917.htm" title="Metropolitan Cathedral of the Immaculate Conception">
+        <img alt="Metropolitan Cathedral of the Immaculate Conception" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/capi0.htm#60911" title="Archbishop Victor Barnuevo Bendico (63)">
+        <img alt="Archbishop Victor Barnuevo Bendico (63)" height="20" src="/images/prelateA1.gif" width="22"/>
+       </a>
+       <a class="link" href="http://archdioceseofcapiz.org" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/ArchCapiz" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+       <a class="linkf" href="https://www.facebook.com/ArchdioceseOfCapiz" rel="nofollow" target="_blank" title="Facebook Page">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="cebu0">
+     <td>
+      <img alt="Metr. Archdiocese" height="20" src="/images/map/s02.png"/>
+      <a class="typemetr" href="../diocese/cebu0.htm">
+       Cebu
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="PH-province.htm#cebu0">
+       Cebu
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/asia/1916.htm" title="Metropolitan Cathedral of St. Vitales">
+        <img alt="Metropolitan Cathedral of St. Vitales" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/asia/0946.htm" title="Basilica of the Santo Niño">
+        <img alt="Basilica of the Santo Niño" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/asia/6364.htm" title="National Shrine of Nuestra Señora Virgen de la Regla">
+        <img alt="National Shrine of Nuestra Señora Virgen de la Regla" height="20" src="/images/c3d.gif" width="15"/>
+       </a>
+       <a href="../../churches/asia/6365.htm" title="National Shrine of St. Joseph">
+        <img alt="National Shrine of St. Joseph" height="20" src="/images/c3d.gif" width="15"/>
+       </a>
+       <a href="../diocese/cebu0.htm#3189" title="Archbishop Jose Serofia Palma (73)">
+        <img alt="Archbishop Jose Serofia Palma (73)" height="20" src="/images/prelateA1.gif" width="22"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-BI.htm#62823" title="Bishop Midyphil Bermejo Billones (53)">
+        <img alt="Bishop Midyphil Bermejo Billones (53)" height="20" src="/images/prelateB3.gif" width="16"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-C.htm#74396" title="Bishop Ruben Caballero Labajo (56)">
+        <img alt="Bishop Ruben Caballero Labajo (56)" height="20" src="/images/prelateB3.gif" width="16"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-R.htm#3120" title="Bishop Antonio Racelis Rañola (91)">
+        <img alt="Bishop Antonio Racelis Rañola (91)" height="20" src="/images/prelateB4.gif" width="16"/>
+       </a>
+       <a href="../diocese/ilig0.htm#3122" title="Bishop Emilio Layon Bataclan (82)">
+        <img alt="Bishop Emilio Layon Bataclan (82)" height="20" src="/images/prelateB4.gif" width="16"/>
+       </a>
+       <a class="link" href="http://archdioceseofcebu.ph" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="cota0">
+     <td>
+      <img alt="Metr. Archdiocese" height="20" src="/images/map/s02.png"/>
+      <a class="typemetr" href="../diocese/cota0.htm">
+       Cotabato
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="PH-province.htm#cota0">
+       Cotabato
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/asia/2623.htm" title="Metropolitan Cathedral of the Immaculate Conception">
+        <img alt="Metropolitan Cathedral of the Immaculate Conception" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/cota0.htm#3210" title="Archbishop Angelito Rendon Lampon, O.M.I. (73)">
+        <img alt="Archbishop Angelito Rendon Lampon, O.M.I. (73)" height="20" src="/images/prelateA1.gif" width="22"/>
+       </a>
+       <a href="../../hierarchy/data/cardFR1-1.htm#3126" title="Cardinal Orlando Beltran Quevedo, O.M.I. (84)">
+        <img alt="Cardinal Orlando Beltran Quevedo, O.M.I. (84)" height="20" src="/images/prelateC2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://archdioceseofcotabato.org" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="dava0">
+     <td>
+      <img alt="Metr. Archdiocese" height="20" src="/images/map/s02.png"/>
+      <a class="typemetr" href="../diocese/dava0.htm">
+       Davao
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="PH-province.htm#dava0">
+       Davao
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/asia/1753.htm" title="Cathedral of San Pedro Apostol">
+        <img alt="Cathedral of San Pedro Apostol" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/dava0.htm#3127" title="Archbishop Romulo Geolina Valles (71)">
+        <img alt="Archbishop Romulo Geolina Valles (71)" height="20" src="/images/prelateA1.gif" width="22"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-RI.htm#8820" title="Bishop George Beluso Rimando (70)">
+        <img alt="Bishop George Beluso Rimando (70)" height="20" src="/images/prelateB3.gif" width="16"/>
+       </a>
+       <a href="../diocese/dava0.htm#3133" title="Archbishop Fernando Robles Capalla (88)">
+        <img alt="Archbishop Fernando Robles Capalla (88)" height="20" src="/images/prelateA2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://daditama.net/davao/" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="jaro0">
+     <td>
+      <img alt="Metr. Archdiocese" height="20" src="/images/map/s02.png"/>
+      <a class="typemetr" href="../diocese/jaro0.htm">
+       Jaro
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="PH-province.htm#jaro0">
+       Jaro
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/asia/2619.htm" title="Metropolitan Cathedral of St. Elizabeth of Hungary">
+        <img alt="Metropolitan Cathedral of St. Elizabeth of Hungary" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/asia/4154.htm" title="Church of Santo Tomas de Villanueva">
+        <img alt="Church of Santo Tomas de Villanueva" height="20" src="/images/c1d.gif" width="15"/>
+       </a>
+       <a href="../diocese/jaro0.htm#3118" title="Archbishop Jose Romeo Juanito Orquejo Lazo (74)">
+        <img alt="Archbishop Jose Romeo Juanito Orquejo Lazo (74)" height="20" src="/images/prelateA1.gif" width="22"/>
+       </a>
+       <a class="linkt" href="https://twitter.com/jaroarchdiocese" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="ling0">
+     <td>
+      <img alt="Metr. Archdiocese" height="20" src="/images/map/s02.png"/>
+      <a class="typemetr" href="../diocese/ling0.htm">
+       Lingayen–Dagupan
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="PH-province.htm#ling0">
+       Lingayen–Dagupan
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/asia/2839.htm" title="Cathedral of St. John the Evangelist">
+        <img alt="Cathedral of St. John the Evangelist" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/asia/1748.htm" title="Co-Cathedral of the Epiphany of the Lord">
+        <img alt="Co-Cathedral of the Epiphany of the Lord" height="20" src="/images/c1c.gif" width="17"/>
+       </a>
+       <a href="../../churches/asia/1798.htm" title="Sanctuario de San Juan Evangelista">
+        <img alt="Sanctuario de San Juan Evangelista" height="20" src="/images/c1b.gif" width="17"/>
+       </a>
+       <a href="../../churches/asia/5883.htm" title="Basilica of Our Lady of the Rosary">
+        <img alt="Basilica of Our Lady of the Rosary" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/asia/6653.htm" title="Basilica of St. Dominic Guzman">
+        <img alt="Basilica of St. Dominic Guzman" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/ling0.htm#3196" title="Archbishop Socrates Buenaventura Villegas (62)">
+        <img alt="Archbishop Socrates Buenaventura Villegas (62)" height="20" src="/images/prelateA1.gif" width="22"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-L.htm#62488" title="Bishop Fidelis Bautista Layog (54)">
+        <img alt="Bishop Fidelis Bautista Layog (54)" height="20" src="/images/prelateB3.gif" width="16"/>
+       </a>
+       <a class="link" href="http://lingayen-dagupan.org" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkf" href="https://www.facebook.com/rcaldph" rel="nofollow" target="_blank" title="Facebook Page">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="lipa0">
+     <td>
+      <img alt="Metr. Archdiocese" height="20" src="/images/map/s02.png"/>
+      <a class="typemetr" href="../diocese/lipa0.htm">
+       Lipa
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="PH-province.htm#lipa0">
+       Lipa
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/asia/1754.htm" title="San Sebastian Cathedral">
+        <img alt="San Sebastian Cathedral" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/asia/0659.htm" title="Basilica of St. Martin de Tours">
+        <img alt="Basilica of St. Martin de Tours" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/asia/0643.htm" title="Basilica of the Immaculate Conception">
+        <img alt="Basilica of the Immaculate Conception" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/asia/4100.htm" title="National Shrine of St. Padre Pio">
+        <img alt="National Shrine of St. Padre Pio" height="20" src="/images/c3d.gif" width="15"/>
+       </a>
+       <a href="../diocese/lipa0.htm#13719" title="Archbishop Gilbert Armea Garcera (64)">
+        <img alt="Archbishop Gilbert Armea Garcera (64)" height="20" src="/images/prelateA1.gif" width="22"/>
+       </a>
+       <a href="../diocese/lipa0.htm#3151" title="Archbishop Ramon Cabrera Argüelles (78)">
+        <img alt="Archbishop Ramon Cabrera Argüelles (78)" height="20" src="/images/prelateA2.gif" width="22"/>
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="mani0">
+     <td>
+      <img alt="Metr. Archdiocese" height="20" src="/images/map/s02.png"/>
+      <a class="typemetr" href="../diocese/mani0.htm">
+       Manila
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="PH-province.htm#mani0">
+       Manila
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/asia/1138.htm" title="Metropolitan Cathedral Basilica of the Immaculate Conception">
+        <img alt="Metropolitan Cathedral Basilica of the Immaculate Conception" height="20" src="/images/c1ab.gif" width="19"/>
+       </a>
+       <a href="../../churches/asia/1288.htm" title="Basilica of San Lorenzo Ruiz">
+        <img alt="Basilica of San Lorenzo Ruiz" height="20" src="/images/c3db.gif" width="19"/>
+       </a>
+       <a href="../../churches/asia/0228.htm" title="Basilica of San Sebastián">
+        <img alt="Basilica of San Sebastián" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/asia/1207.htm" title="Basilica of the Black Nazarene (Quiapo Church)">
+        <img alt="Basilica of the Black Nazarene (Quiapo Church)" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/asia/4151.htm" title="Church of San Agustin">
+        <img alt="Church of San Agustin" height="20" src="/images/c4d.gif" width="15"/>
+       </a>
+       <a href="../../churches/asia/4765.htm" title="National Shrine of Our Lady of Guadalupe">
+        <img alt="National Shrine of Our Lady of Guadalupe" height="20" src="/images/c3d.gif" width="15"/>
+       </a>
+       <a href="../../churches/asia/6464.htm" title="National Shrine of Our Lady of the Abandoned">
+        <img alt="National Shrine of Our Lady of the Abandoned" height="20" src="/images/c3d.gif" width="15"/>
+       </a>
+       <a href="../../churches/asia/5538.htm" title="National Shrine of St. Jude">
+        <img alt="National Shrine of St. Jude" height="20" src="/images/c3d.gif" width="15"/>
+       </a>
+       <a href="../../churches/asia/3660.htm" title="National Shrine of St. Michael and the Archangels">
+        <img alt="National Shrine of St. Michael and the Archangels" height="20" src="/images/c3d.gif" width="15"/>
+       </a>
+       <a href="../../churches/asia/3658.htm" title="National Shrine of the Sacred Heart">
+        <img alt="National Shrine of the Sacred Heart" height="20" src="/images/c3d.gif" width="15"/>
+       </a>
+       <a href="../diocese/mani0.htm#3139" title="Cardinal Jose Fuerte Advincula (71)">
+        <img alt="Cardinal Jose Fuerte Advincula (71)" height="20" src="/images/prelateC1.gif" width="22"/>
+       </a>
+       <a href="../../hierarchy/data/cardB16-1.htm#3158" title="Cardinal Gaudencio Borbon Rosales (90)">
+        <img alt="Cardinal Gaudencio Borbon Rosales (90)" height="20" src="/images/prelateC2.gif" width="22"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-BU.htm#3159" title="Bishop Teodoro Javier Buhain Jr. (85)">
+        <img alt="Bishop Teodoro Javier Buhain Jr. (85)" height="20" src="/images/prelateB4.gif" width="16"/>
+       </a>
+       <a class="link" href="http://www.rcam.org" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="nseg0">
+     <td>
+      <img alt="Metr. Archdiocese" height="20" src="/images/map/s02.png"/>
+      <a class="typemetr" href="../diocese/nseg0.htm">
+       Nueva Segovia
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="PH-province.htm#nseg0">
+       Nueva Segovia
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/asia/1756.htm" title="Metropolitan Cathedral of the Conversion of St. Paul the Apostle">
+        <img alt="Metropolitan Cathedral of the Conversion of St. Paul the Apostle" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/asia/6591.htm" title="Basilica of St. Nicolas of Tolentino">
+        <img alt="Basilica of St. Nicolas of Tolentino" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/asia/4152.htm" title="Church of Nuestra Señora de la Asunción">
+        <img alt="Church of Nuestra Señora de la Asunción" height="20" src="/images/c1d.gif" width="15"/>
+       </a>
+       <a href="../diocese/nseg0.htm#7305" title="Archbishop Marlo Mendoza Peralta (72)">
+        <img alt="Archbishop Marlo Mendoza Peralta (72)" height="20" src="/images/prelateA1.gif" width="22"/>
+       </a>
+       <a href="../diocese/nseg0.htm#3178" title="Archbishop Ernesto Antolin Salgado (86)">
+        <img alt="Archbishop Ernesto Antolin Salgado (86)" height="20" src="/images/prelateA2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://nschancery.blogspot.com" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="ozam0">
+     <td>
+      <img alt="Metr. Archdiocese" height="20" src="/images/map/s02.png"/>
+      <a class="typemetr" href="../diocese/ozam0.htm">
+       Ozamiz
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="PH-province.htm#ozam0">
+       Ozamiz
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/asia/1814.htm" title="Immaculate Conception Cathedral">
+        <img alt="Immaculate Conception Cathedral" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/ozam0.htm#3205" title="Archbishop Martin Sarmiento Jumoad (66)">
+        <img alt="Archbishop Martin Sarmiento Jumoad (66)" height="20" src="/images/prelateA1.gif" width="22"/>
+       </a>
+       <a class="link" href="http://ozamizarchdiocese.org" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="palo0">
+     <td>
+      <img alt="Metr. Archdiocese" height="20" src="/images/map/s02.png"/>
+      <a class="typemetr" href="../diocese/palo0.htm">
+       Palo
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="PH-province.htm#palo0">
+       Palo
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/asia/3025.htm" title="Cathedral of the Transfiguration of Our Lord">
+        <img alt="Cathedral of the Transfiguration of Our Lord" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/palo0.htm#3123" title="Archbishop John Forrosuelo Du (68)">
+        <img alt="Archbishop John Forrosuelo Du (68)" height="20" src="/images/prelateA1.gif" width="22"/>
+       </a>
+       <a href="../diocese/palo0.htm#3186" title="Archbishop Pedro Rosales Dean (93)">
+        <img alt="Archbishop Pedro Rosales Dean (93)" height="20" src="/images/prelateA2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://archdioceseofpalo.org" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkf" href="https://www.facebook.com/archdioceseofpalo" rel="nofollow" target="_blank" title="Facebook Page">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="zfer0">
+     <td>
+      <img alt="Metr. Archdiocese" height="20" src="/images/map/s02.png"/>
+      <a class="typemetr" href="../diocese/zfer0.htm">
+       San Fernando
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="PH-province.htm#zfer0">
+       San Fernando
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/asia/1874.htm" title="Metropolitan Cathedral of St. Ferdinand">
+        <img alt="Metropolitan Cathedral of St. Ferdinand" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/zfer0.htm#3197" title="Archbishop Florentino Galang Lavarias (66)">
+        <img alt="Archbishop Florentino Galang Lavarias (66)" height="20" src="/images/prelateA1.gif" width="22"/>
+       </a>
+       <a href="../diocese/zfer0.htm#3195" title="Archbishop Paciano Basilio Aniceto (86)">
+        <img alt="Archbishop Paciano Basilio Aniceto (86)" height="20" src="/images/prelateA2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.rcasf.com" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="tugu0">
+     <td>
+      <img alt="Metr. Archdiocese" height="20" src="/images/map/s02.png"/>
+      <a class="typemetr" href="../diocese/tugu0.htm">
+       Tuguegarao
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="PH-province.htm#tugu0">
+       Tuguegarao
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/asia/3018.htm" title="St. Peter’s Cathedral">
+        <img alt="St. Peter’s Cathedral" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/asia/6220.htm" title="Church of St. Dominic de Guzman">
+        <img alt="Church of St. Dominic de Guzman" height="20" src="/images/c1b.gif" width="17"/>
+       </a>
+       <a href="../../churches/asia/1338.htm" title="Basilica of Our Lady of Piat">
+        <img alt="Basilica of Our Lady of Piat" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/tugu0.htm#13684" title="Archbishop Ricardo Lingan Baccay (62)">
+        <img alt="Archbishop Ricardo Lingan Baccay (62)" height="20" src="/images/prelateA1.gif" width="22"/>
+       </a>
+       <a href="../diocese/tugu0.htm#3199" title="Archbishop Diosdado Aenlle Talamayan (90)">
+        <img alt="Archbishop Diosdado Aenlle Talamayan (90)" height="20" src="/images/prelateA2.gif" width="22"/>
+       </a>
+       <a href="../diocese/tugu0.htm#3202" title="Archbishop Sergio Lasam Utleg (79)">
+        <img alt="Archbishop Sergio Lasam Utleg (79)" height="20" src="/images/prelateA2.gif" width="22"/>
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="zamb0">
+     <td>
+      <img alt="Metr. Archdiocese" height="20" src="/images/map/s02.png"/>
+      <a class="typemetr" href="../diocese/zamb0.htm">
+       Zamboanga
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="PH-province.htm#zamb0">
+       Zamboanga
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/asia/3027.htm" title="Metropolitan Cathedral of the Immaculate Conception">
+        <img alt="Metropolitan Cathedral of the Immaculate Conception" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/zamb0.htm#16346" title="Archbishop Julius Sullan Tonel (66)">
+        <img alt="Archbishop Julius Sullan Tonel (66)" height="20" src="/images/prelateA1.gif" width="22"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-CR.htm#67015" title="Bishop Moises Magpantay Cuevas (49)">
+        <img alt="Bishop Moises Magpantay Cuevas (49)" height="20" src="/images/prelateB3.gif" width="16"/>
+       </a>
+       <a class="link" href="http://www.zamboangaarchdiocese.com" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="alam0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/alam0.htm">
+       Alaminos
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="PH-province.htm#alam0">
+       Lingayen–Dagupan
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/asia/3016.htm" title="Cathedral of St. Joseph the Patriarch">
+        <img alt="Cathedral of St. Joseph the Patriarch" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-L.htm#62488" title="Bishop Fidelis Bautista Layog (54)">
+        <img alt="Bishop Fidelis Bautista Layog (54)" height="20" src="/images/prelateB3.gif" width="16"/>
+       </a>
+       <a href="../diocese/alam0.htm#3145" title="Bishop Jesus Aputen Cabrera (82)">
+        <img alt="Bishop Jesus Aputen Cabrera (82)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="anti4">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/anti4.htm">
+       Antipolo
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="PH-province.htm#anti4">
+       Manila
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/asia/3181.htm" title="Cathedral of the Immaculate Conception">
+        <img alt="Cathedral of the Immaculate Conception" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/anti4.htm#35991" title="Bishop Ruperto Cruz Santos (65)">
+        <img alt="Bishop Ruperto Cruz Santos (65)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-BU.htm#62137" title="Bishop Nolly Camingue Buco (59)">
+        <img alt="Bishop Nolly Camingue Buco (59)" height="20" src="/images/prelateB3.gif" width="16"/>
+       </a>
+       <a href="../diocese/anti4.htm#3162" title="Bishop Gabriel Villaruz Reyes (81)">
+        <img alt="Bishop Gabriel Villaruz Reyes (81)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+       <a href="../diocese/anti4.htm#3163" title="Bishop Crisostomo Ayson Yalung (69)">
+        <img alt="Bishop Crisostomo Ayson Yalung (69)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+       <a href="../diocese/anti4.htm#16337" title="Bishop Francisco Mendoza de León (76)">
+        <img alt="Bishop Francisco Mendoza de León (76)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://antipolodiocese.org" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkf" href="https://www.facebook.com/antipolodiocese" rel="nofollow" target="_blank" title="Facebook Page">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="baco0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/baco0.htm">
+       Bacolod
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="PH-province.htm#baco0">
+       Jaro
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/asia/1760.htm" title="San Sebastian Cathedral">
+        <img alt="San Sebastian Cathedral" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/asia/5133.htm" title="Pro-Cathedral of San Diego">
+        <img alt="Pro-Cathedral of San Diego" height="20" src="/images/c1d.gif" width="15"/>
+       </a>
+       <a href="../diocese/baco0.htm#3136" title="Bishop Patricio Abella Buzon, S.D.B. (73)">
+        <img alt="Bishop Patricio Abella Buzon, S.D.B. (73)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../diocese/baco0.htm#3135" title="Bishop Vicente Macanan Navarra (84)">
+        <img alt="Bishop Vicente Macanan Navarra (84)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://dioceseofbacolod.org.ph" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="bagu0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/bagu0.htm">
+       Baguio
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="PH-province.htm#bagu0">
+       Nueva Segovia
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/asia/3196.htm" title="Cathedral of Our Lady of Atonement">
+        <img alt="Cathedral of Our Lady of Atonement" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a class="link" href="http://www.dioceseofbaguio.church" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="bala0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/bala0.htm">
+       Balanga
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="PH-province.htm#bala0">
+       San Fernando
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/asia/1921.htm" title="Cathedral of St. Joseph">
+        <img alt="Cathedral of St. Joseph" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/asia/6447.htm" title="Basilica of Our Lady of the Most Holy Rosary">
+        <img alt="Basilica of Our Lady of the Most Holy Rosary" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/asia-east/86771.htm" title="National Shrine of St. John Paul II">
+        <img alt="National Shrine of St. John Paul II" height="20" src="/images/c3d.gif" width="15"/>
+       </a>
+       <a class="link" href="http://www.balangadiocese.com" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="bang4">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/bang4.htm">
+       Bangued
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="PH-province.htm#bang4">
+       Nueva Segovia
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/asia/2631.htm" title="Cathedral of St. James the Elder">
+        <img alt="Cathedral of St. James the Elder" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/bang4.htm#12413" title="Bishop Leopoldo Corpuz Jaucian, S.V.D. (62)">
+        <img alt="Bishop Leopoldo Corpuz Jaucian, S.V.D. (62)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="bayo0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/bayo0.htm">
+       Bayombong
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="PH-province.htm#bayo0">
+       Tuguegarao
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/asia/2629.htm" title="Cathedral of St. Dominic de Guzman">
+        <img alt="Cathedral of St. Dominic de Guzman" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/bayo0.htm#60704" title="Bishop Jose Elmer Imas Mangalinao (63)">
+        <img alt="Bishop Jose Elmer Imas Mangalinao (63)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../diocese/bayo0.htm#3200" title="Bishop Ramon Barrera Villena (84)">
+        <img alt="Bishop Ramon Barrera Villena (84)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="boac0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/boac0.htm">
+       Boac
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="PH-province.htm#boac0">
+       Lipa
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/asia/1920.htm" title="Cathedral of the Immaculate Conception">
+        <img alt="Cathedral of the Immaculate Conception" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/boac0.htm#58379" title="Bishop Marcelino Antonio Malabanan Maralit (54)">
+        <img alt="Bishop Marcelino Antonio Malabanan Maralit (54)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a class="link" href="http://dioceseofboac.org" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="boro0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/boro0.htm">
+       Borongan
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="PH-province.htm#boro0">
+       Palo
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/asia/3015.htm" title="Cathedral of the Nativity of the Blessed Virgin Mary">
+        <img alt="Cathedral of the Nativity of the Blessed Virgin Mary" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/boro0.htm#17351" title="Bishop Crispin Barrete Varquez (62)">
+        <img alt="Bishop Crispin Barrete Varquez (62)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a class="link" href="http://borongandiocese.org" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/borongandiocese" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+       <a class="linkf" href="https://www.facebook.com/borongandiocese" rel="nofollow" target="_blank" title="Facebook Page">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="butu0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/butu0.htm">
+       Butuan
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="PH-province.htm#butu0">
+       Cagayan de Oro
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/asia/1919.htm" title="St. Joseph Cathedral Shrine">
+        <img alt="St. Joseph Cathedral Shrine" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/butu0.htm#62560" title="Bishop Cosme Damian Racines Almedilla (63)">
+        <img alt="Bishop Cosme Damian Racines Almedilla (63)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="caba0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/caba0.htm">
+       Cabanatuan
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="PH-province.htm#caba0">
+       Lingayen–Dagupan
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/asia/2628.htm" title="Cathedral of St. Nicholas of Tolentino">
+        <img alt="Cathedral of St. Nicholas of Tolentino" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/asia/5918.htm" title="Former Cathedral of St. Nicolas of Tolentino">
+        <img alt="Former Cathedral of St. Nicolas of Tolentino" height="20" src="/images/c1b.gif" width="17"/>
+       </a>
+       <a href="../../churches/asia/6532.htm" title="National Shrine of La Virgen Divina Pastora">
+        <img alt="National Shrine of La Virgen Divina Pastora" height="20" src="/images/c3d.gif" width="15"/>
+       </a>
+       <a href="../diocese/caba0.htm#3146" title="Bishop Sofronio Aguirre Bancud, S.S.S. (74)">
+        <img alt="Bishop Sofronio Aguirre Bancud, S.S.S. (74)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a class="link" href="http://dioceseofcabanatuan.net" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkf" href="https://www.facebook.com/dioceseofcabanatuan" rel="nofollow" target="_blank" title="Facebook Page">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="calb0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/calb0.htm">
+       Calbayog
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="PH-province.htm#calb0">
+       Palo
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/asia/2635.htm" title="Cathedral of Sts. Peter and Paul">
+        <img alt="Cathedral of Sts. Peter and Paul" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/calb0.htm#3187" title="Bishop Isabelo Caiban Abarquez (63)">
+        <img alt="Bishop Isabelo Caiban Abarquez (63)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../diocese/calb0.htm#3190" title="Bishop Ricardo Pido Tancinco (89)">
+        <img alt="Bishop Ricardo Pido Tancinco (89)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="cata3">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/cata3.htm">
+       Catarman
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="PH-province.htm#cata3">
+       Palo
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/asia/2624.htm" title="Cathedral of Our Lady of the Annunciation">
+        <img alt="Cathedral of Our Lady of the Annunciation" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/cata3.htm#3193" title="Bishop Emmanuel Celeste Trance (69)">
+        <img alt="Bishop Emmanuel Celeste Trance (69)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="cuba0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/cuba0.htm">
+       Cubao
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="PH-province.htm#cuba0">
+       Manila
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/asia/1915.htm" title="Cathedral of the Immaculate Conception">
+        <img alt="Cathedral of the Immaculate Conception" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/asia/6510.htm" title="Basilica Minore de San Pedro Bautista">
+        <img alt="Basilica Minore de San Pedro Bautista" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/asia/5526.htm" title="Basilica of the National Shrine of Our Lady of Mount Carmel">
+        <img alt="Basilica of the National Shrine of Our Lady of Mount Carmel" height="20" src="/images/c3db.gif" width="19"/>
+       </a>
+       <a href="../../churches/asia/3661.htm" title="National Shrine of Our Lady of Lourdes">
+        <img alt="National Shrine of Our Lady of Lourdes" height="20" src="/images/c3d.gif" width="15"/>
+       </a>
+       <a href="../../churches/asia/3662.htm" title="National Shrine of Our Lady of the Holy Rosary of La Naval de Manila">
+        <img alt="National Shrine of Our Lady of the Holy Rosary of La Naval de Manila" height="20" src="/images/c3d.gif" width="15"/>
+       </a>
+       <a href="../diocese/cuba0.htm#3161" title="Bishop Honesto Flores Ongtioco (74)">
+        <img alt="Bishop Honesto Flores Ongtioco (74)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a class="link" href="http://dioceseofcubao.ph" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkf" href="https://www.facebook.com/RomanCatholicDiocseofCubao" rel="nofollow" target="_blank" title="Facebook Page">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="daet0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/daet0.htm">
+       Daet
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="PH-province.htm#daet0">
+       Caceres
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/asia/2622.htm" title="Cathedral of the Most Holy Trinity">
+        <img alt="Cathedral of the Most Holy Trinity" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/asia/5827.htm" title="Church of St. John the Baptist">
+        <img alt="Church of St. John the Baptist" height="20" src="/images/c1b.gif" width="17"/>
+       </a>
+       <a href="../diocese/daet0.htm#62377" title="Bishop Rex Andrew Clement Alarcon (52)">
+        <img alt="Bishop Rex Andrew Clement Alarcon (52)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="digo0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/digo0.htm">
+       Digos
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="PH-province.htm#digo0">
+       Davao
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/asia/1897.htm" title="Mary, Mother and Mediatrix of Grace Cathedral">
+        <img alt="Mary, Mother and Mediatrix of Grace Cathedral" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/asia/5932.htm" title="Former Cathedral of Mary, Mother and Mediatrix of Grace">
+        <img alt="Former Cathedral of Mary, Mother and Mediatrix of Grace" height="20" src="/images/c1b.gif" width="17"/>
+       </a>
+       <a href="../diocese/digo0.htm#3131" title="Bishop Guillermo Dela Vega Afable (72)">
+        <img alt="Bishop Guillermo Dela Vega Afable (72)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="dipo0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/dipo0.htm">
+       Dipolog
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="PH-province.htm#dipo0">
+       Ozamiz
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/asia/1752.htm" title="Cathedral of Our Lady of the Holy Rosary">
+        <img alt="Cathedral of Our Lady of the Holy Rosary" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/dipo0.htm#56986" title="Bishop Severo Cagatan Caermare (53)">
+        <img alt="Bishop Severo Cagatan Caermare (53)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../diocese/dipo0.htm#3183" title="Bishop Jose Ricare Manguiran (86)">
+        <img alt="Bishop Jose Ricare Manguiran (86)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://dipolognon.com/dipologus/" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="duma0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/duma0.htm">
+       Dumaguete
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="PH-province.htm#duma0">
+       Cebu
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/asia/1872.htm" title="Cathedral of St. Catherine of Alexandria">
+        <img alt="Cathedral of St. Catherine of Alexandria" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/duma0.htm#3121" title="Bishop Julito Buhisan Cortes (66)">
+        <img alt="Bishop Julito Buhisan Cortes (66)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="guma0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/guma0.htm">
+       Gumaca
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="PH-province.htm#guma0">
+       Lipa
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/asia/1905.htm" title="Cathedral of San Diego de Alcala">
+        <img alt="Cathedral of San Diego de Alcala" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a class="link" href="http://gumacadiocese.com" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="ibaz0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/ibaz0.htm">
+       Iba
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="PH-province.htm#ibaz0">
+       San Fernando
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/asia/1879.htm" title="Cathedral of St. Augustine">
+        <img alt="Cathedral of St. Augustine" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/ibaz0.htm#61896" title="Bishop Bartolome Gaspar Santos (55)">
+        <img alt="Bishop Bartolome Gaspar Santos (55)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="ilag0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/ilag0.htm">
+       Ilagan
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="PH-province.htm#ilag0">
+       Tuguegarao
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/asia/6366.htm" title="Cathedral of St. Michael the Archangel">
+        <img alt="Cathedral of St. Michael the Archangel" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/asia/2621.htm" title="Co-Cathedral of St. Ferdinand">
+        <img alt="Co-Cathedral of St. Ferdinand" height="20" src="/images/c1c.gif" width="17"/>
+       </a>
+       <a href="../../churches/asia/6275.htm" title="National Shrine of Our Lady of the Visitation">
+        <img alt="National Shrine of Our Lady of the Visitation" height="20" src="/images/c3d.gif" width="15"/>
+       </a>
+       <a href="../diocese/ilag0.htm#47038" title="Bishop David William Valencia Antonio (59)">
+        <img alt="Bishop David William Valencia Antonio (59)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a class="link" href="http://dioceseofilagan.com" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="ilig0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/ilig0.htm">
+       Iligan
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="PH-province.htm#ilig0">
+       Ozamiz
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/asia/1878.htm" title="Cathedral of St. Michael the Archangel">
+        <img alt="Cathedral of St. Michael the Archangel" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/ilig0.htm#62690" title="Bishop Jose Ramirez Rapadas III (50)">
+        <img alt="Bishop Jose Ramirez Rapadas III (50)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a class="link" href="http://dioceseofiligan.com" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/DioceseofIligan" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="imus0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/imus0.htm">
+       Imus
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="PH-province.htm#imus0">
+       Manila
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/asia/3069.htm" title="Cathedral of Our Lady of the Pillar">
+        <img alt="Cathedral of Our Lady of the Pillar" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/asia/3655.htm" title="National Shrine of Our Lady of La Salette">
+        <img alt="National Shrine of Our Lady of La Salette" height="20" src="/images/c3d.gif" width="15"/>
+       </a>
+       <a href="../diocese/imus0.htm#3152" title="Bishop Reynaldo Gonda Evangelista (63)">
+        <img alt="Bishop Reynaldo Gonda Evangelista (63)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a class="link" href="http://imusdiocese.weebly.com" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="ipil0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/ipil0.htm">
+       Ipil
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="PH-province.htm#ipil0">
+       Zamboanga
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/asia/1877.htm" title="Cathedral of St. Joseph the Worker">
+        <img alt="Cathedral of St. Joseph the Worker" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="kaba1">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/kaba1.htm">
+       Kabankalan
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="PH-province.htm#kaba1">
+       Jaro
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/asia/3070.htm" title="Cathedral of St. Francis Xavier">
+        <img alt="Cathedral of St. Francis Xavier" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/kaba1.htm#62042" title="Bishop Louie Patalinghug Galbines (56)">
+        <img alt="Bishop Louie Patalinghug Galbines (56)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="kali0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/kali0.htm">
+       Kalibo
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="PH-province.htm#kali0">
+       Capiz
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/asia/2618.htm" title="Cathedral of St. John the Baptist">
+        <img alt="Cathedral of St. John the Baptist" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/kali0.htm#3116" title="Bishop Jose Corazon Tumbagahan Tala-oc (72)">
+        <img alt="Bishop Jose Corazon Tumbagahan Tala-oc (72)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="kalo1">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/kalo1.htm">
+       Kalookan
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="PH-province.htm#kalo1">
+       Manila
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/asia/3071.htm" title="Cathedral of San Roque">
+        <img alt="Cathedral of San Roque" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/kalo1.htm#8872" title="Bishop Pablo Virgilio Siongco David (64)">
+        <img alt="Bishop Pablo Virgilio Siongco David (64)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../diocese/kalo1.htm#3165" title="Bishop Deogracias Soriano Iñiguez Jr. (82)">
+        <img alt="Bishop Deogracias Soriano Iñiguez Jr. (82)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://kalookandiocese.org" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/DioceseKalookan" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="kida0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/kida0.htm">
+       Kidapawan
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="PH-province.htm#kida0">
+       Cotabato
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/asia/1866.htm" title="Cathedral of Our Lady Mediatrix of All Grace">
+        <img alt="Cathedral of Our Lady Mediatrix of All Grace" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/kida0.htm#8682" title="Bishop José Colin Mendoza Bagaforo (69)">
+        <img alt="Bishop José Colin Mendoza Bagaforo (69)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="laoa0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/laoa0.htm">
+       Laoag
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="PH-province.htm#laoa0">
+       Nueva Segovia
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/asia/1766.htm" title="Cathedral of St. William the Hermit">
+        <img alt="Cathedral of St. William the Hermit" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/asia/6380.htm" title="Basilica of San Juan Bautista">
+        <img alt="Basilica of San Juan Bautista" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/asia/4153.htm" title="Church of San Agustin">
+        <img alt="Church of San Agustin" height="20" src="/images/c1d.gif" width="15"/>
+       </a>
+       <a href="../diocese/laoa0.htm#3144" title="Bishop Renato Pine Mayugba (67)">
+        <img alt="Bishop Renato Pine Mayugba (67)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a class="link" href="http://dioceseoflaoag47.blogspot.com" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="lega0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/lega0.htm">
+       Legazpi
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="PH-province.htm#lega0">
+       Caceres
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/asia/1755.htm" title="Cathedral of St. Gregory the Great">
+        <img alt="Cathedral of St. Gregory the Great" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/lega0.htm#3103" title="Bishop Joel Zamudio Baylon (69)">
+        <img alt="Bishop Joel Zamudio Baylon (69)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../diocese/lega0.htm#3100" title="Bishop Nestor Celestial Cariño (84)">
+        <img alt="Bishop Nestor Celestial Cariño (84)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-Q.htm#3102" title="Bishop Lucilo Barrameda Quiambao (90)">
+        <img alt="Bishop Lucilo Barrameda Quiambao (90)" height="20" src="/images/prelateB4.gif" width="16"/>
+       </a>
+       <a class="link" href="http://www.legazpidiocese.com" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/legazpidiocese" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="libm0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/libm0.htm">
+       Libmanan
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="PH-province.htm#libm0">
+       Caceres
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/asia/3072.htm" title="Cathedral of St. James the Apostle">
+        <img alt="Cathedral of St. James the Apostle" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/libm0.htm#3097" title="Bishop José Rojas Rojas (66)">
+        <img alt="Bishop José Rojas Rojas (66)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.libmanan.com" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="luce0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/luce0.htm">
+       Lucena
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="PH-province.htm#luce0">
+       Lipa
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/asia/3066.htm" title="Cathedral of St. Ferdinand">
+        <img alt="Cathedral of St. Ferdinand" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/asia/1217.htm" title="Basilica of St. Michael the Archangel">
+        <img alt="Basilica of St. Michael the Archangel" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/asia/6288.htm" title="National Shrine of Our Lady of Sorrows">
+        <img alt="National Shrine of Our Lady of Sorrows" height="20" src="/images/c3d.gif" width="15"/>
+       </a>
+       <a href="../diocese/luce0.htm#61526" title="Bishop Mel Rey Mingoa Uy (55)">
+        <img alt="Bishop Mel Rey Mingoa Uy (55)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../diocese/luce0.htm#3155" title="Bishop Emilio Zurbano Marquez (82)">
+        <img alt="Bishop Emilio Zurbano Marquez (82)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://dioceseoflucena.com" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="maas0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/maas0.htm">
+       Maasin
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="PH-province.htm#maas0">
+       Cebu
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/asia/1873.htm" title="Cathedral of Our Lady of the Assumption">
+        <img alt="Cathedral of Our Lady of the Assumption" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/maas0.htm#3124" title="Bishop Precioso Dacalos Cantillas, S.D.B. (69)">
+        <img alt="Bishop Precioso Dacalos Cantillas, S.D.B. (69)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.dioceseofmaasin.org" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="mala6">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/mala6.htm">
+       Malaybalay
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="PH-province.htm#mala6">
+       Cagayan de Oro
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/asia/2802.htm" title="Cathedral of San Isidro Labrador">
+        <img alt="Cathedral of San Isidro Labrador" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/mala6.htm#72771" title="Bishop Noel Portal Pedregosa (58)">
+        <img alt="Bishop Noel Portal Pedregosa (58)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../diocese/mala6.htm#3113" title="Bishop Honesto Chaves Pacana, S.J. (90)">
+        <img alt="Bishop Honesto Chaves Pacana, S.J. (90)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="malo0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/malo0.htm">
+       Malolos
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="PH-province.htm#malo0">
+       Manila
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/asia/1395.htm" title="Cathedral Basilica of the Immaculate Conception">
+        <img alt="Cathedral Basilica of the Immaculate Conception" height="20" src="/images/c1ab.gif" width="19"/>
+       </a>
+       <a href="../../churches/asia/6557.htm" title="Basilica de la Purísima Concepción">
+        <img alt="Basilica de la Purísima Concepción" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/asia/4979.htm" title="National Shrine of Divine Mercy">
+        <img alt="National Shrine of Divine Mercy" height="20" src="/images/c3d.gif" width="15"/>
+       </a>
+       <a href="../../churches/asia-east/62486.htm" title="National Shrine of Nuestra Señora de Salambao">
+        <img alt="National Shrine of Nuestra Señora de Salambao" height="20" src="/images/c3d.gif" width="15"/>
+       </a>
+       <a href="../../churches/asia/3653.htm" title="National Shrine of Our Lady of Fatima">
+        <img alt="National Shrine of Our Lady of Fatima" height="20" src="/images/c3d.gif" width="15"/>
+       </a>
+       <a href="../../churches/asia/3659.htm" title="National Shrine of St. Anne">
+        <img alt="National Shrine of St. Anne" height="20" src="/images/c3d.gif" width="15"/>
+       </a>
+       <a href="../diocese/malo0.htm#59874" title="Bishop Dennis Cabanada Villarojo (56)">
+        <img alt="Bishop Dennis Cabanada Villarojo (56)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a class="link" href="http://malolosdiocese.bulacan.net" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="marb0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/marb0.htm">
+       Marbel
+      </a>
+      /
+      <a class="typedioc" href="../diocese/marb0.htm">
+       General Santos
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="PH-province.htm#marb0">
+       Cotabato
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/asia/1871.htm" title="Christ the King Cathedral">
+        <img alt="Christ the King Cathedral" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/marb0.htm#62072" title="Bishop Cerilo Allan Uy Casicas (56)">
+        <img alt="Bishop Cerilo Allan Uy Casicas (56)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a class="link" href="http://marbeldiocese.freeservers.com" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="masb0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/masb0.htm">
+       Masbate
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="PH-province.htm#masb0">
+       Caceres
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/asia/1870.htm" title="St. Anthony of Padua Cathedral">
+        <img alt="St. Anthony of Padua Cathedral" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/masb0.htm#47037" title="Bishop José Salmorin Bantolo (62)">
+        <img alt="Bishop José Salmorin Bantolo (62)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="mati0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/mati0.htm">
+       Mati
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="PH-province.htm#mati0">
+       Davao
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/asia/1869.htm" title="Cathedral of San Nicolas de Tolentino">
+        <img alt="Cathedral of San Nicolas de Tolentino" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/mati0.htm#61888" title="Bishop Abel Cahiles Apigo (55)">
+        <img alt="Bishop Abel Cahiles Apigo (55)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="nava0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/nava0.htm">
+       Naval
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="PH-province.htm#nava0">
+       Palo
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/asia/1868.htm" title="Cathedral of Our Lady of the Most Holy Rosary">
+        <img alt="Cathedral of Our Lady of the Most Holy Rosary" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/nava0.htm#61578" title="Bishop Rex Cullingham Ramirez (55)">
+        <img alt="Bishop Rex Cullingham Ramirez (55)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../diocese/nava0.htm#3192" title="Bishop Filomeno Gonzales Bactol (83)">
+        <img alt="Bishop Filomeno Gonzales Bactol (83)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="nova3">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/nova3.htm">
+       Novaliches
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="PH-province.htm#nova3">
+       Manila
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/asia/1931.htm" title="Cathedral Shrine of the Good Shepherd">
+        <img alt="Cathedral Shrine of the Good Shepherd" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/nova3.htm#62686" title="Bishop Roberto Orendain Gaa (60)">
+        <img alt="Bishop Roberto Orendain Gaa (60)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../diocese/nova3.htm#3168" title="Bishop Antonio Realubin Tobias (81)">
+        <img alt="Bishop Antonio Realubin Tobias (81)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+       <a href="../diocese/nova3.htm#3169" title="Bishop Teodoro Cruz Bacani Jr. (83)">
+        <img alt="Bishop Teodoro Cruz Bacani Jr. (83)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.novalichesdiocese.net" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="paga0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/paga0.htm">
+       Pagadian
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="PH-province.htm#paga0">
+       Ozamiz
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/asia/1867.htm" title="Santa Niño Cathedral">
+        <img alt="Santa Niño Cathedral" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/paga0.htm#62272" title="Bishop Ronaldo Ignacio Lunas (56)">
+        <img alt="Bishop Ronaldo Ignacio Lunas (56)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../diocese/paga0.htm#3184" title="Bishop Emmanuel Treveno Cabajar, C.SS.R. (80)">
+        <img alt="Bishop Emmanuel Treveno Cabajar, C.SS.R. (80)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://pagadiandiocese.org" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="para9">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/para9.htm">
+       Parañaque
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="PH-province.htm#para9">
+       Manila
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/asia/1923.htm" title="St. Andrew Cathedral">
+        <img alt="St. Andrew Cathedral" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/asia/3654.htm" title="National Shrine of Mary Help of Christians">
+        <img alt="National Shrine of Mary Help of Christians" height="20" src="/images/c3d.gif" width="15"/>
+       </a>
+       <a href="../../churches/asia/3657.htm" title="National Shrine of Our Lady of Perpetual Help">
+        <img alt="National Shrine of Our Lady of Perpetual Help" height="20" src="/images/c3d.gif" width="15"/>
+       </a>
+       <a href="../../churches/asia/3656.htm" title="National Shrine of Our Lady of the Miraculous Medal">
+        <img alt="National Shrine of Our Lady of the Miraculous Medal" height="20" src="/images/c3d.gif" width="15"/>
+       </a>
+       <a href="../diocese/para9.htm#3173" title="Bishop Jesse Eugenio Mercado (72)">
+        <img alt="Bishop Jesse Eugenio Mercado (72)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a class="link" href="http://dop.ph" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="pasi0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/pasi0.htm">
+       Pasig
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="PH-province.htm#pasi0">
+       Manila
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/asia/1925.htm" title="Immaculate Conception Cathedral">
+        <img alt="Immaculate Conception Cathedral" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/asia/6652.htm" title="Basilica Shrine of St. Anne">
+        <img alt="Basilica Shrine of St. Anne" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/pasi0.htm#3148" title="Bishop Mylo Hubert Claudio Vergara (60)">
+        <img alt="Bishop Mylo Hubert Claudio Vergara (60)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a class="link" href="http://dioceseofpasig.org" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/DioceseofPasig" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="romb0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/romb0.htm">
+       Romblon
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="PH-province.htm#romb0">
+       Capiz
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/asia/1891.htm" title="St. Joseph Cathedral">
+        <img alt="St. Joseph Cathedral" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/romb0.htm#54608" title="Bishop Narciso Villaver Abellana, M.S.C. (69)">
+        <img alt="Bishop Narciso Villaver Abellana, M.S.C. (69)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="zcar0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/zcar0.htm">
+       San Carlos
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="PH-province.htm#zcar0">
+       Jaro
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/asia/2991.htm" title="San Carlos Borromeo Cathedral">
+        <img alt="San Carlos Borromeo Cathedral" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/zcar0.htm#24106" title="Bishop Gerardo Alimane Alminaza (63)">
+        <img alt="Bishop Gerardo Alimane Alminaza (63)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="zfer2">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/zfer2.htm">
+       San Fernando de La Union
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="PH-province.htm#zfer2">
+       Lingayen–Dagupan
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/asia/3024.htm" title="Cathedral of St. William the Hermit">
+        <img alt="Cathedral of St. William the Hermit" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/asia/1152.htm" title="Basilica of Our Lady of Charity">
+        <img alt="Basilica of Our Lady of Charity" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/zfer2.htm#62077" title="Bishop Daniel Oca Presto (60)">
+        <img alt="Bishop Daniel Oca Presto (60)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="zjos3">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/zjos3.htm">
+       San Jose de Antique
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="PH-province.htm#zjos3">
+       Jaro
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/asia/1758.htm" title="St. Joseph the Worker Cathedral">
+        <img alt="St. Joseph the Worker Cathedral" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/zjos3.htm#62379" title="Bishop Marvyn Abrea Maceda (54)">
+        <img alt="Bishop Marvyn Abrea Maceda (54)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../diocese/zjos3.htm#3138" title="Bishop Raul José Quimpo Martirez (85)">
+        <img alt="Bishop Raul José Quimpo Martirez (85)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.rcdsja.org" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="zjos1">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/zjos1.htm">
+       San Jose de Nueva Ecija
+      </a>
+      /
+      <a class="typedioc" href="../diocese/zjos1.htm">
+       San Jose
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="PH-province.htm#zjos1">
+       Lingayen–Dagupan
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/asia/3023.htm" title="Cathedral of St. Joseph the Worker">
+        <img alt="Cathedral of St. Joseph the Worker" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/zjos1.htm#7306" title="Bishop Roberto Calara Mallari (65)">
+        <img alt="Bishop Roberto Calara Mallari (65)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="zpab0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/zpab0.htm">
+       San Pablo
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="PH-province.htm#zpab0">
+       Manila
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/asia/1846.htm" title="Cathedral of St. Paul the Hermit">
+        <img alt="Cathedral of St. Paul the Hermit" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/asia/6390.htm" title="National Shrine of St. Anthony of Padua">
+        <img alt="National Shrine of St. Anthony of Padua" height="20" src="/images/c3d.gif" width="15"/>
+       </a>
+       <a href="../diocese/zpab0.htm#3153" title="Bishop Buenaventura Malayo Famadico (66)">
+        <img alt="Bishop Buenaventura Malayo Famadico (66)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../diocese/zpab0.htm#3176" title="Bishop Leo Murphy Drona, S.D.B. (81)">
+        <img alt="Bishop Leo Murphy Drona, S.D.B. (81)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.dioceseofsanpablo.com" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/rc_sanpablo" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="sors0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/sors0.htm">
+       Sorsogon
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="PH-province.htm#sors0">
+       Caceres
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/asia/1896.htm" title="Sts. Peter and Paul Cathedral">
+        <img alt="Sts. Peter and Paul Cathedral" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/sors0.htm#63485" title="Bishop Jose Alan Verdejo Dialogo (60)">
+        <img alt="Bishop Jose Alan Verdejo Dialogo (60)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../diocese/sors0.htm#3104" title="Bishop Arturo Mandin Bastes, S.V.D. (79)">
+        <img alt="Bishop Arturo Mandin Bastes, S.V.D. (79)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="suri0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/suri0.htm">
+       Surigao
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="PH-province.htm#suri0">
+       Cagayan de Oro
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/asia/3022.htm" title="Cathedral of San Nicolas de Tolentino">
+        <img alt="Cathedral of San Nicolas de Tolentino" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/suri0.htm#3111" title="Bishop Antonieto Dumagan Cabajog (67)">
+        <img alt="Bishop Antonieto Dumagan Cabajog (67)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.dioceseofsurigao.net" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="tagb0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/tagb0.htm">
+       Tagbilaran
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="PH-province.htm#tagb0">
+       Cebu
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/asia/1750.htm" title="St. Joseph the Worker Cathedral">
+        <img alt="St. Joseph the Worker Cathedral" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/tagb0.htm#60915" title="Bishop Alberto Sy Uy (56)">
+        <img alt="Bishop Alberto Sy Uy (56)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../diocese/tagb0.htm#3188" title="Bishop Leonardo Yuzon Medroso (84)">
+        <img alt="Bishop Leonardo Yuzon Medroso (84)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="tagu0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/tagu0.htm">
+       Tagum
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="PH-province.htm#tagu0">
+       Davao
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/asia/3021.htm" title="Cathedral of Christ the King">
+        <img alt="Cathedral of Christ the King" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/asia/3663.htm" title="Church of Christ the Eucharistic King">
+        <img alt="Church of Christ the Eucharistic King" height="20" src="/images/c1b.gif" width="17"/>
+       </a>
+       <a href="../diocese/tagu0.htm#62053" title="Bishop Medel Sacay Aseo (68)">
+        <img alt="Bishop Medel Sacay Aseo (68)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../diocese/tagu0.htm#3129" title="Bishop Wilfredo Dasco Manlapaz (82)">
+        <img alt="Bishop Wilfredo Dasco Manlapaz (82)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="tali1">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/tali1.htm">
+       Talibon
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="PH-province.htm#tali1">
+       Cebu
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/asia/3014.htm" title="Most Holy Trinity Cathedral">
+        <img alt="Most Holy Trinity Cathedral" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/tali1.htm#56610" title="Bishop Daniel Patrick Yee Parcon (60)">
+        <img alt="Bishop Daniel Patrick Yee Parcon (60)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="tand0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/tand0.htm">
+       Tandag
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="PH-province.htm#tand0">
+       Cagayan de Oro
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/asia/3020.htm" title="Cathedral of San Nicolas de Tolentino">
+        <img alt="Cathedral of San Nicolas de Tolentino" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/tand0.htm#62022" title="Bishop Raul Bautista Dael (56)">
+        <img alt="Bishop Raul Bautista Dael (56)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../diocese/tand0.htm#3109" title="Bishop Nereo Page Odchimar (82)">
+        <img alt="Bishop Nereo Page Odchimar (82)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="tarl0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/tarl0.htm">
+       Tarlac
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="PH-province.htm#tarl0">
+       San Fernando
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/asia/3009.htm" title="San Sebastian Cathedral">
+        <img alt="San Sebastian Cathedral" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/tarl0.htm#60544" title="Bishop Enrique de Vera Macaraeg (67)">
+        <img alt="Bishop Enrique de Vera Macaraeg (67)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../diocese/tarl0.htm#3198" title="Bishop Florentino Ferrer Cinense (85)">
+        <img alt="Bishop Florentino Ferrer Cinense (85)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="urda0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/urda0.htm">
+       Urdaneta
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="PH-province.htm#urda0">
+       Lingayen–Dagupan
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/asia/1895.htm" title="Cathedral of Our Lady of the Immaculate Conception">
+        <img alt="Cathedral of Our Lady of the Immaculate Conception" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/urda0.htm#3149" title="Bishop Jacinto Agcaoili Jose (72)">
+        <img alt="Bishop Jacinto Agcaoili Jose (72)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="vira0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/vira0.htm">
+       Virac
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="PH-province.htm#vira0">
+       Caceres
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/asia/1894.htm" title="Cathedral of Our Lady of the Immaculate Conception">
+        <img alt="Cathedral of Our Lady of the Immaculate Conception" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/vira0.htm#3105" title="Bishop Manolo Alarcon de los Santos (75)">
+        <img alt="Bishop Manolo Alarcon de los Santos (75)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="bata1">
+     <td>
+      <img alt="Territorial Prelature" height="20" src="/images/map/s05.png"/>
+      <a class="typeprel" href="../diocese/bata1.htm">
+       Batanes
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="PH-province.htm#bata1">
+       Tuguegarao
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/asia/2630.htm" title="Cathedral of Santo Domingo de Guzman">
+        <img alt="Cathedral of Santo Domingo de Guzman" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/bata1.htm#61453" title="Bishop Juan Danilo Bangayan Ulep (60)">
+        <img alt="Bishop Juan Danilo Bangayan Ulep (60)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="infa0">
+     <td>
+      <img alt="Territorial Prelature" height="20" src="/images/map/s05.png"/>
+      <a class="typeprel" href="../diocese/infa0.htm">
+       Infanta
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="PH-province.htm#infa0">
+       Lipa
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/asia/2620.htm" title="Cathedral of the Divine Infant Jesus of Prague and St. Mark the Evangelist">
+        <img alt="Cathedral of the Divine Infant Jesus of Prague and St. Mark the Evangelist" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/infa0.htm#3160" title="Bishop Bernardino Cruz Cortez (73)">
+        <img alt="Bishop Bernardino Cruz Cortez (73)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="isab0">
+     <td>
+      <img alt="Territorial Prelature" height="20" src="/images/map/s05.png"/>
+      <a class="typeprel" href="../diocese/isab0.htm">
+       Isabela
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="PH-province.htm#isab0">
+       Zamboanga
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/asia/1876.htm" title="Cathedral of St. Isabel de Portugal">
+        <img alt="Cathedral of St. Isabel de Portugal" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/isab0.htm#62561" title="Bishop Leo Magdugo Dalmao, C.M.F. (53)">
+        <img alt="Bishop Leo Magdugo Dalmao, C.M.F. (53)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="mara5">
+     <td>
+      <img alt="Territorial Prelature" height="20" src="/images/map/s05.png"/>
+      <a class="typeprel" href="../diocese/mara5.htm">
+       Marawi
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="PH-province.htm#mara5">
+       Ozamiz
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../diocese/mara5.htm#3185" title="Bishop Edwin Angot de la Peña, M.S.P. (69)">
+        <img alt="Bishop Edwin Angot de la Peña, M.S.P. (69)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="phil2">
+     <td>
+      <img alt="Military Ordinariate" height="20" src="/images/map/s09.png"/>
+      <a class="typemltr" href="../diocese/phil2.htm">
+       Military Ordinariate of the Philippines
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/asia/3865.htm" title="St. Ignatius de Loyola Cathedral">
+        <img alt="St. Ignatius de Loyola Cathedral" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/phil2.htm#59875" title="Bishop Oscar Jaime Llaneta Florencio (57)">
+        <img alt="Bishop Oscar Jaime Llaneta Florencio (57)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="bont0">
+     <td>
+      <img alt="Apostolic Vicariate" height="20" src="/images/map/s07.png"/>
+      <a class="typeapvc" href="../diocese/bont0.htm">
+       Bontoc–Lagawe
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/asia/3068.htm" title="Santa Rita de Cascia Cathedral">
+        <img alt="Santa Rita de Cascia Cathedral" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/bont0.htm#59594" title="Bishop Valentin Cabbigat Dimoc (54)">
+        <img alt="Bishop Valentin Cabbigat Dimoc (54)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="cala4">
+     <td>
+      <img alt="Apostolic Vicariate" height="20" src="/images/map/s07.png"/>
+      <a class="typeapvc" href="../diocese/cala4.htm">
+       Calapan
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/asia/2626.htm" title="Cathedral of Santo Niño">
+        <img alt="Cathedral of Santo Niño" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../hierarchy/data/officials-A.htm#62480" title="Fr. Nestor Julao Adalia (68)">
+        <img alt="Fr. Nestor Julao Adalia (68)" height="20" src="/images/prelateF3.gif" width="16"/>
+       </a>
+       <a href="../diocese/cala4.htm#3209" title="Bishop Warlito Cajandig y Itcuas (79)">
+        <img alt="Bishop Warlito Cajandig y Itcuas (79)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="jolo0">
+     <td>
+      <img alt="Apostolic Vicariate" height="20" src="/images/map/s07.png"/>
+      <a class="typeapvc" href="../diocese/jolo0.htm">
+       Jolo
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/asia/1875.htm" title="Cathedral of Our Lady of Mount Carmel">
+        <img alt="Cathedral of Our Lady of Mount Carmel" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/jolo0.htm#68668" title="Bishop Charlie Malapitan Inzon, O.M.I. (57)">
+        <img alt="Bishop Charlie Malapitan Inzon, O.M.I. (57)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="puer8">
+     <td>
+      <img alt="Apostolic Vicariate" height="20" src="/images/map/s07.png"/>
+      <a class="typeapvc" href="../diocese/puer8.htm">
+       Puerto Princesa
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/asia/1889.htm" title="Immaculate Conception Cathedral">
+        <img alt="Immaculate Conception Cathedral" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/puer8.htm#60930" title="Bishop Socrates Calamba Mesiona, M.S.P. (59)">
+        <img alt="Bishop Socrates Calamba Mesiona, M.S.P. (59)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../diocese/puer8.htm#3175" title="Bishop Pedro Dulay Arigo (84)">
+        <img alt="Bishop Pedro Dulay Arigo (84)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="zjosA">
+     <td>
+      <img alt="Apostolic Vicariate" height="20" src="/images/map/s07.png"/>
+      <a class="typeapvc" href="../diocese/zjosA.htm">
+       San Jose in Mindoro
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/asia/3067.htm" title="St. Joseph the Worker Cathedral">
+        <img alt="St. Joseph the Worker Cathedral" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/zjosA.htm#74563" title="Bishop Pablito Martinez Tagura, S.V.D. (61)">
+        <img alt="Bishop Pablito Martinez Tagura, S.V.D. (61)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="tabu0">
+     <td>
+      <img alt="Apostolic Vicariate" height="20" src="/images/map/s07.png"/>
+      <a class="typeapvc" href="../diocese/tabu0.htm">
+       Tabuk
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/asia/2951.htm" title="Cathedral of St. William the Hermit">
+        <img alt="Cathedral of St. William the Hermit" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/tabu0.htm#3213" title="Bishop Prudencio Padilla Andaya Jr., C.I.C.M. (64)">
+        <img alt="Bishop Prudencio Padilla Andaya Jr., C.I.C.M. (64)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="tayt0">
+     <td>
+      <img alt="Apostolic Vicariate" height="20" src="/images/map/s07.png"/>
+      <a class="typeapvc" href="../diocese/tayt0.htm">
+       Taytay
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/asia/3104.htm" title="Cathedral of St. Joseph the Worker">
+        <img alt="Cathedral of St. Joseph the Worker" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/tayt0.htm#8865" title="Bishop Broderick Soncuaco Pabillo (68)">
+        <img alt="Bishop Broderick Soncuaco Pabillo (68)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../diocese/tayt0.htm#3214" title="Bishop Edgardo Sarabia Juanich (71)">
+        <img alt="Bishop Edgardo Sarabia Juanich (71)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+      </span>
+     </td>
+    </tr>
+   </table>
+  </div>
+  <p class="asof">
+   Last updated on 2023.06.11
+  </p>
+  <p class="copy" id="end">
+   © 2023 GCatholic.org
+  </p>
+  <table width="100%">
+   <tr>
+    <td align="left" width="50%">
+    </td>
+    <td valign="bottom" width="50%">
+     <p align="right">
+      <a href="PH.htm" title="Up">
+       <img alt="Up" height="30" src="/images/nav-up.png" width="50"/>
+      </a>
+     </p>
+    </td>
+   </tr>
+  </table>
+  <script src="/menu/footer.js">
+  </script>
+ </body>
+</html>

@@ -1,0 +1,3603 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <title>
+   Catholic Dioceses in Mexico (by Type)
+  </title>
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+  <meta content="Sun, 18 Jun 2023 16:00:00 GMT" http-equiv="EXPIRES"/>
+  <meta content="IE=Edge" http-equiv="X-UA-Compatible">
+   <link href="/css/gcatholic.css?15" rel="stylesheet" type="text/css"/>
+   <script src="/menu/menu2.js?d">
+   </script>
+   <link href="http://www.gcatholic.org/dioceses/country/MX-type.htm" rel="canonical"/>
+  </meta>
+ </head>
+ <body alink="#008040" link="#408040" vlink="#387038">
+  <script src="/menu/header.js?23">
+  </script>
+  <table class="hd">
+   <tr>
+    <td width="150">
+    </td>
+    <td>
+     <h1>
+      Catholic Dioceses
+     </h1>
+     <h3>
+      in
+     </h3>
+     <h2>
+      United Mexican States (Mexico)
+     </h2>
+    </td>
+    <td align="right" width="150">
+     <a href="MX.htm" title="Mexico">
+      <img alt="Mexico" class="flag" height="80" src="/images/flags/MX.png" width="140"/>
+     </a>
+    </td>
+   </tr>
+  </table>
+  <div align="center" class="nav">
+   <table cellspacing="0">
+    <tr class="tr">
+     <td class="t">
+      by Type
+     </td>
+     <td>
+      <a href="MX-name.htm">
+       by Name
+      </a>
+     </td>
+     <td>
+      <a href="MX-province.htm">
+       by Ecclesiastical Province
+      </a>
+     </td>
+     <td>
+      <a href="MX-former.htm">
+       Former Jurisdictions
+      </a>
+     </td>
+    </tr>
+   </table>
+  </div>
+  <div align="center">
+   <table class="tb" width="90%">
+    <tr id="acap0">
+     <td>
+      <img alt="Metr. Archdiocese" height="20" src="/images/map/s02.png"/>
+      <a class="typemetr" href="../diocese/acap0.htm">
+       Acapulco
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="MX-province.htm#acap0">
+       Acapulco
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/northamerica/3164.htm" title="Catedral Nuestra Señora de la Soledad">
+        <img alt="Catedral Nuestra Señora de la Soledad" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/acap0.htm#4051" title="Archbishop Leopoldo González González (72)">
+        <img alt="Archbishop Leopoldo González González (72)" height="20" src="/images/prelateA1.gif" width="22"/>
+       </a>
+       <a href="../diocese/acap0.htm#4046" title="Archbishop Felipe Aguirre Franco (89)">
+        <img alt="Archbishop Felipe Aguirre Franco (89)" height="20" src="/images/prelateA2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://arquiacapulco.org" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkf" href="https://www.facebook.com/ArquidiocesisAcapulco" rel="nofollow" target="_blank" title="Facebook Page">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="ante0">
+     <td>
+      <img alt="Metr. Archdiocese" height="20" src="/images/map/s02.png"/>
+      <a class="typemetr" href="../diocese/ante0.htm">
+       Antequera
+      </a>
+      /
+      <a class="typemetr" href="../diocese/ante0.htm">
+       Antequera de Oaxaca
+      </a>
+      /
+      <a class="typemetr" href="../diocese/ante0.htm">
+       Oaxaca
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="MX-province.htm#ante0">
+       Antequera
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/northamerica/3813.htm" title="Catedral Metropolitana de Nuestra Señora de la Asunción">
+        <img alt="Catedral Metropolitana de Nuestra Señora de la Asunción" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/northamerica/0837.htm" title="Basílica de Nuestra Señora de la Soledad">
+        <img alt="Basílica de Nuestra Señora de la Soledad" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/ante0.htm#51699" title="Archbishop Pedro Vázquez Villalobos (72)">
+        <img alt="Archbishop Pedro Vázquez Villalobos (72)" height="20" src="/images/prelateA1.gif" width="22"/>
+       </a>
+       <a href="../diocese/ante0.htm#4049" title="Archbishop José Luis Chávez Botello (82)">
+        <img alt="Archbishop José Luis Chávez Botello (82)" height="20" src="/images/prelateA2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.arquioax.org" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/IglesiaOaxaca" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+       <a class="linkf" href="https://www.facebook.com/arquidiocesisantequeraoaxaca" rel="nofollow" target="_blank" title="Facebook Page">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="chih0">
+     <td>
+      <img alt="Metr. Archdiocese" height="20" src="/images/map/s02.png"/>
+      <a class="typemetr" href="../diocese/chih0.htm">
+       Chihuahua
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="MX-province.htm#chih0">
+       Chihuahua
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/northamerica/2717.htm" title="Catedral Metropolitana de la Santa Cruz">
+        <img alt="Catedral Metropolitana de la Santa Cruz" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/chih0.htm#4139" title="Archbishop Constancio Miranda Weckmann (70)">
+        <img alt="Archbishop Constancio Miranda Weckmann (70)" height="20" src="/images/prelateA1.gif" width="22"/>
+       </a>
+       <a class="link" href="http://arquidiocesischihuahua.org" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/ArquidioChih" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+       <a class="linkf" href="https://www.facebook.com/arquichih" rel="nofollow" target="_blank" title="Facebook Page">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="dura0">
+     <td>
+      <img alt="Metr. Archdiocese" height="20" src="/images/map/s02.png"/>
+      <a class="typemetr" href="../diocese/dura0.htm">
+       Durango
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="MX-province.htm#dura0">
+       Durango
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/northamerica/0786.htm" title="Catedral Basílica de Nuestra Señora">
+        <img alt="Catedral Basílica de Nuestra Señora" height="20" src="/images/c1ab.gif" width="19"/>
+       </a>
+       <a href="../diocese/dura0.htm#4152" title="Archbishop Faustino Armendáriz Jiménez (67)">
+        <img alt="Archbishop Faustino Armendáriz Jiménez (67)" height="20" src="/images/prelateA1.gif" width="22"/>
+       </a>
+       <a href="../diocese/dura0.htm#4073" title="Archbishop Héctor González Martínez (84)">
+        <img alt="Archbishop Héctor González Martínez (84)" height="20" src="/images/prelateA2.gif" width="22"/>
+       </a>
+       <a href="../diocese/huej0.htm#4075" title="Bishop Juan de Dios Caballero Reyes (91)">
+        <img alt="Bishop Juan de Dios Caballero Reyes (91)" height="20" src="/images/prelateB4.gif" width="16"/>
+       </a>
+       <a class="link" href="http://arquidiocesisdgo.org" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/IglesiaDurango" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="guad0">
+     <td>
+      <img alt="Metr. Archdiocese" height="20" src="/images/map/s02.png"/>
+      <a class="typemetr" href="../diocese/guad0.htm">
+       Guadalajara
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="MX-province.htm#guad0">
+       Guadalajara
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/northamerica/0565.htm" title="Catedral Basílica de la Asunción de María">
+        <img alt="Catedral Basílica de la Asunción de María" height="20" src="/images/c1ab.gif" width="19"/>
+       </a>
+       <a href="../../churches/northamerica/0575.htm" title="Basílica de Nuestra Señora de Zapopan">
+        <img alt="Basílica de Nuestra Señora de Zapopan" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/northamerica/6362.htm" title="Basílica San Felipe Neri">
+        <img alt="Basílica San Felipe Neri" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/guad0.htm#4145" title="Cardinal José Francisco Robles Ortega (74)">
+        <img alt="Cardinal José Francisco Robles Ortega (74)" height="20" src="/images/prelateC1.gif" width="22"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-LO.htm#61865" title="Bishop Héctor López Alvarado (52)">
+        <img alt="Bishop Héctor López Alvarado (52)" height="20" src="/images/prelateB3.gif" width="16"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-MS.htm#61864" title="Bishop Juan Manuel Muñoz Curiel, O.F.M. (65)">
+        <img alt="Bishop Juan Manuel Muñoz Curiel, O.F.M. (65)" height="20" src="/images/prelateB3.gif" width="16"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-PL.htm#61866" title="Bishop Engelberto Polino Sánchez (57)">
+        <img alt="Bishop Engelberto Polino Sánchez (57)" height="20" src="/images/prelateB3.gif" width="16"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-GO.htm#70463" title="Bishop Manuel González Villaseñor (59)">
+        <img alt="Bishop Manuel González Villaseñor (59)" height="20" src="/images/prelateB3.gif" width="16"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-MS.htm#70464" title="Bishop Eduardo Muñoz Ochoa (54)">
+        <img alt="Bishop Eduardo Muñoz Ochoa (54)" height="20" src="/images/prelateB3.gif" width="16"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-S.htm#72915" title="Bishop Ramón Salazar Estrada (60)">
+        <img alt="Bishop Ramón Salazar Estrada (60)" height="20" src="/images/prelateB3.gif" width="16"/>
+       </a>
+       <a href="../../hierarchy/data/cardJP2-6.htm#144" title="Cardinal Juan Sandoval Íñiguez (90)">
+        <img alt="Cardinal Juan Sandoval Íñiguez (90)" height="20" src="/images/prelateC2.gif" width="22"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-GO.htm#4095" title="Bishop José Trinidad González Rodríguez (79)">
+        <img alt="Bishop José Trinidad González Rodríguez (79)" height="20" src="/images/prelateB4.gif" width="16"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-RO.htm#4093" title="Bishop Miguel Romano Gómez (64)">
+        <img alt="Bishop Miguel Romano Gómez (64)" height="20" src="/images/prelateB4.gif" width="16"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-GU.htm#23408" title="Bishop Juan Humberto Gutiérrez Valencia (81)">
+        <img alt="Bishop Juan Humberto Gutiérrez Valencia (81)" height="20" src="/images/prelateB4.gif" width="16"/>
+       </a>
+       <a class="link" href="http://arquidiocesisgdl.org" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="herm0">
+     <td>
+      <img alt="Metr. Archdiocese" height="20" src="/images/map/s02.png"/>
+      <a class="typemetr" href="../diocese/herm0.htm">
+       Hermosillo
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="MX-province.htm#herm0">
+       Hermosillo
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/northamerica/3316.htm" title="Catedral de Nuestra Señora de la Asunción">
+        <img alt="Catedral de Nuestra Señora de la Asunción" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/herm0.htm#4082" title="Archbishop Ruy Rendón Leal (69)">
+        <img alt="Archbishop Ruy Rendón Leal (69)" height="20" src="/images/prelateA1.gif" width="22"/>
+       </a>
+       <a href="../diocese/herm0.htm#4111" title="Archbishop José Ulises Macías Salcedo (82)">
+        <img alt="Archbishop José Ulises Macías Salcedo (82)" height="20" src="/images/prelateA2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.arquidiocesisdehermosillo.org" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/arquihillo" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+       <a class="linkf" href="https://www.facebook.com/arquihillo" rel="nofollow" target="_blank" title="Facebook Page">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="jala0">
+     <td>
+      <img alt="Metr. Archdiocese" height="20" src="/images/map/s02.png"/>
+      <a class="typemetr" href="../diocese/jala0.htm">
+       Jalapa
+      </a>
+      /
+      <a class="typemetr" href="../diocese/jala0.htm">
+       Xalapa
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="MX-province.htm#jala0">
+       Jalapa
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/northamerica/2854.htm" title="Catedral Metropolitana de la Inmaculada Concepción">
+        <img alt="Catedral Metropolitana de la Inmaculada Concepción" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/northamerica/6009.htm" title="Basílica de Nuestra Señora de Guadalupe">
+        <img alt="Basílica de Nuestra Señora de Guadalupe" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/jala0.htm#26252" title="Archbishop Jorge Carlos Patrón Wong (65)">
+        <img alt="Archbishop Jorge Carlos Patrón Wong (65)" height="20" src="/images/prelateA1.gif" width="22"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-P.htm#4088" title="Bishop José Rafael Palma Capetillo (67)">
+        <img alt="Bishop José Rafael Palma Capetillo (67)" height="20" src="/images/prelateB3.gif" width="16"/>
+       </a>
+       <a class="link" href="http://www.arquidiocesisdexalapa.com" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="leon1">
+     <td>
+      <img alt="Metr. Archdiocese" height="20" src="/images/map/s02.png"/>
+      <a class="typemetr" href="../diocese/leon1.htm">
+       León
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="MX-province.htm#leon1">
+       León
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/northamerica/0371.htm" title="Catedral Basílica de Nuestra Señora de la Luz">
+        <img alt="Catedral Basílica de Nuestra Señora de la Luz" height="20" src="/images/c1ab.gif" width="19"/>
+       </a>
+       <a href="../../churches/northamerica/0790.htm" title="Basílica Colegiata de Nuestra Señora de Guanajuato">
+        <img alt="Basílica Colegiata de Nuestra Señora de Guanajuato" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/mexico/70384.htm" title="Iglesia San Cayetano Confesor de Valenciana">
+        <img alt="Iglesia San Cayetano Confesor de Valenciana" height="20" src="/images/c1d.gif" width="15"/>
+       </a>
+       <a href="../../churches/mexico/70382.htm" title="Oratorio de San Felipe Neri">
+        <img alt="Oratorio de San Felipe Neri" height="20" src="/images/c1d.gif" width="15"/>
+       </a>
+       <a href="../diocese/leon1.htm#4146" title="Archbishop Alfonso Cortés Contreras (75)">
+        <img alt="Archbishop Alfonso Cortés Contreras (75)" height="20" src="/images/prelateA1.gif" width="22"/>
+       </a>
+       <a href="../diocese/leon1.htm#4172" title="Archbishop José Guadalupe Martín Rábago (87)">
+        <img alt="Archbishop José Guadalupe Martín Rábago (87)" height="20" src="/images/prelateA2.gif" width="22"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-FR.htm#4174" title="Bishop Juan Frausto Pallares (81)">
+        <img alt="Bishop Juan Frausto Pallares (81)" height="20" src="/images/prelateB4.gif" width="16"/>
+       </a>
+       <a class="link" href="http://www.arquidiocesisdeleon.org" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="mexi0">
+     <td>
+      <img alt="Metr. Archdiocese" height="20" src="/images/map/s02.png"/>
+      <a class="typemetr" href="../diocese/mexi0.htm">
+       México
+      </a>
+      /
+      <a class="typemetr" href="../diocese/mexi0.htm">
+       Mexico City
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="MX-province.htm#mexi0">
+       México
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/northamerica/3165.htm" title="Catedral Metropolitana de la Ascunsión">
+        <img alt="Catedral Metropolitana de la Ascunsión" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/northamerica/1083.htm" title="Antigua Basílica de Nuestra Señora de Guadalupe">
+        <img alt="Antigua Basílica de Nuestra Señora de Guadalupe" height="20" src="/images/c3db.gif" width="19"/>
+       </a>
+       <a href="../../churches/northamerica/1295.htm" title="Basílica Menor San José y Nuestra Señora del Sagrado Corazón">
+        <img alt="Basílica Menor San José y Nuestra Señora del Sagrado Corazón" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/northamerica/4281.htm" title="Insigne y Nacional Basílica de Santa María de Guadalupe">
+        <img alt="Insigne y Nacional Basílica de Santa María de Guadalupe" height="20" src="/images/c3db.gif" width="19"/>
+       </a>
+       <a href="../diocese/mexi0.htm#4184" title="Cardinal Carlos Aguiar Retes (73)">
+        <img alt="Cardinal Carlos Aguiar Retes (73)" height="20" src="/images/prelateC1.gif" width="22"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-GO.htm#62405" title="Bishop Salvador González Morales (51)">
+        <img alt="Bishop Salvador González Morales (51)" height="20" src="/images/prelateB3.gif" width="16"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-S.htm#62406" title="Bishop Carlos Enrique Samaniego López (49)">
+        <img alt="Bishop Carlos Enrique Samaniego López (49)" height="20" src="/images/prelateB3.gif" width="16"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-PE.htm#63554" title="Bishop Luis Manuel Pérez Raygoza (49)">
+        <img alt="Bishop Luis Manuel Pérez Raygoza (49)" height="20" src="/images/prelateB3.gif" width="16"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-PE.htm#63555" title="Bishop Héctor Mario Pérez Villareal (53)">
+        <img alt="Bishop Héctor Mario Pérez Villareal (53)" height="20" src="/images/prelateB3.gif" width="16"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-GA.htm#72863" title="Bishop Andrés Luis García Jasso (49)">
+        <img alt="Bishop Andrés Luis García Jasso (49)" height="20" src="/images/prelateB3.gif" width="16"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-A.htm#74476" title="Bishop Francisco Javier Acero Pérez, O.A.R. (49)">
+        <img alt="Bishop Francisco Javier Acero Pérez, O.A.R. (49)" height="20" src="/images/prelateB3.gif" width="16"/>
+       </a>
+       <a href="../../hierarchy/data/cardJP2-7.htm#136" title="Cardinal Norberto Rivera Carrera (81)">
+        <img alt="Cardinal Norberto Rivera Carrera (81)" height="20" src="/images/prelateC2.gif" width="22"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-FI.htm#4137" title="Bishop José Luis Fletes Santana (75)">
+        <img alt="Bishop José Luis Fletes Santana (75)" height="20" src="/images/prelateB4.gif" width="16"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-CI.htm#4130" title="Bishop Francisco Clavel Gil (87)">
+        <img alt="Bishop Francisco Clavel Gil (87)" height="20" src="/images/prelateB4.gif" width="16"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-E.htm#4129" title="Bishop Rogelio Esquivel Medina (82)">
+        <img alt="Bishop Rogelio Esquivel Medina (82)" height="20" src="/images/prelateB4.gif" width="16"/>
+       </a>
+       <a class="link" href="http://www.arquidiocesismexico.org.mx" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/ArquidiocesisMx" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+       <a class="linkf" href="https://www.facebook.com/arquidiocesismx" rel="nofollow" target="_blank" title="Facebook Page">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="mont0">
+     <td>
+      <img alt="Metr. Archdiocese" height="20" src="/images/map/s02.png"/>
+      <a class="typemetr" href="../diocese/mont0.htm">
+       Monterrey
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="MX-province.htm#mont0">
+       Monterrey
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/northamerica/3163.htm" title="Catedral Metropolitana de Nuestra Señora de Monterrey">
+        <img alt="Catedral Metropolitana de Nuestra Señora de Monterrey" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/northamerica/1226.htm" title="Basílica de la Purísima Concepción de María - Virgen Chiquita">
+        <img alt="Basílica de la Purísima Concepción de María - Virgen Chiquita" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/northamerica/1052.htm" title="Basílica de Nuestra Señora del Roble">
+        <img alt="Basílica de Nuestra Señora del Roble" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/northamerica/1162.htm" title="Basílica de Nuestra Señore de Guadalupe">
+        <img alt="Basílica de Nuestra Señore de Guadalupe" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/mont0.htm#4060" title="Archbishop Rogelio Cabrera López (72)">
+        <img alt="Archbishop Rogelio Cabrera López (72)" height="20" src="/images/prelateA1.gif" width="22"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-MI.htm#55366" title="Bishop Alfonso Gerardo Miranda Guardiola (56)">
+        <img alt="Bishop Alfonso Gerardo Miranda Guardiola (56)" height="20" src="/images/prelateB3.gif" width="16"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-PE.htm#55365" title="Bishop Juan Armando Pérez Talamantes (52)">
+        <img alt="Bishop Juan Armando Pérez Talamantes (52)" height="20" src="/images/prelateB3.gif" width="16"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-CAS.htm#60932" title="Bishop Heriberto Cavazos Pérez (74)">
+        <img alt="Bishop Heriberto Cavazos Pérez (74)" height="20" src="/images/prelateB3.gif" width="16"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-AO.htm#70233" title="Bishop Juan Carlos Arcq Guzmán (56)">
+        <img alt="Bishop Juan Carlos Arcq Guzmán (56)" height="20" src="/images/prelateB3.gif" width="16"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-GA.htm#70234" title="Bishop José Manuel Garza Madero (71)">
+        <img alt="Bishop José Manuel Garza Madero (71)" height="20" src="/images/prelateB3.gif" width="16"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-GA.htm#70232" title="Bishop César Garza Miranda, O.F.M. (51)">
+        <img alt="Bishop César Garza Miranda, O.F.M. (51)" height="20" src="/images/prelateB3.gif" width="16"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-SAN.htm#75143" title="Bishop Carlos Alberto Santos García (46)">
+        <img alt="Bishop Carlos Alberto Santos García (46)" height="20" src="/images/prelateB3.gif" width="16"/>
+       </a>
+       <a href="../diocese/ciud1.htm#4147" title="Bishop José Lizáres Estrada (89)">
+        <img alt="Bishop José Lizáres Estrada (89)" height="20" src="/images/prelateB4.gif" width="16"/>
+       </a>
+       <a class="link" href="http://www.arquidiocesismty.org" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/Arquimty" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+       <a class="linkf" href="https://www.facebook.com/arquidiocesisdemonterrey" rel="nofollow" target="_blank" title="Facebook Page">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="more0">
+     <td>
+      <img alt="Metr. Archdiocese" height="20" src="/images/map/s02.png"/>
+      <a class="typemetr" href="../diocese/more0.htm">
+       Morelia
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="MX-province.htm#more0">
+       Morelia
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/northamerica/2716.htm" title="Catedral de San Salvador">
+        <img alt="Catedral de San Salvador" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/northamerica/0420.htm" title="Basílica de Nuestra Señora de la Salud">
+        <img alt="Basílica de Nuestra Señora de la Salud" height="20" src="/images/c1bb.gif" width="19"/>
+       </a>
+       <a href="../diocese/more0.htm#4188" title="Archbishop Carlos Garfias Merlos (72)">
+        <img alt="Archbishop Carlos Garfias Merlos (72)" height="20" src="/images/prelateA1.gif" width="22"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-ME.htm#60228" title="Bishop Herculano Medina Garfias (55)">
+        <img alt="Bishop Herculano Medina Garfias (55)" height="20" src="/images/prelateB3.gif" width="16"/>
+       </a>
+       <a href="../../hierarchy/data/cardFR1-2.htm#4164" title="Cardinal Alberto Suárez Inda (84)">
+        <img alt="Cardinal Alberto Suárez Inda (84)" height="20" src="/images/prelateC2.gif" width="22"/>
+       </a>
+       <a href="../diocese/zamo1.htm#4162" title="Bishop Carlos Suárez Cázares (76)">
+        <img alt="Bishop Carlos Suárez Cázares (76)" height="20" src="/images/prelateB4.gif" width="16"/>
+       </a>
+       <a href="../diocese/tula0.htm#4142" title="Bishop Octavio Villegas Aguilar (83)">
+        <img alt="Bishop Octavio Villegas Aguilar (83)" height="20" src="/images/prelateB4.gif" width="16"/>
+       </a>
+       <a class="link" href="http://arquidiocesismorelia.mx" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/arquidiomorelia" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+       <a class="linkf" href="https://www.facebook.com/arquimorelia" rel="nofollow" target="_blank" title="Facebook Page">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="pueb0">
+     <td>
+      <img alt="Metr. Archdiocese" height="20" src="/images/map/s02.png"/>
+      <a class="typemetr" href="../diocese/pueb0.htm">
+       Puebla de los Ángeles
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="MX-province.htm#pueb0">
+       Puebla de los Ángeles
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/northamerica/3814.htm" title="Basílica Catedral Metropolitana de Nuestra Señora de la Purísima Concepción">
+        <img alt="Basílica Catedral Metropolitana de Nuestra Señora de la Purísima Concepción" height="20" src="/images/c1ab.gif" width="19"/>
+       </a>
+       <a href="../../churches/mexico/70385.htm" title="Exconvento de San Francisco de Asís">
+        <img alt="Exconvento de San Francisco de Asís" height="20" src="/images/c1d.gif" width="15"/>
+       </a>
+       <a href="../../churches/mexico/70386.htm" title="Exconvento de San Miguel Arcángel">
+        <img alt="Exconvento de San Miguel Arcángel" height="20" src="/images/c1d.gif" width="15"/>
+       </a>
+       <a href="../../churches/mexico/70387.htm" title="Iglesia de la Asunción de Nuestra Señora">
+        <img alt="Iglesia de la Asunción de Nuestra Señora" height="20" src="/images/c1d.gif" width="15"/>
+       </a>
+       <a href="../../churches/mexico/54819.htm" title="Iglesia Santo Domingo de Guzmán">
+        <img alt="Iglesia Santo Domingo de Guzmán" height="20" src="/images/c1d.gif" width="15"/>
+       </a>
+       <a href="../diocese/pueb0.htm#4134" title="Archbishop Victor Valentin Sánchez Espinosa (73)">
+        <img alt="Archbishop Victor Valentin Sánchez Espinosa (73)" height="20" src="/images/prelateA1.gif" width="22"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-LO.htm#55020" title="Bishop Tomás López Durán (62)">
+        <img alt="Bishop Tomás López Durán (62)" height="20" src="/images/prelateB3.gif" width="16"/>
+       </a>
+       <a class="link" href="http://arquidiocesisdepuebla.mx" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkf" href="https://www.facebook.com/ArquidiocesisdePuebla" rel="nofollow" target="_blank" title="Facebook Page">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="zlui0">
+     <td>
+      <img alt="Metr. Archdiocese" height="20" src="/images/map/s02.png"/>
+      <a class="typemetr" href="../diocese/zlui0.htm">
+       San Luis Potosí
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="MX-province.htm#zlui0">
+       San Luis Potosí
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/northamerica/3153.htm" title="Catedral Metropolitana de San Luis Rey">
+        <img alt="Catedral Metropolitana de San Luis Rey" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/northamerica/1257.htm" title="Basílica Santuario de Nuestra Señora de Guadalupe">
+        <img alt="Basílica Santuario de Nuestra Señora de Guadalupe" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/zlui0.htm#24260" title="Archbishop Jorge Alberto Cavazos Arizpe (60)">
+        <img alt="Archbishop Jorge Alberto Cavazos Arizpe (60)" height="20" src="/images/prelateA1.gif" width="22"/>
+       </a>
+       <a href="../diocese/zlui0.htm#4178" title="Archbishop Luis Morales Reyes (86)">
+        <img alt="Archbishop Luis Morales Reyes (86)" height="20" src="/images/prelateA2.gif" width="22"/>
+       </a>
+       <a href="../diocese/zlui0.htm#24151" title="Archbishop Jesús Carlos Cabrero Romero (77)">
+        <img alt="Archbishop Jesús Carlos Cabrero Romero (77)" height="20" src="/images/prelateA2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.iglesiapotosina.org" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="tiju0">
+     <td>
+      <img alt="Metr. Archdiocese" height="20" src="/images/map/s02.png"/>
+      <a class="typemetr" href="../diocese/tiju0.htm">
+       Tijuana
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="MX-province.htm#tiju0">
+       Tijuana
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/northamerica/3853.htm" title="Catedral de Nuestra Señora de Guadalupe">
+        <img alt="Catedral de Nuestra Señora de Guadalupe" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/tiju0.htm#4160" title="Archbishop Francisco Moreno Barrón (68)">
+        <img alt="Archbishop Francisco Moreno Barrón (68)" height="20" src="/images/prelateA1.gif" width="22"/>
+       </a>
+       <a href="../diocese/tiju0.htm#4117" title="Archbishop Rafael Romo Muñoz (82)">
+        <img alt="Archbishop Rafael Romo Muñoz (82)" height="20" src="/images/prelateA2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.iglesiatijuana.org" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/iglesiatj" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="tlal0">
+     <td>
+      <img alt="Metr. Archdiocese" height="20" src="/images/map/s02.png"/>
+      <a class="typemetr" href="../diocese/tlal0.htm">
+       Tlalnepantla
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="MX-province.htm#tlal0">
+       Tlalnepantla
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/northamerica/2715.htm" title="Catedral de Corpus Christi">
+        <img alt="Catedral de Corpus Christi" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/northamerica/1379.htm" title="Basílica de Nuestra Señora de los Remedios">
+        <img alt="Basílica de Nuestra Señora de los Remedios" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/tlal0.htm#4055" title="Archbishop José Antonio Fernández Hurtado (70)">
+        <img alt="Archbishop José Antonio Fernández Hurtado (70)" height="20" src="/images/prelateA1.gif" width="22"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-R.htm#4182" title="Bishop Francisco Ramírez Navarro (83)">
+        <img alt="Bishop Francisco Ramírez Navarro (83)" height="20" src="/images/prelateB4.gif" width="16"/>
+       </a>
+       <a class="link" href="http://www.tierradeenmedio.org.mx" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/Diocesis_Tlalne" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+       <a class="linkf" href="https://www.facebook.com/ArquidiocesisdeTlalnepantla" rel="nofollow" target="_blank" title="Facebook Page">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="tolu0">
+     <td>
+      <img alt="Metr. Archdiocese" height="20" src="/images/map/s02.png"/>
+      <a class="typemetr" href="../diocese/tolu0.htm">
+       Toluca
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="MX-province.htm#tolu0">
+       Toluca
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/northamerica/3981.htm" title="Catedral Metropolitana de San José de Nazaret">
+        <img alt="Catedral Metropolitana de San José de Nazaret" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/northamerica/6410.htm" title="Parroquia San José El Sagrario">
+        <img alt="Parroquia San José El Sagrario" height="20" src="/images/c1b.gif" width="17"/>
+       </a>
+       <a href="../diocese/tolu0.htm#26770" title="Archbishop Raúl Gómez González (69)">
+        <img alt="Archbishop Raúl Gómez González (69)" height="20" src="/images/prelateA1.gif" width="22"/>
+       </a>
+       <a href="../diocese/ciud1.htm#9944" title="Bishop Maximino Martínez Miranda (72)">
+        <img alt="Bishop Maximino Martínez Miranda (72)" height="20" src="/images/prelateB3.gif" width="16"/>
+       </a>
+       <a href="../diocese/tolu0.htm#4141" title="Archbishop Francisco Javier Chavolla Ramos (77)">
+        <img alt="Archbishop Francisco Javier Chavolla Ramos (77)" height="20" src="/images/prelateA2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.diocesistoluca.org.mx" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/Diocesisdetoluk" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="tula1">
+     <td>
+      <img alt="Metr. Archdiocese" height="20" src="/images/map/s02.png"/>
+      <a class="typemetr" href="../diocese/tula1.htm">
+       Tulancingo
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="MX-province.htm#tula1">
+       Tulancingo
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/northamerica/2722.htm" title="Catedral de San Juan Bautista">
+        <img alt="Catedral de San Juan Bautista" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/northamerica/1378.htm" title="Basílica de la Inmaculada Concepción">
+        <img alt="Basílica de la Inmaculada Concepción" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/northamerica/1461.htm" title="Basílica de Santa María de Guadalupe">
+        <img alt="Basílica de Santa María de Guadalupe" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/tula1.htm#4126" title="Archbishop Domingo Díaz Martínez (74)">
+        <img alt="Archbishop Domingo Díaz Martínez (74)" height="20" src="/images/prelateA1.gif" width="22"/>
+       </a>
+       <a class="link" href="http://arqtulancingo.org" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/ArqTulancingo" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+       <a class="linkf" href="https://www.facebook.com/arquidiocesis.tulancingo" rel="nofollow" target="_blank" title="Facebook Page">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="tuxt1">
+     <td>
+      <img alt="Metr. Archdiocese" height="20" src="/images/map/s02.png"/>
+      <a class="typemetr" href="../diocese/tuxt1.htm">
+       Tuxtla Gutiérrez
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="MX-province.htm#tuxt1">
+       Tuxtla Gutiérrez
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/northamerica/2721.htm" title="Catedral de San Marcos">
+        <img alt="Catedral de San Marcos" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/tuxt1.htm#13705" title="Archbishop Fabio Martínez Castilla (72)">
+        <img alt="Archbishop Fabio Martínez Castilla (72)" height="20" src="/images/prelateA1.gif" width="22"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-ME.htm#13709" title="Bishop José Luis Mendoza Corzo (63)">
+        <img alt="Bishop José Luis Mendoza Corzo (63)" height="20" src="/images/prelateB3.gif" width="16"/>
+       </a>
+       <a class="link" href="http://arquidiocesisdetuxtla.org.mx" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/Arquidio_Tuxtla" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+       <a class="linkf" href="https://www.facebook.com/ArquidiocesisTuxtla" rel="nofollow" target="_blank" title="Facebook Page">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="yuca0">
+     <td>
+      <img alt="Metr. Archdiocese" height="20" src="/images/map/s02.png"/>
+      <a class="typemetr" href="../diocese/yuca0.htm">
+       Yucatán
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="MX-province.htm#yuca0">
+       Yucatán
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/northamerica/2714.htm" title="Catedral Metropolitana de San Ildefonso">
+        <img alt="Catedral Metropolitana de San Ildefonso" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/yuca0.htm#4148" title="Archbishop Gustavo Rodríguez Vega (68)">
+        <img alt="Archbishop Gustavo Rodríguez Vega (68)" height="20" src="/images/prelateA1.gif" width="22"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-ME.htm#61459" title="Bishop Pedro Sergio de Jesús Mena Díaz (68)">
+        <img alt="Bishop Pedro Sergio de Jesús Mena Díaz (68)" height="20" src="/images/prelateB3.gif" width="16"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-ME.htm#75007" title="Bishop Mario Medina Balam (60)">
+        <img alt="Bishop Mario Medina Balam (60)" height="20" src="/images/prelateB3.gif" width="16"/>
+       </a>
+       <a href="../diocese/yuca0.htm#4086" title="Archbishop Emilio Carlos Berlie Belaunzarán (83)">
+        <img alt="Archbishop Emilio Carlos Berlie Belaunzarán (83)" height="20" src="/images/prelateA2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://arquidiocesisdeyucatan.org.mx" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/arquidyucatan" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+       <a class="linkf" href="https://www.facebook.com/ArquidiocesisYucatan" rel="nofollow" target="_blank" title="Facebook Page">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="agua0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/agua0.htm">
+       Aguascalientes
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="MX-province.htm#agua0">
+       Guadalajara
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/northamerica/0665.htm" title="Catedral Basílica de Nuestra Señora de la Asunción">
+        <img alt="Catedral Basílica de Nuestra Señora de la Asunción" height="20" src="/images/c1ab.gif" width="19"/>
+       </a>
+       <a href="../diocese/agua0.htm#46037" title="Bishop Juan Espinoza Jiménez (58)">
+        <img alt="Bishop Juan Espinoza Jiménez (58)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.diocesisdeaguascalientes.org" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="apat0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/apat0.htm">
+       Apatzingán
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="MX-province.htm#apat0">
+       Morelia
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/northamerica/4780.htm" title="Catedral de Nuestra Señora de la Asunción">
+        <img alt="Catedral de Nuestra Señora de la Asunción" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/apat0.htm#57213" title="Bishop Cristóbal Ascencio García (68)">
+        <img alt="Bishop Cristóbal Ascencio García (68)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.diocesisdeapatzingan.org.mx" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="atla1">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/atla1.htm">
+       Atlacomulco
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="MX-province.htm#atla1">
+       Toluca
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/northamerica/4945.htm" title="Catedral de la Divina Providencia">
+        <img alt="Catedral de la Divina Providencia" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/northamerica/5939.htm" title="Iglesia de Santa María de Guadalupe">
+        <img alt="Iglesia de Santa María de Guadalupe" height="20" src="/images/c1b.gif" width="17"/>
+       </a>
+       <a href="../diocese/atla1.htm#39664" title="Bishop Juan Odilón Martínez García (74)">
+        <img alt="Bishop Juan Odilón Martínez García (74)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a class="link" href="http://diocesisdeatlacomulco.org" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="autl0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/autl0.htm">
+       Autlán
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="MX-province.htm#autl0">
+       Guadalajara
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/northamerica/3968.htm" title="Catedral de Santísima Trinidad">
+        <img alt="Catedral de Santísima Trinidad" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/autl0.htm#4072" title="Bishop Rafael Sandoval Sandoval, M.N.M. (76)">
+        <img alt="Bishop Rafael Sandoval Sandoval, M.N.M. (76)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.diocesisdeautlan.com" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="azca0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/azca0.htm">
+       Azcapotzalco
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="MX-province.htm#azca0">
+       México
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/northamerica/6448.htm" title="Catedral Santos Apóstoles Felipe y Santiago">
+        <img alt="Catedral Santos Apóstoles Felipe y Santiago" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/azca0.htm#44451" title="Bishop Adolfo Miguel Castaño Fonseca (60)">
+        <img alt="Bishop Adolfo Miguel Castaño Fonseca (60)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="camp4">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/camp4.htm">
+       Campeche
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="MX-province.htm#camp4">
+       Yucatán
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/northamerica/3166.htm" title="Catedral de Nuestra Señora de la Purísima Concepción">
+        <img alt="Catedral de Nuestra Señora de la Purísima Concepción" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/camp4.htm#23407" title="Bishop José Francisco González González (57)">
+        <img alt="Bishop José Francisco González González (57)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a class="link" href="http://diocesisdecampeche.com" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/Diocesiscampche" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="canc0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/canc0.htm">
+       Cancún–Chetumal
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="MX-province.htm#canc0">
+       Yucatán
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/northamerica/5083.htm" title="Catedral de la Santísima Trinidad">
+        <img alt="Catedral de la Santísima Trinidad" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/northamerica/3891.htm" title="Catedral del Sagrado Corazón">
+        <img alt="Catedral del Sagrado Corazón" height="20" src="/images/c1c.gif" width="17"/>
+       </a>
+       <a href="../diocese/canc0.htm#4084" title="Bishop Pedro Pablo Elizondo Cárdenas, L.C. (73)">
+        <img alt="Bishop Pedro Pablo Elizondo Cárdenas, L.C. (73)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../diocese/canc0.htm#4085" title="Bishop Jorge Bernal Vargas, L.C. (94)">
+        <img alt="Bishop Jorge Bernal Vargas, L.C. (94)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.cancunchetumal.org" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/CancunChetumal" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="cela0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/cela0.htm">
+       Celaya
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="MX-province.htm#cela0">
+       León
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/northamerica/2727.htm" title="Catedral de la Purísima Concepción">
+        <img alt="Catedral de la Purísima Concepción" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/mexico/70363.htm" title="Iglesia San Miguel Arcángel">
+        <img alt="Iglesia San Miguel Arcángel" height="20" src="/images/c1d.gif" width="15"/>
+       </a>
+       <a href="../../churches/mexico/70362.htm" title="Santuario de Jesús Nazareno">
+        <img alt="Santuario de Jesús Nazareno" height="20" src="/images/c4d.gif" width="15"/>
+       </a>
+       <a href="../diocese/cela0.htm#60227" title="Bishop Víctor Alejandro Aguilar Ledesma (58)">
+        <img alt="Bishop Víctor Alejandro Aguilar Ledesma (58)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../diocese/cela0.htm#4091" title="Bishop José Benjamín Castillo Plascencia (77)">
+        <img alt="Bishop José Benjamín Castillo Plascencia (77)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.diocesisdecelaya.org" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/diocesis_celaya" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="chil2">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/chil2.htm">
+       Chilpancingo–Chilapa
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="MX-province.htm#chil2">
+       Acapulco
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/northamerica/2737.htm" title="Catedral de la Asunción de María">
+        <img alt="Catedral de la Asunción de María" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/northamerica/3969.htm" title="Concatedral de la Asunción de María">
+        <img alt="Concatedral de la Asunción de María" height="20" src="/images/c1c.gif" width="17"/>
+       </a>
+       <a href="../diocese/chil2.htm#30930" title="Bishop José de Jesús González Hernández, O.F.M. (58)">
+        <img alt="Bishop José de Jesús González Hernández, O.F.M. (58)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../diocese/chil2.htm#4042" title="Bishop Alejo Zavala Castro (81)">
+        <img alt="Bishop Alejo Zavala Castro (81)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+       <a href="../diocese/chil2.htm#24567" title="Bishop Salvador Rangel Mendoza, O.F.M. (77)">
+        <img alt="Bishop Salvador Rangel Mendoza, O.F.M. (77)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://chilpancingochilapa.org" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/chilapensis" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+       <a class="linkf" href="https://www.facebook.com/chilapensis" rel="nofollow" target="_blank" title="Facebook Page">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="ciud1">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/ciud1.htm">
+       Ciudad Altamirano
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="MX-province.htm#ciud1">
+       Acapulco
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/northamerica/4781.htm" title="Catedral de San Juan Bautista">
+        <img alt="Catedral de San Juan Bautista" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/ciud1.htm#62580" title="Bishop Joel Ocampo Gorostieta (59)">
+        <img alt="Bishop Joel Ocampo Gorostieta (59)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../diocese/ciud1.htm#4147" title="Bishop José Lizáres Estrada (89)">
+        <img alt="Bishop José Lizáres Estrada (89)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.diocesisciudadaltamirano.org" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="ciud2">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/ciud2.htm">
+       Ciudad Guzmán
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="MX-province.htm#ciud2">
+       Guadalajara
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/northamerica/2726.htm" title="Catedral de San José">
+        <img alt="Catedral de San José" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/ciud2.htm#8861" title="Bishop Óscar Armando Campos Contreras (75)">
+        <img alt="Bishop Óscar Armando Campos Contreras (75)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../diocese/ciud2.htm#4100" title="Bishop Braulio Rafael León Villegas (78)">
+        <img alt="Bishop Braulio Rafael León Villegas (78)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="ciud3">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/ciud3.htm">
+       Ciudad Juárez
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="MX-province.htm#ciud3">
+       Chihuahua
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/northamerica/2725.htm" title="Catedral de Nuestra Señora de Guadalupe">
+        <img alt="Catedral de Nuestra Señora de Guadalupe" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/ciud3.htm#4067" title="Bishop José Guadalupe Torres Campos (63)">
+        <img alt="Bishop José Guadalupe Torres Campos (63)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.diocesisdeciudadjuarez.org" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="ciud4">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/ciud4.htm">
+       Ciudad Lázaro Cárdenas
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="MX-province.htm#ciud4">
+       Morelia
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/northamerica/3970.htm" title="Catedral Cristo Rey">
+        <img alt="Catedral Cristo Rey" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/ciud4.htm#54988" title="Bishop Armando António Ortíz Aguirre (71)">
+        <img alt="Bishop Armando António Ortíz Aguirre (71)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../diocese/ciud4.htm#4044" title="Bishop José de Jesús Sahagún de la Parra (101)">
+        <img alt="Bishop José de Jesús Sahagún de la Parra (101)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://diocesislazarocardenas.org" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="ciud5">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/ciud5.htm">
+       Ciudad Obregón
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="MX-province.htm#ciud5">
+       Hermosillo
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/northamerica/2713.htm" title="Catedral Sagrado Corazón de Jesús">
+        <img alt="Catedral Sagrado Corazón de Jesús" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/northamerica/6477.htm" title="Santuario Nuestra Señora de Guadalupe">
+        <img alt="Santuario Nuestra Señora de Guadalupe" height="20" src="/images/c1b.gif" width="17"/>
+       </a>
+       <a href="../diocese/ciud5.htm#55019" title="Bishop Rutilo Felipe Pozos Lorenzini (56)">
+        <img alt="Bishop Rutilo Felipe Pozos Lorenzini (56)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../diocese/ciud5.htm#4057" title="Bishop Felipe Padilla Cardona (78)">
+        <img alt="Bishop Felipe Padilla Cardona (78)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://diocesisdeciudadobregon.org" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="ciud9">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/ciud9.htm">
+       Ciudad Valles
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="MX-province.htm#ciud9">
+       San Luis Potosí
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/northamerica/2712.htm" title="Catedral de Nuestra Señora de Guadalupe">
+        <img alt="Catedral de Nuestra Señora de Guadalupe" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/ciud9.htm#67014" title="Bishop Roberto Yenny García (51)">
+        <img alt="Bishop Roberto Yenny García (51)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../diocese/ciud9.htm#4150" title="Bishop Roberto Octavio Balmori Cinta, M.J. (79)">
+        <img alt="Bishop Roberto Octavio Balmori Cinta, M.J. (79)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="ciudA">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/ciudA.htm">
+       Ciudad Victoria
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="MX-province.htm#ciudA">
+       Monterrey
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/northamerica/3967.htm" title="Catedral del Sagrado Corazón de Jesús">
+        <img alt="Catedral del Sagrado Corazón de Jesús" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/northamerica/1243.htm" title="Basílica de Nuestra Señora del Refugio">
+        <img alt="Basílica de Nuestra Señora del Refugio" height="20" src="/images/c1bb.gif" width="19"/>
+       </a>
+       <a href="../diocese/ciudA.htm#60933" title="Bishop Oscar Efraín Tamez Villareal (49)">
+        <img alt="Bishop Oscar Efraín Tamez Villareal (49)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../diocese/ciudA.htm#4144" title="Bishop Antonio González Sánchez (75)">
+        <img alt="Bishop Antonio González Sánchez (75)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://diocesisdevictoria.org" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="coat0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/coat0.htm">
+       Coatzacoalcos
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="MX-province.htm#coat0">
+       Jalapa
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/northamerica/4782.htm" title="Catedral de San José">
+        <img alt="Catedral de San José" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/coat0.htm#4119" title="Bishop Rutilo Muñoz Zamora (72)">
+        <img alt="Bishop Rutilo Muñoz Zamora (72)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.diocesiscoatza.org" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="coli0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/coli0.htm">
+       Colima
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="MX-province.htm#coli0">
+       Guadalajara
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/northamerica/1370.htm" title="Catedral Basílica de Nuestra Señora de Guadalupe">
+        <img alt="Catedral Basílica de Nuestra Señora de Guadalupe" height="20" src="/images/c1ab.gif" width="19"/>
+       </a>
+       <a href="../diocese/coli0.htm#57089" title="Bishop Gerardo Díaz Vázquez (57)">
+        <img alt="Bishop Gerardo Díaz Vázquez (57)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../diocese/coli0.htm#4102" title="Bishop José Luis Amezcua Melgoza (85)">
+        <img alt="Bishop José Luis Amezcua Melgoza (85)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+       <a href="../diocese/coli0.htm#4132" title="Bishop Marcelino Hernández Rodríguez (77)">
+        <img alt="Bishop Marcelino Hernández Rodríguez (77)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.diocesisdecolima.org" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="cord2">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/cord2.htm">
+       Córdoba
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="MX-province.htm#cord2">
+       Jalapa
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/northamerica/3972.htm" title="Catedral de la Inmaculada Concepción">
+        <img alt="Catedral de la Inmaculada Concepción" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/cord2.htm#4050" title="Bishop Eduardo Cirilo Carmona Ortega, C.O.R.C. (64)">
+        <img alt="Bishop Eduardo Cirilo Carmona Ortega, C.O.R.C. (64)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../diocese/cord2.htm#4121" title="Bishop Eduardo Porfirio Patiño Leal (73)">
+        <img alt="Bishop Eduardo Porfirio Patiño Leal (73)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://diocesisdecordoba.org.mx" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="cuau0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/cuau0.htm">
+       Cuauhtémoc–Madera
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="MX-province.htm#cuau0">
+       Chihuahua
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/northamerica/4130.htm" title="Catedral de San Antonio de Padua">
+        <img alt="Catedral de San Antonio de Padua" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/northamerica/5837.htm" title="Concatedral de San Pedro">
+        <img alt="Concatedral de San Pedro" height="20" src="/images/c1c.gif" width="17"/>
+       </a>
+       <a href="../diocese/cuau0.htm#74550" title="Bishop Jesús Omar Alemán Chávez (52)">
+        <img alt="Bishop Jesús Omar Alemán Chávez (52)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a class="link" href="http://diocesiscuauhtemocmadera.org" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkf" href="https://www.facebook.com/IglesiaCuauhtemocMadera" rel="nofollow" target="_blank" title="Facebook Page">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="cuau1">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/cuau1.htm">
+       Cuautitlán
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="MX-province.htm#cuau1">
+       Tlalnepantla
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/northamerica/3888.htm" title="Catedral de San Buenaventura">
+        <img alt="Catedral de San Buenaventura" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/cuau1.htm#47026" title="Bishop Efraín Mendoza Cruz (63)">
+        <img alt="Bishop Efraín Mendoza Cruz (63)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="cuer0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/cuer0.htm">
+       Cuernavaca
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="MX-province.htm#cuer0">
+       Toluca
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/northamerica/3889.htm" title="Catedral de la Asunción de María">
+        <img alt="Catedral de la Asunción de María" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/mexico/67556.htm" title="Iglesia Inmaculada Concepción">
+        <img alt="Iglesia Inmaculada Concepción" height="20" src="/images/c1d.gif" width="15"/>
+       </a>
+       <a href="../../churches/mexico/67534.htm" title="Iglesia Natividad de María">
+        <img alt="Iglesia Natividad de María" height="20" src="/images/c1d.gif" width="15"/>
+       </a>
+       <a href="../../churches/mexico/67540.htm" title="Iglesia San Guillermo">
+        <img alt="Iglesia San Guillermo" height="20" src="/images/c1d.gif" width="15"/>
+       </a>
+       <a href="../../churches/mexico/67541.htm" title="Iglesia San Juan Bautista">
+        <img alt="Iglesia San Juan Bautista" height="20" src="/images/c1d.gif" width="15"/>
+       </a>
+       <a href="../../churches/mexico/67529.htm" title="Iglesia San Juan Bautista">
+        <img alt="Iglesia San Juan Bautista" height="20" src="/images/c1d.gif" width="15"/>
+       </a>
+       <a href="../../churches/mexico/67542.htm" title="Iglesia San Juan Bautista">
+        <img alt="Iglesia San Juan Bautista" height="20" src="/images/c1d.gif" width="15"/>
+       </a>
+       <a href="../../churches/mexico/67543.htm" title="Iglesia San Mateo">
+        <img alt="Iglesia San Mateo" height="20" src="/images/c1d.gif" width="15"/>
+       </a>
+       <a href="../../churches/mexico/67544.htm" title="Iglesia Santiago Apóstol">
+        <img alt="Iglesia Santiago Apóstol" height="20" src="/images/c1d.gif" width="15"/>
+       </a>
+       <a href="../../churches/mexico/67531.htm" title="Iglesia Santo Domingo de Guzmán">
+        <img alt="Iglesia Santo Domingo de Guzmán" height="20" src="/images/c1d.gif" width="15"/>
+       </a>
+       <a href="../../churches/mexico/67545.htm" title="Iglesia y ex-convento Santo Domingo de Guzmán">
+        <img alt="Iglesia y ex-convento Santo Domingo de Guzmán" height="20" src="/images/c1d.gif" width="15"/>
+       </a>
+       <a href="../diocese/cuer0.htm#4089" title="Bishop Ramón Castro Castro (67)">
+        <img alt="Bishop Ramón Castro Castro (67)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.diocesisdecuernavaca.org.mx" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/iglesiamorelos" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="culi0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/culi0.htm">
+       Culiacán
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="MX-province.htm#culi0">
+       Hermosillo
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/northamerica/1060.htm" title="Catedral Basílica de Nuestra Señora del Rosario">
+        <img alt="Catedral Basílica de Nuestra Señora del Rosario" height="20" src="/images/c1ab.gif" width="19"/>
+       </a>
+       <a href="../diocese/culi0.htm#4131" title="Bishop Jonás Guerrero Corona (76)">
+        <img alt="Bishop Jonás Guerrero Corona (76)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-DU.htm#12418" title="Bishop Emigdio Duarte Figueroa (55)">
+        <img alt="Bishop Emigdio Duarte Figueroa (55)" height="20" src="/images/prelateB3.gif" width="16"/>
+       </a>
+       <a class="link" href="http://catolicosdeculiacan.com" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="ecat0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/ecat0.htm">
+       Ecatepec
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="MX-province.htm#ecat0">
+       Tlalnepantla
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/northamerica/3887.htm" title="Catedral dal Sagrado Corazón de Jesús">
+        <img alt="Catedral dal Sagrado Corazón de Jesús" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/northamerica/5075.htm" title="Templo Expiatorio de San Cristobal">
+        <img alt="Templo Expiatorio de San Cristobal" height="20" src="/images/c1b.gif" width="17"/>
+       </a>
+       <a href="../diocese/ecat0.htm#13712" title="Bishop Oscar Roberto Domínguez Couttolenc, M.G. (67)">
+        <img alt="Bishop Oscar Roberto Domínguez Couttolenc, M.G. (67)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.diocesisecatepec.org.mx" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/DiocEcatepec" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+       <a class="linkf" href="https://www.facebook.com/diocesisdeEcatepec" rel="nofollow" target="_blank" title="Facebook Page">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="ense0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/ense0.htm">
+       Ensenada
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="MX-province.htm#ense0">
+       Tijuana
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/northamerica/3863.htm" title="Catedral de Nuestra Señora de Guadalupe">
+        <img alt="Catedral de Nuestra Señora de Guadalupe" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/ense0.htm#52202" title="Bishop Rafael Valdéz Torres (63)">
+        <img alt="Bishop Rafael Valdéz Torres (63)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a class="link" href="http://diocesisensenada.org" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/DiosEnsenada" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="gome0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/gome0.htm">
+       Gómez Palacio
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="MX-province.htm#gome0">
+       Durango
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/northamerica/4778.htm" title="Catedral de Nuestra Señora de Guadalupe">
+        <img alt="Catedral de Nuestra Señora de Guadalupe" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/gome0.htm#52239" title="Bishop Jorge Estrada Solórzano (61)">
+        <img alt="Bishop Jorge Estrada Solórzano (61)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a class="linkt" href="https://twitter.com/Diocesisgomezpalacio" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+       <a class="linkf" href="https://www.facebook.com/diocesisdegomezpalacio" rel="nofollow" target="_blank" title="Facebook Page">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="huaj0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/huaj0.htm">
+       Huajuapan de León
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="MX-province.htm#huaj0">
+       Puebla de los Ángeles
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/northamerica/3892.htm" title="Catedral de la Virgen de Guadalupe">
+        <img alt="Catedral de la Virgen de Guadalupe" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/huaj0.htm#72619" title="Bishop Miguel Ángel Castro Muñoz (52)">
+        <img alt="Bishop Miguel Ángel Castro Muñoz (52)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.diocesishuajuapan.org.mx" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="huej0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/huej0.htm">
+       Huejutla
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="MX-province.htm#huej0">
+       Tulancingo
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/northamerica/3890.htm" title="Catedral de Cristo Rey y Santa María de Guadalupe">
+        <img alt="Catedral de Cristo Rey y Santa María de Guadalupe" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/huej0.htm#60494" title="Bishop José Hiraís Acosta Beltrán (56)">
+        <img alt="Bishop José Hiraís Acosta Beltrán (56)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../diocese/huej0.htm#4075" title="Bishop Juan de Dios Caballero Reyes (91)">
+        <img alt="Bishop Juan de Dios Caballero Reyes (91)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.diocesisdehuejutla.org" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="irap0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/irap0.htm">
+       Irapuato
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="MX-province.htm#irap0">
+       León
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/northamerica/4131.htm" title="Catedral de Nuestra Señora de la Soledad">
+        <img alt="Catedral de Nuestra Señora de la Soledad" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/irap0.htm#4054" title="Bishop Enrique Díaz Díaz (70)">
+        <img alt="Bishop Enrique Díaz Díaz (70)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../diocese/irap0.htm#4175" title="Bishop José de Jesús Martínez Zepeda (81)">
+        <img alt="Bishop José de Jesús Martínez Zepeda (81)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="izca0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/izca0.htm">
+       Izcalli
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="MX-province.htm#izca0">
+       Tlalnepantla
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/northamerica/5808.htm" title="Catedral Santa María de la Anunciación">
+        <img alt="Catedral Santa María de la Anunciación" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/izca0.htm#56615" title="Bishop Francisco González Ramos (64)">
+        <img alt="Bishop Francisco González Ramos (64)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="izta0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/izta0.htm">
+       Iztapalapa
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="MX-province.htm#izta0">
+       México
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/northamerica/6449.htm" title="Catedral del Señor del Santo Sepulcro">
+        <img alt="Catedral del Señor del Santo Sepulcro" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/izta0.htm#59213" title="Bishop Jorge Cuapio Bautista (56)">
+        <img alt="Bishop Jorge Cuapio Bautista (56)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../diocese/izta0.htm#24706" title="Bishop Jesús Antonio Lerma Nolasco (77)">
+        <img alt="Bishop Jesús Antonio Lerma Nolasco (77)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="lapa1">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/lapa1.htm">
+       La Paz
+      </a>
+      /
+      <a class="typedioc" href="../diocese/lapa1.htm">
+       La Paz en la Baja California Sur
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="MX-province.htm#lapa1">
+       Tijuana
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/northamerica/3315.htm" title="Catedral de Nuestra Señora de la Paz">
+        <img alt="Catedral de Nuestra Señora de la Paz" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/lapa1.htm#4115" title="Bishop Miguel Angel Alba Díaz (72)">
+        <img alt="Bishop Miguel Angel Alba Díaz (72)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-E.htm#74525" title="Bishop Miguel Ángel Espinoza Garza (57)">
+        <img alt="Bishop Miguel Ángel Espinoza Garza (57)" height="20" src="/images/prelateB3.gif" width="16"/>
+       </a>
+       <a class="link" href="http://www.diocesislapaz.org" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/DiocesisLaPaz" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="lina0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/lina0.htm">
+       Linares
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="MX-province.htm#lina0">
+       Monterrey
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/northamerica/4132.htm" title="Catedral de San Felipe Apóstol">
+        <img alt="Catedral de San Felipe Apóstol" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/lina0.htm#73061" title="Bishop César Alfonso Ortega Díaz (54)">
+        <img alt="Bishop César Alfonso Ortega Díaz (54)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../diocese/lina0.htm#4151" title="Bishop Ramón Calderón Batres (84)">
+        <img alt="Bishop Ramón Calderón Batres (84)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="mata2">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/mata2.htm">
+       Matamoros
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="MX-province.htm#mata2">
+       Monterrey
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/northamerica/3973.htm" title="Catedral de Nuestra Señora del Refugio">
+        <img alt="Catedral de Nuestra Señora del Refugio" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/mata2.htm#46304" title="Bishop Eugenio Andrés Lira Rugarcía (57)">
+        <img alt="Bishop Eugenio Andrés Lira Rugarcía (57)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.diocesisdematamoros.org" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/DiMatamoros" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="mate1">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/mate1.htm">
+       Matehuala
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="MX-province.htm#mate1">
+       San Luis Potosí
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/northamerica/3826.htm" title="Catedral de la Inmaculada Concepción">
+        <img alt="Catedral de la Inmaculada Concepción" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/mate1.htm#62025" title="Bishop Margarito Salazar Cárdenas (65)">
+        <img alt="Bishop Margarito Salazar Cárdenas (65)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="maza1">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/maza1.htm">
+       Mazatlán
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="MX-province.htm#maza1">
+       Durango
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/northamerica/0593.htm" title="Catedral Basílica de la Inmaculada Concepción">
+        <img alt="Catedral Basílica de la Inmaculada Concepción" height="20" src="/images/c1ab.gif" width="19"/>
+       </a>
+       <a href="../diocese/maza1.htm#4078" title="Bishop Mario Espinosa Contreras (73)">
+        <img alt="Bishop Mario Espinosa Contreras (73)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a class="linkt" href="https://twitter.com/diocesisdemazat" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="mexi1">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/mexi1.htm">
+       Mexicali
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="MX-province.htm#mexi1">
+       Tijuana
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/northamerica/3314.htm" title="Catedral de Nuestra Señora de Guadalupe">
+        <img alt="Catedral de Nuestra Señora de Guadalupe" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/tiju0.htm#4160" title="Archbishop Francisco Moreno Barrón (68)">
+        <img alt="Archbishop Francisco Moreno Barrón (68)" height="20" src="/images/prelateA3.gif" width="16"/>
+       </a>
+       <a class="link" href="http://diocesisdemexicali.org" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="netz0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/netz0.htm">
+       Nezahualcóyotl
+      </a>
+      /
+      <a class="typedioc" href="../diocese/netz0.htm">
+       Netzahualcóyotl
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="MX-province.htm#netz0">
+       Tlalnepantla
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/northamerica/3971.htm" title="Catedral Jesús Señor de la Misericordia">
+        <img alt="Catedral Jesús Señor de la Misericordia" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/netz0.htm#4061" title="Bishop Héctor Luis Morales Sánchez (68)">
+        <img alt="Bishop Héctor Luis Morales Sánchez (68)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.diocesisdenezahualcoyotl.org" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/DiocesisdeNeza" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+       <a class="linkf" href="https://www.facebook.com/diocesisdeneza" rel="nofollow" target="_blank" title="Facebook Page">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="noga0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/noga0.htm">
+       Nogales
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="MX-province.htm#noga0">
+       Hermosillo
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/northamerica/5982.htm" title="Catedral Santuario de Nuestra Señora de Guadalupe">
+        <img alt="Catedral Santuario de Nuestra Señora de Guadalupe" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/noga0.htm#4096" title="Bishop José Leopoldo González González (68)">
+        <img alt="Bishop José Leopoldo González González (68)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="nsma0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s24.png"/>
+      <a class="typedioc" href="../diocese/nsma0.htm">
+       Nuestra Señora de los Mártires del Líbano en México
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-M.htm">
+       Maronite
+      </a>
+     </td>
+     <td>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/northamerica/4852.htm" title="Catedral Maronita de Nuestra Señora de Valvanera">
+        <img alt="Catedral Maronita de Nuestra Señora de Valvanera" height="20" src="/images/c2a.gif" width="17"/>
+       </a>
+       <a href="../diocese/nsma0.htm#4039" title="Bishop Georges M. Saad Abi Younes, O.L.M. (75)">
+        <img alt="Bishop Georges M. Saad Abi Younes, O.L.M. (75)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.sancharbel.com" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="nspa0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s24.png"/>
+      <a class="typedioc" href="../diocese/nspa0.htm">
+       Nuestra Señora del Paraíso en México
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-GM.htm">
+       Greek-Melkite
+      </a>
+     </td>
+     <td>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/northamerica/3645.htm" title="Iglesia de Porta Coeli">
+        <img alt="Iglesia de Porta Coeli" height="20" src="/images/c2a.gif" width="17"/>
+       </a>
+       <a href="../diocese/vene2.htm#63537" title="Bishop Joseph Antoine Khawam, B.A. (55)">
+        <img alt="Bishop Joseph Antoine Khawam, B.A. (55)" height="20" src="/images/prelateB3.gif" width="16"/>
+       </a>
+       <a class="link" href="http://catolicosmexicanosderitobizantino.blogspot.com" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="ncas0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/ncas0.htm">
+       Nuevo Casas Grandes
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="MX-province.htm#ncas0">
+       Chihuahua
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/northamerica/3974.htm" title="Catedral Medalla Milagrosa">
+        <img alt="Catedral Medalla Milagrosa" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/ncas0.htm#47448" title="Bishop Jesús José Herrera Quiñonez (61)">
+        <img alt="Bishop Jesús José Herrera Quiñonez (61)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="nlar0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/nlar0.htm">
+       Nuevo Laredo
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="MX-province.htm#nlar0">
+       Monterrey
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/northamerica/3864.htm" title="Catedral del Espíritu Santo">
+        <img alt="Catedral del Espíritu Santo" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/nlar0.htm#24137" title="Bishop Enrique Sánchez Martínez (62)">
+        <img alt="Bishop Enrique Sánchez Martínez (62)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a class="linkf" href="https://www.facebook.com/diocesisdenuevolaredo" rel="nofollow" target="_blank" title="Facebook Page">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="oriz0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/oriz0.htm">
+       Orizaba
+      </a>
+      /
+      <a class="typedioc" href="../diocese/oriz0.htm">
+       Mendoza
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="MX-province.htm#oriz0">
+       Jalapa
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/northamerica/4133.htm" title="Catedral de San Miguel Arcangel">
+        <img alt="Catedral de San Miguel Arcangel" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/oriz0.htm#59090" title="Bishop Francisco Eduardo Cervantes Merino (69)">
+        <img alt="Bishop Francisco Eduardo Cervantes Merino (69)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.diocesisdeorizaba.com" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/DiocesisOrizaba" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="papa0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/papa0.htm">
+       Papantla
+      </a>
+      /
+      <a class="typedioc" href="../diocese/papa0.htm">
+       Coatzintla
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="MX-province.htm#papa0">
+       Jalapa
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/northamerica/5838.htm" title="Catedral de Nuestra Señora de la Asunción">
+        <img alt="Catedral de Nuestra Señora de la Asunción" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/northamerica/4134.htm" title="Iglesia de Nuestra Señora de la Ascuncion">
+        <img alt="Iglesia de Nuestra Señora de la Ascuncion" height="20" src="/images/c1b.gif" width="17"/>
+       </a>
+       <a href="../diocese/papa0.htm#4124" title="Bishop José Trinidad Zapata Ortíz (64)">
+        <img alt="Bishop José Trinidad Zapata Ortíz (64)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../diocese/papa0.htm#4123" title="Bishop Lorenzo Cárdenas Aregullín (86)">
+        <img alt="Bishop Lorenzo Cárdenas Aregullín (86)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.diocesisdepapantla.org.mx" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/diocpapantla" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+       <a class="linkf" href="https://www.facebook.com/diocesis.depapantla" rel="nofollow" target="_blank" title="Facebook Page">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="parr0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/parr0.htm">
+       Parral
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="MX-province.htm#parr0">
+       Chihuahua
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/northamerica/4977.htm" title="Catedral de Nuestra Señora de Guadalupe">
+        <img alt="Catedral de Nuestra Señora de Guadalupe" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/parr0.htm#70318" title="Bishop Mauricio Urrea Carrillo (53)">
+        <img alt="Bishop Mauricio Urrea Carrillo (53)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a class="link" href="http://diocesisdeparral.org.mx" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="pied0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/pied0.htm">
+       Piedras Negras
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="MX-province.htm#pied0">
+       Monterrey
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/northamerica/3975.htm" title="Catedral Mártires de Cristo Rey">
+        <img alt="Catedral Mártires de Cristo Rey" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/pied0.htm#4154" title="Bishop Alonso Gerardo Garza Treviño (75)">
+        <img alt="Bishop Alonso Gerardo Garza Treviño (75)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.diocesispn.org" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/DiocesisPN" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="puer9">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/puer9.htm">
+       Puerto Escondido
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="MX-province.htm#puer9">
+       Antequera
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/northamerica/1922.htm" title="Catedral de Nuestra Señora de la Soledad">
+        <img alt="Catedral de Nuestra Señora de la Soledad" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/puer9.htm#24191" title="Bishop Florencio Armando Colín Cruz (72)">
+        <img alt="Bishop Florencio Armando Colín Cruz (72)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="quer0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/quer0.htm">
+       Querétaro
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="MX-province.htm#quer0">
+       León
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/northamerica/3886.htm" title="Catedral de San Felipe Neri">
+        <img alt="Catedral de San Felipe Neri" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/northamerica/5839.htm" title="Iglesias de Santiago Apóstol">
+        <img alt="Iglesias de Santiago Apóstol" height="20" src="/images/c1b.gif" width="17"/>
+       </a>
+       <a href="../../churches/northamerica/4960.htm" title="Basílica del Santuario de Nuestra Señora de los Dolores de Soriano">
+        <img alt="Basílica del Santuario de Nuestra Señora de los Dolores de Soriano" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/northamerica/6160.htm" title="Misión de Nuestra Señora de la Luz de Tancoyol">
+        <img alt="Misión de Nuestra Señora de la Luz de Tancoyol" height="20" src="/images/c1d.gif" width="15"/>
+       </a>
+       <a href="../../churches/northamerica/6159.htm" title="Misión de San Francisco de Asís del Valle de Tilaco">
+        <img alt="Misión de San Francisco de Asís del Valle de Tilaco" height="20" src="/images/c1d.gif" width="15"/>
+       </a>
+       <a href="../../churches/northamerica/6161.htm" title="Misión de San Miguel Concá">
+        <img alt="Misión de San Miguel Concá" height="20" src="/images/c1d.gif" width="15"/>
+       </a>
+       <a href="../../churches/northamerica/6158.htm" title="Misión de Santa María de la Purísima Concepción del Agua de Landa">
+        <img alt="Misión de Santa María de la Purísima Concepción del Agua de Landa" height="20" src="/images/c1d.gif" width="15"/>
+       </a>
+       <a href="../../churches/northamerica/6157.htm" title="Templo Parroquial de Santiago Apóstol">
+        <img alt="Templo Parroquial de Santiago Apóstol" height="20" src="/images/c1d.gif" width="15"/>
+       </a>
+       <a href="../diocese/quer0.htm#59212" title="Bishop Fidencio López Plaza (73)">
+        <img alt="Bishop Fidencio López Plaza (73)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../diocese/quer0.htm#4170" title="Bishop Mario de Gasperín Gasperín (88)">
+        <img alt="Bishop Mario de Gasperín Gasperín (88)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.diocesisqro.org" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/diocesisqro" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="salt2">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/salt2.htm">
+       Saltillo
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="MX-province.htm#salt2">
+       Monterrey
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/northamerica/2724.htm" title="Catedral de Santiago Apóstol">
+        <img alt="Catedral de Santiago Apóstol" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/salt2.htm#57305" title="Bishop Hilario González García (57)">
+        <img alt="Bishop Hilario González García (57)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../diocese/salt2.htm#4155" title="Bishop José Raúl Vera López, O.P. (77)">
+        <img alt="Bishop José Raúl Vera López, O.P. (77)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.diocesisdesaltillo.org.mx" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/diocesisaltillo" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="zand1">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/zand1.htm">
+       San Andrés Tuxtla
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="MX-province.htm#zand1">
+       Jalapa
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/northamerica/4135.htm" title="Catedral de San José y San Andrés">
+        <img alt="Catedral de San José y San Andrés" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/northamerica/6590.htm" title="Basílica de la Virgen del Carmen">
+        <img alt="Basílica de la Virgen del Carmen" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/zand1.htm#72899" title="Bishop José Luis Canto Sosa (62)">
+        <img alt="Bishop José Luis Canto Sosa (62)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a class="linkf" href="https://www.facebook.com/diocesissanandrestuxtla" rel="nofollow" target="_blank" title="Facebook Page">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="zcri2">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/zcri2.htm">
+       San Cristóbal de las Casas
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="MX-province.htm#zcri2">
+       Tuxtla Gutiérrez
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/northamerica/3976.htm" title="Catedral de San Cristóbal">
+        <img alt="Catedral de San Cristóbal" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/zcri2.htm#4171" title="Bishop Rodrigo Aguilar Martínez (71)">
+        <img alt="Bishop Rodrigo Aguilar Martínez (71)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-LO.htm#70003" title="Bishop Luis Manuel López Alfaro (59)">
+        <img alt="Bishop Luis Manuel López Alfaro (59)" height="20" src="/images/prelateB3.gif" width="16"/>
+       </a>
+       <a href="../../hierarchy/data/cardFR1-7.htm#4052" title="Cardinal Felipe Arizmendi Esquivel (83)">
+        <img alt="Cardinal Felipe Arizmendi Esquivel (83)" height="20" src="/images/prelateC2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.diocesisdesancristobal.com.mx" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="zjua4">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/zjua4.htm">
+       San Juan de los Lagos
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="MX-province.htm#zjua4">
+       Guadalajara
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/northamerica/0626.htm" title="Catedral Basílica de Nuestra Señora de San Juan de los Lagos">
+        <img alt="Catedral Basílica de Nuestra Señora de San Juan de los Lagos" height="20" src="/images/c1ab.gif" width="19"/>
+       </a>
+       <a href="../diocese/zlui0.htm#24260" title="Archbishop Jorge Alberto Cavazos Arizpe (60)">
+        <img alt="Archbishop Jorge Alberto Cavazos Arizpe (60)" height="20" src="/images/prelateA3.gif" width="16"/>
+       </a>
+       <a href="../diocese/zjua4.htm#23912" title="Bishop Felipe Salazar Villagrana (82)">
+        <img alt="Bishop Felipe Salazar Villagrana (82)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://dsanjuan.org" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/diocesissanjuan" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+       <a class="linkf" href="https://www.facebook.com/DiocesisdeSanJuan" rel="nofollow" target="_blank" title="Facebook Page">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="taba0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/taba0.htm">
+       Tabasco
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="MX-province.htm#taba0">
+       Yucatán
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/northamerica/3977.htm" title="Catedral del Señor">
+        <img alt="Catedral del Señor" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/taba0.htm#4069" title="Bishop Gerardo de Jesús Rojas López (66)">
+        <img alt="Bishop Gerardo de Jesús Rojas López (66)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.diocesistabasco.org.mx" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/diocesistabasco" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="taca0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/taca0.htm">
+       Tacámbaro
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="MX-province.htm#taca0">
+       Morelia
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/northamerica/4783.htm" title="Catedral de San Jerónimo">
+        <img alt="Catedral de San Jerónimo" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a class="link" href="http://www.diocesisdetacambaro.mx" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="tamp0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/tamp0.htm">
+       Tampico
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="MX-province.htm#tamp0">
+       Monterrey
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/northamerica/3978.htm" title="Catedral de la Inmaculada Concepción">
+        <img alt="Catedral de la Inmaculada Concepción" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/tamp0.htm#47471" title="Bishop José Armando Álvarez Cano (63)">
+        <img alt="Bishop José Armando Álvarez Cano (63)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.diocesisdetampico.org.mx" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/diocesistampico" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="tapa0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/tapa0.htm">
+       Tapachula
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="MX-province.htm#tapa0">
+       Tuxtla Gutiérrez
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/northamerica/3979.htm" title="Catedral de San José">
+        <img alt="Catedral de San José" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/northamerica/6409.htm" title="Iglesia San Agustín">
+        <img alt="Iglesia San Agustín" height="20" src="/images/c1b.gif" width="17"/>
+       </a>
+       <a href="../diocese/tapa0.htm#50431" title="Bishop Jaime Calderón Calderón (57)">
+        <img alt="Bishop Jaime Calderón Calderón (57)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="tara1">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/tara1.htm">
+       Tarahumara
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="MX-province.htm#tara1">
+       Chihuahua
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/northamerica/5134.htm" title="Catedral de Nuestra Señora de Guadalupe">
+        <img alt="Catedral de Nuestra Señora de Guadalupe" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/northamerica/4784.htm" title="Concatedral del Dulce Nombre de María">
+        <img alt="Concatedral del Dulce Nombre de María" height="20" src="/images/c1c.gif" width="17"/>
+       </a>
+       <a href="../diocese/tara1.htm#61199" title="Bishop Juan Manuel González Sandoval, M.N.M. (59)">
+        <img alt="Bishop Juan Manuel González Sandoval, M.N.M. (59)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="tehu0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/tehu0.htm">
+       Tehuacán
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="MX-province.htm#tehu0">
+       Puebla de los Ángeles
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/northamerica/3980.htm" title="Catedral de la Inmaculada Concepción">
+        <img alt="Catedral de la Inmaculada Concepción" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/tehu0.htm#51806" title="Bishop Gonzalo Alonso Calzada Guerrero (58)">
+        <img alt="Bishop Gonzalo Alonso Calzada Guerrero (58)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.diocesisdetehuacan.org" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/DiocesisTehuaca" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+       <a class="linkf" href="https://www.facebook.com/DiocesisTehuacan" rel="nofollow" target="_blank" title="Facebook Page">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="tehu1">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/tehu1.htm">
+       Tehuantepec
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="MX-province.htm#tehu1">
+       Antequera
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/northamerica/4785.htm" title="Catedral de San Pedro">
+        <img alt="Catedral de San Pedro" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/tehu1.htm#47025" title="Bishop Crispin Ojeda Márquez (71)">
+        <img alt="Bishop Crispin Ojeda Márquez (71)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="tena0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/tena0.htm">
+       Tenancingo
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="MX-province.htm#tena0">
+       Toluca
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/northamerica/4980.htm" title="Catedral de El Calvario">
+        <img alt="Catedral de El Calvario" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a class="link" href="http://diocesisdetenancingo.mx" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/dioctenancingo" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+       <a class="linkf" href="https://www.facebook.com/diocesis.detenancingo" rel="nofollow" target="_blank" title="Facebook Page">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="teot0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/teot0.htm">
+       Teotihuacan
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="MX-province.htm#teot0">
+       Tlalnepantla
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/northamerica/4779.htm" title="Catedral del Divino Redentor">
+        <img alt="Catedral del Divino Redentor" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/teot0.htm#24221" title="Bishop Guillermo Francisco Escobar Galicia (68)">
+        <img alt="Bishop Guillermo Francisco Escobar Galicia (68)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.diocesisdeteotihuacan.org" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="tepi0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/tepi0.htm">
+       Tepic
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="MX-province.htm#tepi0">
+       Guadalajara
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/northamerica/3176.htm" title="Catedral de la Purísima Concepción">
+        <img alt="Catedral de la Purísima Concepción" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/northamerica/6538.htm" title="Iglesia Santiago Apóstol">
+        <img alt="Iglesia Santiago Apóstol" height="20" src="/images/c1b.gif" width="17"/>
+       </a>
+       <a href="../../churches/northamerica/0625.htm" title="Basílica de Nuestra Señora del Rosario de Talpa">
+        <img alt="Basílica de Nuestra Señora del Rosario de Talpa" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/tepi0.htm#4187" title="Bishop Luis Artemio Flores Calzada (74)">
+        <img alt="Bishop Luis Artemio Flores Calzada (74)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a class="link" href="http://diocesisdetepic.mx" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/Diocesis_Tepic" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="texc0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/texc0.htm">
+       Texcoco
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="MX-province.htm#texc0">
+       Tlalnepantla
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/northamerica/2855.htm" title="Catedral de la Inmaculada Concepción">
+        <img alt="Catedral de la Inmaculada Concepción" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/texc0.htm#4113" title="Bishop Juan Manuel Mancilla Sánchez (73)">
+        <img alt="Bishop Juan Manuel Mancilla Sánchez (73)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.diocesisdetexcoco.org" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/dioctexcoco" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="tlap0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/tlap0.htm">
+       Tlapa
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="MX-province.htm#tlap0">
+       Acapulco
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/northamerica/4786.htm" title="Catedral de San Agustín">
+        <img alt="Catedral de San Agustín" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/tlap0.htm#46305" title="Bishop Dagoberto Sosa Arriaga (68)">
+        <img alt="Bishop Dagoberto Sosa Arriaga (68)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="tlax0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/tlax0.htm">
+       Tlaxcala
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="MX-province.htm#tlax0">
+       Puebla de los Ángeles
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/northamerica/6190.htm" title="Catedral de Nuestra Señora de la Asunción">
+        <img alt="Catedral de Nuestra Señora de la Asunción" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/northamerica/5622.htm" title="Iglesia de San José">
+        <img alt="Iglesia de San José" height="20" src="/images/c1b.gif" width="17"/>
+       </a>
+       <a href="../../churches/northamerica/0915.htm" title="Basílica de la Virgen de la Misericordia">
+        <img alt="Basílica de la Virgen de la Misericordia" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/northamerica/1097.htm" title="Basílica de Nuestra Señora de la Caridad">
+        <img alt="Basílica de Nuestra Señora de la Caridad" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/northamerica/0806.htm" title="Basílica de Nuestra Señora de Ocotlán">
+        <img alt="Basílica de Nuestra Señora de Ocotlán" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/tlax0.htm#61477" title="Bishop Julio César Salcedo Aquino, M.J. (72)">
+        <img alt="Bishop Julio César Salcedo Aquino, M.J. (72)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a class="link" href="http://diocesisdetlaxcala.mx" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/dioctlaxcala" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="torr0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/torr0.htm">
+       Torreón
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="MX-province.htm#torr0">
+       Durango
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/northamerica/2723.htm" title="Catedral de Nuestra Señora de Carmen">
+        <img alt="Catedral de Nuestra Señora de Carmen" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/torr0.htm#61545" title="Bishop Luis Martín Barraza Beltrán (59)">
+        <img alt="Bishop Luis Martín Barraza Beltrán (59)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.diocesisdetorreon.org" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/DiocesisTorreon" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+       <a class="linkf" href="https://www.facebook.com/diocesisdetorreon" rel="nofollow" target="_blank" title="Facebook Page">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="tula0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/tula0.htm">
+       Tula
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="MX-province.htm#tula0">
+       Tulancingo
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/northamerica/2719.htm" title="Catedral de San José">
+        <img alt="Catedral de San José" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/tula0.htm#10798" title="Bishop Juan Pedro Juárez Meléndez (71)">
+        <img alt="Bishop Juan Pedro Juárez Meléndez (71)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a class="link" href="http://diocesisdetula.org" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="link" href="http://diocesisdetula.diocesano.org" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/DiocesisdeTula" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="tuxp0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/tuxp0.htm">
+       Tuxpan
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="MX-province.htm#tuxp0">
+       Jalapa
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/northamerica/2728.htm" title="Catedral de Nuestra Señora de la Asunción">
+        <img alt="Catedral de Nuestra Señora de la Asunción" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/tuxp0.htm#72567" title="Bishop Roberto Madrigal Gallegos (55)">
+        <img alt="Bishop Roberto Madrigal Gallegos (55)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../diocese/tuxp0.htm#4048" title="Bishop Juan Navarro Castellanos (78)">
+        <img alt="Bishop Juan Navarro Castellanos (78)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.diocesistuxpan.org" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="tuxt0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/tuxt0.htm">
+       Tuxtepec
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="MX-province.htm#tuxt0">
+       Antequera
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/northamerica/4787.htm" title="Catedral de San Juan Bautista">
+        <img alt="Catedral de San Juan Bautista" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/tuxt0.htm#59769" title="Bishop José Alberto González Juárez (55)">
+        <img alt="Bishop José Alberto González Juárez (55)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="vall5">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/vall5.htm">
+       Valle de Chalco
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="MX-province.htm#vall5">
+       Tlalnepantla
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/northamerica/1907.htm" title="Catedral de San Juan Diego">
+        <img alt="Catedral de San Juan Diego" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/vall5.htm#8870" title="Bishop Víctor René Rodríguez Gómez (72)">
+        <img alt="Bishop Víctor René Rodríguez Gómez (72)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.diocesisvalledechalco.org" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/diocesischalco" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="vera2">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/vera2.htm">
+       Veracruz
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="MX-province.htm#vera2">
+       Jalapa
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/northamerica/3982.htm" title="Catedral de la Asunción de María">
+        <img alt="Catedral de la Asunción de María" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/vera2.htm#8860" title="Bishop Carlos Briseño Arch, O.A.R. (62)">
+        <img alt="Bishop Carlos Briseño Arch, O.A.R. (62)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../diocese/vera2.htm#4063" title="Bishop Luis Felipe Gallardo Martín del Campo, S.D.B. (81)">
+        <img alt="Bishop Luis Felipe Gallardo Martín del Campo, S.D.B. (81)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://diocesisdeveracruz.mx" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/diocesiveracruz" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="xoch0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/xoch0.htm">
+       Xochimilco
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="MX-province.htm#xoch0">
+       México
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/northamerica/6450.htm" title="Catedral San Bernardino de Siena">
+        <img alt="Catedral San Bernardino de Siena" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/xoch0.htm#44450" title="Bishop Andrés Vargas Peña (76)">
+        <img alt="Bishop Andrés Vargas Peña (76)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="zaca0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/zaca0.htm">
+       Zacatecas
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="MX-province.htm#zaca0">
+       San Luis Potosí
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/northamerica/0836.htm" title="Catedral Basílica de Nuestra Señora de la Asunción">
+        <img alt="Catedral Basílica de Nuestra Señora de la Asunción" height="20" src="/images/c1ab.gif" width="19"/>
+       </a>
+       <a href="../diocese/zaca0.htm#12529" title="Bishop Sigifredo Noriega Barceló (71)">
+        <img alt="Bishop Sigifredo Noriega Barceló (71)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.diocesisdezacatecas.com" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="zamo1">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/zamo1.htm">
+       Zamora
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="MX-province.htm#zamo1">
+       Morelia
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/northamerica/3983.htm" title="Catedral de la Inmaculada Concepción de María">
+        <img alt="Catedral de la Inmaculada Concepción de María" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/northamerica/3885.htm" title="Concatedral de Nuestra Señora de Guadalupe">
+        <img alt="Concatedral de Nuestra Señora de Guadalupe" height="20" src="/images/c1c.gif" width="17"/>
+       </a>
+       <a href="../diocese/zamo1.htm#4105" title="Bishop Javier Navarro Rodríguez (73)">
+        <img alt="Bishop Javier Navarro Rodríguez (73)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-FI.htm#72707" title="Bishop Francisco Figueroa Cervantes (48)">
+        <img alt="Bishop Francisco Figueroa Cervantes (48)" height="20" src="/images/prelateB3.gif" width="16"/>
+       </a>
+       <a class="link" href="http://www.diocesisdezamora.org" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/diocesis_zamora" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="jesu0">
+     <td>
+      <img alt="Territorial Prelature" height="20" src="/images/map/s05.png"/>
+      <a class="typeprel" href="../diocese/jesu0.htm">
+       El Nayar
+      </a>
+      /
+      <a class="typeprel" href="../diocese/jesu0.htm">
+       Jesús María
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="MX-province.htm#jesu0">
+       Guadalajara
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/northamerica/3721.htm" title="Catedral de Jesús María">
+        <img alt="Catedral de Jesús María" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a class="link" href="http://www.prelaturadelnayar.com" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="elsa1">
+     <td>
+      <img alt="Territorial Prelature" height="20" src="/images/map/s05.png"/>
+      <a class="typeprel" href="../diocese/elsa1.htm">
+       El Salto
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="MX-province.htm#elsa1">
+       Durango
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/northamerica/4856.htm" title="Catedral Santa María de Guadalupe">
+        <img alt="Catedral Santa María de Guadalupe" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/elsa1.htm#48037" title="Bishop Juan María Huerta Muro, O.F.M. (61)">
+        <img alt="Bishop Juan María Huerta Muro, O.F.M. (61)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="huau0">
+     <td>
+      <img alt="Territorial Prelature" height="20" src="/images/map/s05.png"/>
+      <a class="typeprel" href="../diocese/huau0.htm">
+       Huautla
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="MX-province.htm#huau0">
+       Antequera
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/northamerica/2711.htm" title="Catedral de San Juan Evangelista">
+        <img alt="Catedral de San Juan Evangelista" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/huau0.htm#70046" title="Bishop Guadalupe Antonio Ruíz Urquín (52)">
+        <img alt="Bishop Guadalupe Antonio Ruíz Urquín (52)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a class="link" href="http://prelatura.wordpress.com" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="mixe0">
+     <td>
+      <img alt="Territorial Prelature" height="20" src="/images/map/s05.png"/>
+      <a class="typeprel" href="../diocese/mixe0.htm">
+       Mixes
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="MX-province.htm#mixe0">
+       Antequera
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/northamerica/5186.htm" title="Catedral de San Pedro y San Pablo">
+        <img alt="Catedral de San Pedro y San Pablo" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/mixe0.htm#62099" title="Bishop Salvador Cleofás Murguía Medina, S.D.B. (69)">
+        <img alt="Bishop Salvador Cleofás Murguía Medina, S.D.B. (69)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../diocese/mixe0.htm#13689" title="Bishop Héctor Guerrero Córdova, S.D.B. (81)">
+        <img alt="Bishop Héctor Guerrero Córdova, S.D.B. (81)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="lati1">
+     <td>
+      <img alt="Apostolic Exarchate" height="20" src="/images/map/s27.png"/>
+      <a class="typeapex" href="../diocese/lati1.htm">
+       América Latina e México
+      </a>
+      /
+      <a class="typeapex" href="../diocese/lati1.htm">
+       Latin America and Mexico
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-A.htm">
+       Armenian
+      </a>
+     </td>
+     <td>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/brazil/2663.htm" title="Catedral Armênia São Gregório Iluminador">
+        <img alt="Catedral Armênia São Gregório Iluminador" height="20" src="/images/c2a.gif" width="17"/>
+       </a>
+       <a href="../../churches/southamerica/5687.htm" title="Concatedral Nuestra Señora de Bzommar">
+        <img alt="Concatedral Nuestra Señora de Bzommar" height="20" src="/images/c2c.gif" width="17"/>
+       </a>
+       <a href="../diocese/zgre0.htm#62121" title="Bishop Pablo León Hakimian (69)">
+        <img alt="Bishop Pablo León Hakimian (69)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../diocese/zgre0.htm#4041" title="Bishop Vartán Waldir Boghossian, S.D.B. (83)">
+        <img alt="Bishop Vartán Waldir Boghossian, S.D.B. (83)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+       Seat in
+       <a class="zcountry" href="BR.htm">
+        Brazil
+       </a>
+       <a href="BR.htm" title="Brazil">
+        <img alt="Brazil" class="flag" height="15" src="/images/flags/BR2.png" width="22"/>
+       </a>
+       .
+      </span>
+     </td>
+    </tr>
+   </table>
+  </div>
+  <p class="asof">
+   Last updated on 2023.06.11
+  </p>
+  <p class="copy" id="end">
+   © 2023 GCatholic.org
+  </p>
+  <table width="100%">
+   <tr>
+    <td align="left" width="50%">
+    </td>
+    <td valign="bottom" width="50%">
+     <p align="right">
+      <a href="MX.htm" title="Up">
+       <img alt="Up" height="30" src="/images/nav-up.png" width="50"/>
+      </a>
+     </p>
+    </td>
+   </tr>
+  </table>
+  <script src="/menu/footer.js">
+  </script>
+ </body>
+</html>

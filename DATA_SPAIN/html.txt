@@ -1,0 +1,3343 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <title>
+   Catholic Dioceses in Spain (by Type)
+  </title>
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+  <meta content="Sun, 18 Jun 2023 16:00:00 GMT" http-equiv="EXPIRES"/>
+  <meta content="IE=Edge" http-equiv="X-UA-Compatible">
+   <link href="/css/gcatholic.css?15" rel="stylesheet" type="text/css"/>
+   <script src="/menu/menu2.js?d">
+   </script>
+   <link href="http://www.gcatholic.org/dioceses/country/ES-type.htm" rel="canonical"/>
+  </meta>
+ </head>
+ <body alink="#008040" link="#408040" vlink="#387038">
+  <script src="/menu/header.js?23">
+  </script>
+  <table class="hd">
+   <tr>
+    <td width="150">
+    </td>
+    <td>
+     <h1>
+      Catholic Dioceses
+     </h1>
+     <h3>
+      in
+     </h3>
+     <h2>
+      Kingdom of Spain (Spain)
+     </h2>
+    </td>
+    <td align="right" width="150">
+     <a href="ES.htm" title="Spain">
+      <img alt="Spain" class="flag" height="80" src="/images/flags/ES.png" width="120"/>
+     </a>
+    </td>
+   </tr>
+  </table>
+  <div align="center" class="nav">
+   <table cellspacing="0">
+    <tr class="tr">
+     <td class="t">
+      by Type
+     </td>
+     <td>
+      <a href="ES-name.htm">
+       by Name
+      </a>
+     </td>
+     <td>
+      <a href="ES-province.htm">
+       by Ecclesiastical Province
+      </a>
+     </td>
+     <td>
+      <a href="ES-former.htm">
+       Former Jurisdictions
+      </a>
+     </td>
+    </tr>
+   </table>
+  </div>
+  <div align="center">
+   <table class="tb" width="90%">
+    <tr id="wind0">
+     <td>
+      <img alt="Patriarchal See" height="20" src="/images/map/s01.png"/>
+      <a class="typet1" href="../diocese/wind0.htm">
+       Indias Occidentales
+      </a>
+      /
+      <a class="typet1" href="../diocese/wind0.htm">
+       West Indies
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+     </td>
+     <td>
+      <span class="znote">
+      </span>
+     </td>
+    </tr>
+    <tr id="barc0">
+     <td>
+      <img alt="Metr. Archdiocese" height="20" src="/images/map/s02.png"/>
+      <a class="typemetr" href="../diocese/barc0.htm">
+       Barcelona
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="ES-province.htm#barc0">
+       Barcelona
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/spain/0168.htm" title="Catedral Basílica Metropolitana de la Santa Creu i Santa Eulàlia">
+        <img alt="Catedral Basílica Metropolitana de la Santa Creu i Santa Eulàlia" height="20" src="/images/c1ab.gif" width="19"/>
+       </a>
+       <a href="../../churches/spain/4164.htm" title="Basílica i Temple Expiatori de la Sagrada Família">
+        <img alt="Basílica i Temple Expiatori de la Sagrada Família" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/spain/0348.htm" title="Basílica de la Mare de Déu de la Mercè i de Sant Miquel Arcàngel">
+        <img alt="Basílica de la Mare de Déu de la Mercè i de Sant Miquel Arcàngel" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/spain/4995.htm" title="Basílica de la Puríssima Concepció">
+        <img alt="Basílica de la Puríssima Concepció" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/spain/0541.htm" title="Basílica de Sant Josep Oriol">
+        <img alt="Basílica de Sant Josep Oriol" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/spain/0473.htm" title="Basílica de Santa Maria de Mataró">
+        <img alt="Basílica de Santa Maria de Mataró" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/spain/0408.htm" title="Basílica de Santa Maria del Mar">
+        <img alt="Basílica de Santa Maria del Mar" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/spain/0439.htm" title="Basílica de Santa Maria del Pi">
+        <img alt="Basílica de Santa Maria del Pi" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/spain/0615.htm" title="Basílica dels Sants Just i Pastor">
+        <img alt="Basílica dels Sants Just i Pastor" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/spain/0873.htm" title="Temple Expiatori del Sagrat Cor de Jesús">
+        <img alt="Temple Expiatori del Sagrat Cor de Jesús" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/barc0.htm#4528" title="Cardinal Juan José Omella Omella (77)">
+        <img alt="Cardinal Juan José Omella Omella (77)" height="20" src="/images/prelateC1.gif" width="22"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-RO.htm#61480" title="Bishop Sergi Gordo Rodríguez (56)">
+        <img alt="Bishop Sergi Gordo Rodríguez (56)" height="20" src="/images/prelateB3.gif" width="16"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-VE.htm#70228" title="Bishop Javier Vilanova Pellisa (49)">
+        <img alt="Bishop Javier Vilanova Pellisa (49)" height="20" src="/images/prelateB3.gif" width="16"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-A.htm#75013" title="Bishop David Abadías Aurín (49)">
+        <img alt="Bishop David Abadías Aurín (49)" height="20" src="/images/prelateB3.gif" width="16"/>
+       </a>
+       <a href="../../hierarchy/data/cardB16-2.htm#4479" title="Cardinal Lluís Martínez Sistach (86)">
+        <img alt="Cardinal Lluís Martínez Sistach (86)" height="20" src="/images/prelateC2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://esglesia.barcelona" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/esglesiabcn" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="burg0">
+     <td>
+      <img alt="Metr. Archdiocese" height="20" src="/images/map/s02.png"/>
+      <a class="typemetr" href="../diocese/burg0.htm">
+       Burgos
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="ES-province.htm#burg0">
+       Burgos
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/spain/1782.htm" title="Catedral Metropolitana de Santa María">
+        <img alt="Catedral Metropolitana de Santa María" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/spain/6372.htm" title="Iglesia Santa María la Real y Antigua de Gamonal">
+        <img alt="Iglesia Santa María la Real y Antigua de Gamonal" height="20" src="/images/c1b.gif" width="17"/>
+       </a>
+       <a href="../../churches/spain/1424.htm" title="Monasterio de Santo Domingo de Silos">
+        <img alt="Monasterio de Santo Domingo de Silos" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/burg0.htm#23095" title="Archbishop Mario Iceta Gavicagogeascoa (58)">
+        <img alt="Archbishop Mario Iceta Gavicagogeascoa (58)" height="20" src="/images/prelateA1.gif" width="22"/>
+       </a>
+       <a href="../diocese/burg0.htm#4483" title="Archbishop Francisco Gil Hellín (82)">
+        <img alt="Archbishop Francisco Gil Hellín (82)" height="20" src="/images/prelateA2.gif" width="22"/>
+       </a>
+       <a href="../diocese/burg0.htm#4510" title="Archbishop Fidel Herráez Vegas (78)">
+        <img alt="Archbishop Fidel Herráez Vegas (78)" height="20" src="/images/prelateA2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.archiburgos.es" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/archiburgos" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="gran0">
+     <td>
+      <img alt="Metr. Archdiocese" height="20" src="/images/map/s02.png"/>
+      <a class="typemetr" href="../diocese/gran0.htm">
+       Granada
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="ES-province.htm#gran0">
+       Granada
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/spain/1950.htm" title="Catedral de Santa María de la Encarnación">
+        <img alt="Catedral de Santa María de la Encarnación" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/spain/0400.htm" title="Basílica de Nuestra Señora de las Angustias">
+        <img alt="Basílica de Nuestra Señora de las Angustias" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/spain/0340.htm" title="Basílica de San Juan de Dios">
+        <img alt="Basílica de San Juan de Dios" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/gran0.htm#54989" title="Archbishop José María Gil Tamayo (66)">
+        <img alt="Archbishop José María Gil Tamayo (66)" height="20" src="/images/prelateA1.gif" width="22"/>
+       </a>
+       <a href="../diocese/gran0.htm#4503" title="Archbishop Francisco Javier Martínez Fernández (75)">
+        <img alt="Archbishop Francisco Javier Martínez Fernández (75)" height="20" src="/images/prelateA2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.archidiocesisgranada.es" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="madr1">
+     <td>
+      <img alt="Metr. Archdiocese" height="20" src="/images/map/s02.png"/>
+      <a class="typemetr" href="../diocese/madr1.htm">
+       Madrid
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="ES-province.htm#madr1">
+       Madrid
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/spain/1959.htm" title="Catedral de Santa María la Real de la Almudena">
+        <img alt="Catedral de Santa María la Real de la Almudena" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/spain/0118.htm" title="Basílica Ex-Catedral de San Isidro">
+        <img alt="Basílica Ex-Catedral de San Isidro" height="20" src="/images/c1bb.gif" width="19"/>
+       </a>
+       <a href="../../churches/spain/0119.htm" title="Basílica de San Lorenzo">
+        <img alt="Basílica de San Lorenzo" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/spain/1436.htm" title="Basílica de la Asunción de Nuestra Señora">
+        <img alt="Basílica de la Asunción de Nuestra Señora" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/spain/6171.htm" title="Basílica de la Concepción de Nuestra Señora">
+        <img alt="Basílica de la Concepción de Nuestra Señora" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/spain/1045.htm" title="Basílica de Nuestro Padre Jesús de Medinaceli">
+        <img alt="Basílica de Nuestro Padre Jesús de Medinaceli" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/spain/0412.htm" title="Basílica de San Vicente de Paul (Milagrosa)">
+        <img alt="Basílica de San Vicente de Paul (Milagrosa)" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/spain/0847.htm" title="Basílica de Santa Cruz">
+        <img alt="Basílica de Santa Cruz" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/spain/0503.htm" title="Basílica Pontificia de San Miguel">
+        <img alt="Basílica Pontificia de San Miguel" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/spain/0123.htm" title="Real Basílica de Nuestra Señora de Atocha">
+        <img alt="Real Basílica de Nuestra Señora de Atocha" height="20" src="/images/c3db.gif" width="19"/>
+       </a>
+       <a href="../../churches/spain/0890.htm" title="Real Basílica de San Francisco el Grande">
+        <img alt="Real Basílica de San Francisco el Grande" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/madr1.htm#4524" title="Cardinal Carlos Osoro Sierra (78)">
+        <img alt="Cardinal Carlos Osoro Sierra (78)" height="20" src="/images/prelateC1.gif" width="22"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-MAR.htm#18772" title="Bishop Juan Antonio Martínez Camino, S.J. (70)">
+        <img alt="Bishop Juan Antonio Martínez Camino, S.J. (70)" height="20" src="/images/prelateB3.gif" width="16"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-CO.htm#61851" title="Bishop José Cobo Cano (57)">
+        <img alt="Bishop José Cobo Cano (57)" height="20" src="/images/prelateB3.gif" width="16"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-VE.htm#61850" title="Bishop Jesús Vidal Chamorro (49)">
+        <img alt="Bishop Jesús Vidal Chamorro (49)" height="20" src="/images/prelateB3.gif" width="16"/>
+       </a>
+       <a href="../../hierarchy/data/cardJP2-7.htm#138" title="Cardinal Antonio María Rouco Varela (86)">
+        <img alt="Cardinal Antonio María Rouco Varela (86)" height="20" src="/images/prelateC2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.archimadrid.org" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/archimadrid" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="meri1">
+     <td>
+      <img alt="Metr. Archdiocese" height="20" src="/images/map/s02.png"/>
+      <a class="typemetr" href="../diocese/meri1.htm">
+       Mérida–Badajoz
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="ES-province.htm#meri1">
+       Mérida–Badajoz
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/spain/1789.htm" title="Catedral de San Juan Bautista">
+        <img alt="Catedral de San Juan Bautista" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/spain/1799.htm" title="Concatedral de Santa María la Mayor">
+        <img alt="Concatedral de Santa María la Mayor" height="20" src="/images/c1c.gif" width="17"/>
+       </a>
+       <a href="../../churches/spain/6207.htm" title="Basílica de Santa Eulalia">
+        <img alt="Basílica de Santa Eulalia" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/meri1.htm#26751" title="Archbishop Celso Morga Iruzubieta (75)">
+        <img alt="Archbishop Celso Morga Iruzubieta (75)" height="20" src="/images/prelateA1.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.meridabadajoz.net" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="ovie0">
+     <td>
+      <img alt="Metr. Archdiocese" height="20" src="/images/map/s02.png"/>
+      <a class="typemetr" href="../diocese/ovie0.htm">
+       Oviedo
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="ES-province.htm#ovie0">
+       Oviedo
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/spain/0177.htm" title="Catedral Metropolitana Basílica de San Salvador">
+        <img alt="Catedral Metropolitana Basílica de San Salvador" height="20" src="/images/c1ab.gif" width="19"/>
+       </a>
+       <a href="../../churches/spain/6209.htm" title="Basílica de San Juan el Real">
+        <img alt="Basílica de San Juan el Real" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/spain/0262.htm" title="Basílica de Santa María la Real de Covadonga">
+        <img alt="Basílica de Santa María la Real de Covadonga" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/spain/1292.htm" title="Basílica de Santa María Magdalena">
+        <img alt="Basílica de Santa María Magdalena" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/spain/1455.htm" title="Basílica-Santuario del Sagrado Corazón">
+        <img alt="Basílica-Santuario del Sagrado Corazón" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/spain/1039.htm" title="Catedral Basílica de Santa María de la Asunción de Llanes">
+        <img alt="Catedral Basílica de Santa María de la Asunción de Llanes" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/spain/4168.htm" title="Basílica de San Julián de los Prados">
+        <img alt="Basílica de San Julián de los Prados" height="20" src="/images/c1d.gif" width="15"/>
+       </a>
+       <a href="../../churches/spain/4166.htm" title="Iglesia de San Miguel de Lillo">
+        <img alt="Iglesia de San Miguel de Lillo" height="20" src="/images/c1d.gif" width="15"/>
+       </a>
+       <a href="../../churches/spain/6065.htm" title="Iglesia de San Salvador de Priesca">
+        <img alt="Iglesia de San Salvador de Priesca" height="20" src="/images/c1d.gif" width="15"/>
+       </a>
+       <a href="../../churches/spain/4167.htm" title="Iglesia de Santa Cristina de Lena">
+        <img alt="Iglesia de Santa Cristina de Lena" height="20" src="/images/c1d.gif" width="15"/>
+       </a>
+       <a href="../../churches/spain/6073.htm" title="Iglesia de Santa María">
+        <img alt="Iglesia de Santa María" height="20" src="/images/c1d.gif" width="15"/>
+       </a>
+       <a href="../../churches/spain/4165.htm" title="Iglesia de Santa María del Naranco">
+        <img alt="Iglesia de Santa María del Naranco" height="20" src="/images/c1d.gif" width="15"/>
+       </a>
+       <a href="../../churches/spain/6061.htm" title="Monasterio de San Salvador">
+        <img alt="Monasterio de San Salvador" height="20" src="/images/c4d.gif" width="15"/>
+       </a>
+       <a href="../diocese/ovie0.htm#4527" title="Archbishop Jesús Sanz Montes, O.F.M. (68)">
+        <img alt="Archbishop Jesús Sanz Montes, O.F.M. (68)" height="20" src="/images/prelateA1.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.iglesiadeasturias.org" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="pamp0">
+     <td>
+      <img alt="Metr. Archdiocese" height="20" src="/images/map/s02.png"/>
+      <a class="typemetr" href="../diocese/pamp0.htm">
+       Pamplona y Tudela
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="ES-province.htm#pamp0">
+       Pamplona y Tudela
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/spain/1747.htm" title="Catedral de la Asunción de Nuestra Señora">
+        <img alt="Catedral de la Asunción de Nuestra Señora" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/spain/1773.htm" title="Catedral de María Santísima de la Soledad">
+        <img alt="Catedral de María Santísima de la Soledad" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/spain/6569.htm" title="Basílica de San Francisco Javier">
+        <img alt="Basílica de San Francisco Javier" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/pamp0.htm#1452" title="Archbishop Francisco Pérez González (76)">
+        <img alt="Archbishop Francisco Pérez González (76)" height="20" src="/images/prelateA1.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.iglesianavarra.org" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/iglesianavarra" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+       <span class="znote">
+        <a class="typemetr" href="../diocese/pamp0.htm">
+         Pamplona
+        </a>
+        united
+        <i>
+         æque principaliter
+        </i>
+        with
+        <a class="typedioc" href="../former/tude0.htm">
+         Tudela
+        </a>
+        1984.08.11
+       </span>
+      </span>
+     </td>
+    </tr>
+    <tr id="ztia0">
+     <td>
+      <img alt="Metr. Archdiocese" height="20" src="/images/map/s02.png"/>
+      <a class="typemetr" href="../diocese/ztia0.htm">
+       Santiago de Compostela
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="ES-province.htm#ztia0">
+       Santiago de Compostela
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/spain/0122.htm" title="Catedral Basílica Metropolitana de Santiago de Compostela">
+        <img alt="Catedral Basílica Metropolitana de Santiago de Compostela" height="20" src="/images/c1ab.gif" width="19"/>
+       </a>
+       <a href="../../churches/spain/0877.htm" title="Basílica de Santa María La Mayor">
+        <img alt="Basílica de Santa María La Mayor" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/ztia0.htm#72142" title="Archbishop Francisco José Prieto Fernández (54)">
+        <img alt="Archbishop Francisco José Prieto Fernández (54)" height="20" src="/images/prelateA1.gif" width="22"/>
+       </a>
+       <a href="../diocese/ztia0.htm#4532" title="Archbishop Julián Barrio Barrio (76)">
+        <img alt="Archbishop Julián Barrio Barrio (76)" height="20" src="/images/prelateA2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.archicompostela.es" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/diocesesantiago" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+       <a class="linkf" href="https://www.facebook.com/diocesesantiago" rel="nofollow" target="_blank" title="Facebook Page">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="sevi0">
+     <td>
+      <img alt="Metr. Archdiocese" height="20" src="/images/map/s02.png"/>
+      <a class="typemetr" href="../diocese/sevi0.htm">
+       Sevilla
+      </a>
+      /
+      <a class="typemetr" href="../diocese/sevi0.htm">
+       Seville
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="ES-province.htm#sevi0">
+       Sevilla
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/spain/1751.htm" title="Catedral de Santa María de la Sede">
+        <img alt="Catedral de Santa María de la Sede" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/spain/0976.htm" title="Basílica de Nuestra Señora de la Esperanza de la Macarena">
+        <img alt="Basílica de Nuestra Señora de la Esperanza de la Macarena" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/spain/1293.htm" title="Basílica de Nuestro Padre Jesús del Gran Poder">
+        <img alt="Basílica de Nuestro Padre Jesús del Gran Poder" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/spain/5513.htm" title="Basílica del Santísimo Cristo de la Expiración">
+        <img alt="Basílica del Santísimo Cristo de la Expiración" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/spain/4875.htm" title="Basílica Santuario de María Auxiliadora">
+        <img alt="Basílica Santuario de María Auxiliadora" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/sevi0.htm#4478" title="Archbishop Josep Ángel Sáiz Meneses (66)">
+        <img alt="Archbishop Josep Ángel Sáiz Meneses (66)" height="20" src="/images/prelateA1.gif" width="22"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-LE.htm#75080" title="Bishop Teodoro León Muñoz (58)">
+        <img alt="Bishop Teodoro León Muñoz (58)" height="20" src="/images/prelateB3.gif" width="16"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-V.htm#75081" title="Bishop Ramón Darío Valdivia Jiménez (48)">
+        <img alt="Bishop Ramón Darío Valdivia Jiménez (48)" height="20" src="/images/prelateB3.gif" width="16"/>
+       </a>
+       <a href="../diocese/sevi0.htm#4544" title="Archbishop Juan José Asenjo Pelegrina (77)">
+        <img alt="Archbishop Juan José Asenjo Pelegrina (77)" height="20" src="/images/prelateA2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.archisevilla.org" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/Archisevilla1" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+       <a class="linkf" href="https://www.facebook.com/ArchidiocesisdeSevilla" rel="nofollow" target="_blank" title="Facebook Page">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="tarr0">
+     <td>
+      <img alt="Metr. Archdiocese" height="20" src="/images/map/s02.png"/>
+      <a class="typemetr" href="../diocese/tarr0.htm">
+       Tarragona
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="ES-province.htm#tarr0">
+       Tarragona
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/spain/0237.htm" title="Basílica Catedral Metropolitana i Primada de Santa Tecla">
+        <img alt="Basílica Catedral Metropolitana i Primada de Santa Tecla" height="20" src="/images/c1ab.gif" width="19"/>
+       </a>
+       <a href="../../churches/spain/0904.htm" title="Basílica de Santa Maria de Poblet">
+        <img alt="Basílica de Santa Maria de Poblet" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/tarr0.htm#62632" title="Archbishop Joan Planellas i Barnosell (67)">
+        <img alt="Archbishop Joan Planellas i Barnosell (67)" height="20" src="/images/prelateA1.gif" width="22"/>
+       </a>
+       <a href="../diocese/tarr0.htm#4552" title="Archbishop Jaume Pujol Balcells (79)">
+        <img alt="Archbishop Jaume Pujol Balcells (79)" height="20" src="/images/prelateA2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.arquebisbattarragona.cat" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/esglesiatgn" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+       <a class="linkf" href="https://www.facebook.com/esglesiatgn" rel="nofollow" target="_blank" title="Facebook Page">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="tole0">
+     <td>
+      <img alt="Metr. Archdiocese" height="20" src="/images/map/s02.png"/>
+      <a class="typemetr" href="../diocese/tole0.htm">
+       Toledo
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-Mz.htm">
+       Mozarabic
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="ES-province.htm#tole0">
+       Toledo
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/spain/1953.htm" title="Catedral Primada de Santa María de la Asunción">
+        <img alt="Catedral Primada de Santa María de la Asunción" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/spain/0769.htm" title="Real Monasterio de Santa María de Guadalupe">
+        <img alt="Real Monasterio de Santa María de Guadalupe" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/spain/1225.htm" title="Basílica de Nuestra Señora del Prado">
+        <img alt="Basílica de Nuestra Señora del Prado" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/spain/6550.htm" title="Basílica Santuario del Santisimo Cristo de la Veracruz">
+        <img alt="Basílica Santuario del Santisimo Cristo de la Veracruz" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/tole0.htm#16223" title="Archbishop Francisco Cerro Chaves (65)">
+        <img alt="Archbishop Francisco Cerro Chaves (65)" height="20" src="/images/prelateA1.gif" width="22"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-GA.htm#73014" title="Bishop Francisco César García Magán (61)">
+        <img alt="Bishop Francisco César García Magán (61)" height="20" src="/images/prelateB3.gif" width="16"/>
+       </a>
+       <a href="../diocese/tole0.htm#4584" title="Archbishop Braulio Rodríguez Plaza (79)">
+        <img alt="Archbishop Braulio Rodríguez Plaza (79)" height="20" src="/images/prelateA2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.architoledo.org" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="vale0">
+     <td>
+      <img alt="Metr. Archdiocese" height="20" src="/images/map/s02.png"/>
+      <a class="typemetr" href="../diocese/vale0.htm">
+       Valencia
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="ES-province.htm#vale0">
+       Valencia
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/spain/0221.htm" title="Catedral Basílica Metropolitana de Santa María">
+        <img alt="Catedral Basílica Metropolitana de Santa María" height="20" src="/images/c1ab.gif" width="19"/>
+       </a>
+       <a href="../../churches/spain/6461.htm" title="Basílica del Sagrado Corazón de Jesús">
+        <img alt="Basílica del Sagrado Corazón de Jesús" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/spain/6644.htm" title="Basílica Purísima Concepción y San Pedro Apóstol">
+        <img alt="Basílica Purísima Concepción y San Pedro Apóstol" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/spain/1190.htm" title="Basílica San Jaime Apóstol">
+        <img alt="Basílica San Jaime Apóstol" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/spain/0713.htm" title="Basílica San Vicente Ferrer">
+        <img alt="Basílica San Vicente Ferrer" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/spain/1048.htm" title="Colegiata Basílica de la Asunción de Nuestra Señora">
+        <img alt="Colegiata Basílica de la Asunción de Nuestra Señora" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/spain/0648.htm" title="Real Basílica Nuestra Señora de los Desamparados">
+        <img alt="Real Basílica Nuestra Señora de los Desamparados" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/vale0.htm#4575" title="Archbishop Enrique Benavent Vidal (64)">
+        <img alt="Archbishop Enrique Benavent Vidal (64)" height="20" src="/images/prelateA1.gif" width="22"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-RO.htm#60746" title="Bishop Arturo Pablo Ros Murgadas (59)">
+        <img alt="Bishop Arturo Pablo Ros Murgadas (59)" height="20" src="/images/prelateB3.gif" width="16"/>
+       </a>
+       <a href="../../hierarchy/data/cardB16-1.htm#4568" title="Cardinal Antonio Cañizares Llovera (77)">
+        <img alt="Cardinal Antonio Cañizares Llovera (77)" height="20" src="/images/prelateC2.gif" width="22"/>
+       </a>
+       <a href="../diocese/mall0.htm#4558" title="Bishop Javier Salinas Viñals (75)">
+        <img alt="Bishop Javier Salinas Viñals (75)" height="20" src="/images/prelateB4.gif" width="16"/>
+       </a>
+       <a href="../diocese/pale4.htm#4574" title="Bishop Esteban Escudero Torres (77)">
+        <img alt="Bishop Esteban Escudero Torres (77)" height="20" src="/images/prelateB4.gif" width="16"/>
+       </a>
+       <a href="../diocese/ibiz0.htm#4571" title="Bishop Vicente Juan Segura (68)">
+        <img alt="Bishop Vicente Juan Segura (68)" height="20" src="/images/prelateB4.gif" width="16"/>
+       </a>
+       <a class="link" href="http://www.archivalencia.org" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/archivalencia" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+       <a class="linkf" href="https://www.facebook.com/Arzobispado-de-Valencia-333464151019" rel="nofollow" target="_blank" title="Facebook Page">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="vall0">
+     <td>
+      <img alt="Metr. Archdiocese" height="20" src="/images/map/s02.png"/>
+      <a class="typemetr" href="../diocese/vall0.htm">
+       Valladolid
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="ES-province.htm#vall0">
+       Valladolid
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/spain/1768.htm" title="Catedral Metropolitana de Nuestra Señora de la Virgen de San Lorenzo">
+        <img alt="Catedral Metropolitana de Nuestra Señora de la Virgen de San Lorenzo" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/spain/0929.htm" title="Santuario Nacional de la Gran Promesa">
+        <img alt="Santuario Nacional de la Gran Promesa" height="20" src="/images/c3db.gif" width="19"/>
+       </a>
+       <a href="../diocese/vall0.htm#60587" title="Archbishop Luis Javier Argüello García (70)">
+        <img alt="Archbishop Luis Javier Argüello García (70)" height="20" src="/images/prelateA1.gif" width="22"/>
+       </a>
+       <a href="../../hierarchy/data/cardFR1-2.htm#4484" title="Cardinal Ricardo Blázquez Pérez (81)">
+        <img alt="Cardinal Ricardo Blázquez Pérez (81)" height="20" src="/images/prelateC2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.archivalladolid.org" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/archiValladolid" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="zara0">
+     <td>
+      <img alt="Metr. Archdiocese" height="20" src="/images/map/s02.png"/>
+      <a class="typemetr" href="../diocese/zara0.htm">
+       Zaragoza
+      </a>
+      /
+      <a class="typemetr" href="../diocese/zara0.htm">
+       Saragossa
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="ES-province.htm#zara0">
+       Zaragoza
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/spain/2440.htm" title="Catedral de El Salvador de la Seo">
+        <img alt="Catedral de El Salvador de la Seo" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/spain/0651.htm" title="Catedral Basílica de Nuestra Señora del Pilar">
+        <img alt="Catedral Basílica de Nuestra Señora del Pilar" height="20" src="/images/c1cb.gif" width="19"/>
+       </a>
+       <a href="../../churches/spain/1269.htm" title="Basílica de Santa Engracia">
+        <img alt="Basílica de Santa Engracia" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/spain/5941.htm" title="Iglesia de San Pablo Apóstol">
+        <img alt="Iglesia de San Pablo Apóstol" height="20" src="/images/c1d.gif" width="15"/>
+       </a>
+       <a href="../diocese/zara0.htm#45612" title="Archbishop Carlos Manuel Escribano Subías (58)">
+        <img alt="Archbishop Carlos Manuel Escribano Subías (58)" height="20" src="/images/prelateA1.gif" width="22"/>
+       </a>
+       <a href="../diocese/zara0.htm#4593" title="Archbishop Manuel Ureña Pastor (78)">
+        <img alt="Archbishop Manuel Ureña Pastor (78)" height="20" src="/images/prelateA2.gif" width="22"/>
+       </a>
+       <a href="../diocese/zara0.htm#4485" title="Archbishop Vicente Jiménez Zamora (79)">
+        <img alt="Archbishop Vicente Jiménez Zamora (79)" height="20" src="/images/prelateA2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.archizaragoza.org" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/ArchiZaragoza" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+       <a class="linkf" href="https://www.facebook.com/archizaragoza" rel="nofollow" target="_blank" title="Facebook Page">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="alba3">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/alba3.htm">
+       Albacete
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="ES-province.htm#alba3">
+       Toledo
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/spain/1775.htm" title="Catedral de San Juan Bautista">
+        <img alt="Catedral de San Juan Bautista" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/alba3.htm#54303" title="Bishop Ángel Fernández Collado (71)">
+        <img alt="Bishop Ángel Fernández Collado (71)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../diocese/alba3.htm#4513" title="Bishop Ciriaco Benavente Mateos (80)">
+        <img alt="Bishop Ciriaco Benavente Mateos (80)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://diocesisalbacete.org" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/DiocesisAlbact" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="alca0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/alca0.htm">
+       Alcalá de Henares
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="ES-province.htm#alca0">
+       Madrid
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/spain/1948.htm" title="Catedral Magistral de los Santos Niños Justo y Pastor">
+        <img alt="Catedral Magistral de los Santos Niños Justo y Pastor" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/alca0.htm#75079" title="Bishop Antonio Prieto Lucena (49)">
+        <img alt="Bishop Antonio Prieto Lucena (49)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../diocese/alca0.htm#4501" title="Bishop Juan Antonio Reig Plá (75)">
+        <img alt="Bishop Juan Antonio Reig Plá (75)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.obispadoalcala.org" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/DiocesisNoticia" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="alme1">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/alme1.htm">
+       Almería
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="ES-province.htm#alme1">
+       Granada
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/spain/1952.htm" title="Catedral de la Encarnación">
+        <img alt="Catedral de la Encarnación" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/spain/0227.htm" title="Basílica de Nuestra Señora de las Mercedes">
+        <img alt="Basílica de Nuestra Señora de las Mercedes" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/alme1.htm#60940" title="Bishop Antonio Gómez Cantero (67)">
+        <img alt="Bishop Antonio Gómez Cantero (67)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../diocese/alme1.htm#4502" title="Bishop Adolfo González Montes (76)">
+        <img alt="Bishop Adolfo González Montes (76)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.diocesisalmeria.org" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/diocesisalmeria" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="asto0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/asto0.htm">
+       Astorga
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="ES-province.htm#asto0">
+       Oviedo
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/spain/1771.htm" title="Catedral de la Asunción de Nuestra Señora">
+        <img alt="Catedral de la Asunción de Nuestra Señora" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/spain/0825.htm" title="Basílica de Nuestra Señora de la Encina">
+        <img alt="Basílica de Nuestra Señora de la Encina" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/asto0.htm#55024" title="Bishop Jesús Fernández González (67)">
+        <img alt="Bishop Jesús Fernández González (67)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.diocesisastorga.es" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/DiocesisAstorga" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="avil0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/avil0.htm">
+       Ávila
+      </a>
+      /
+      <a class="typedioc" href="../diocese/avil0.htm">
+       Avila
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="ES-province.htm#avil0">
+       Valladolid
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/spain/1774.htm" title="Catedral de El Salvador">
+        <img alt="Catedral de El Salvador" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/spain/6657.htm" title="Basílica de Santa Teresa de Jesús">
+        <img alt="Basílica de Santa Teresa de Jesús" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/spain/4169.htm" title="Basílica de San Vicente">
+        <img alt="Basílica de San Vicente" height="20" src="/images/c1d.gif" width="15"/>
+       </a>
+       <a href="../../churches/spain/4175.htm" title="Convento de la Encarnación">
+        <img alt="Convento de la Encarnación" height="20" src="/images/c1d.gif" width="15"/>
+       </a>
+       <a href="../../churches/spain/4174.htm" title="Convento de San José">
+        <img alt="Convento de San José" height="20" src="/images/c1d.gif" width="15"/>
+       </a>
+       <a href="../../churches/europe-south/67975.htm" title="Ermita de San Martín">
+        <img alt="Ermita de San Martín" height="20" src="/images/c1d.gif" width="15"/>
+       </a>
+       <a href="../../churches/europe-south/67979.htm" title="Ermita de San Segundo">
+        <img alt="Ermita de San Segundo" height="20" src="/images/c1d.gif" width="15"/>
+       </a>
+       <a href="../../churches/spain/4173.htm" title="Ermita de Santa María de la Cabeza">
+        <img alt="Ermita de Santa María de la Cabeza" height="20" src="/images/c1d.gif" width="15"/>
+       </a>
+       <a href="../../churches/spain/4170.htm" title="Iglesias de San Andrés">
+        <img alt="Iglesias de San Andrés" height="20" src="/images/c1d.gif" width="15"/>
+       </a>
+       <a href="../../churches/spain/4171.htm" title="Iglesias de San Nicolás">
+        <img alt="Iglesias de San Nicolás" height="20" src="/images/c1d.gif" width="15"/>
+       </a>
+       <a href="../../churches/spain/4172.htm" title="Iglesias de San Pedro">
+        <img alt="Iglesias de San Pedro" height="20" src="/images/c1d.gif" width="15"/>
+       </a>
+       <a href="../../churches/europe-south/67981.htm" title="Real Monasterio de Santo Tomás">
+        <img alt="Real Monasterio de Santo Tomás" height="20" src="/images/c1d.gif" width="15"/>
+       </a>
+       <a href="../diocese/avil0.htm#75174" title="Bishop Jesús Rico García (68)">
+        <img alt="Bishop Jesús Rico García (68)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../diocese/avil0.htm#4583" title="Bishop Jesús García Burillo (81)">
+        <img alt="Bishop Jesús García Burillo (81)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.diocesisdeavila.com" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/diocesisdeavila" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="barb0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/barb0.htm">
+       Barbastro–Monzón
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="ES-province.htm#barb0">
+       Zaragoza
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/spain/1780.htm" title="Catedral de Asunción de Nuestra Señora">
+        <img alt="Catedral de Asunción de Nuestra Señora" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/spain/3901.htm" title="Concatedral de Santa María del Romeral">
+        <img alt="Concatedral de Santa María del Romeral" height="20" src="/images/c1c.gif" width="17"/>
+       </a>
+       <a href="../../churches/spain/1776.htm" title="Ex Catedral de San Vicente martír">
+        <img alt="Ex Catedral de San Vicente martír" height="20" src="/images/c1b.gif" width="17"/>
+       </a>
+       <a href="../../churches/spain/0117.htm" title="Basílica de Nuestra Señora de Badaín">
+        <img alt="Basílica de Nuestra Señora de Badaín" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/spain/0134.htm" title="Basílica de Santa María de la Peña">
+        <img alt="Basílica de Santa María de la Peña" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/barb0.htm#57819" title="Bishop Ángel Javier Pérez Pueyo (66)">
+        <img alt="Bishop Ángel Javier Pérez Pueyo (66)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.diocesisbarbastromonzon.org" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/DioBarMon" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+       <a class="linkf" href="https://www.facebook.com/diocesisdebarbastromonzon" rel="nofollow" target="_blank" title="Facebook Page">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="bilb0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/bilb0.htm">
+       Bilbao
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="ES-province.htm#bilb0">
+       Burgos
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/spain/0141.htm" title="Catedral de Santiago Apóstol">
+        <img alt="Catedral de Santiago Apóstol" height="20" src="/images/c1ab.gif" width="19"/>
+       </a>
+       <a href="../../churches/spain/0213.htm" title="Basílica de la Asunción de Nuestra Señora">
+        <img alt="Basílica de la Asunción de Nuestra Señora" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/spain/0973.htm" title="Basílica de la Purísima Concepción (Sortzez Garbia)">
+        <img alt="Basílica de la Purísima Concepción (Sortzez Garbia)" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/spain/0295.htm" title="Basílica de Nuestra Señora de Begoña">
+        <img alt="Basílica de Nuestra Señora de Begoña" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/spain/0702.htm" title="Basílica de Santa María de Portugalete">
+        <img alt="Basílica de Santa María de Portugalete" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/spain/1434.htm" title="Basílica de Santa María de Uribarri">
+        <img alt="Basílica de Santa María de Uribarri" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/spain/6062.htm" title="Colegiata de la Asunción de María">
+        <img alt="Colegiata de la Asunción de María" height="20" src="/images/c1d.gif" width="15"/>
+       </a>
+       <a href="../diocese/bilb0.htm#62399" title="Bishop Joseba Segura Etxezarraga (65)">
+        <img alt="Bishop Joseba Segura Etxezarraga (65)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.bizkeliza.org" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/DiocesisBilbao" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+       <a class="linkf" href="https://www.facebook.com/DiocesisBilbao" rel="nofollow" target="_blank" title="Facebook Page">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="cadi0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/cadi0.htm">
+       Cádiz y Ceuta
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="ES-province.htm#cadi0">
+       Sevilla
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/spain/1741.htm" title="Catedral de Santa María de la Asunción">
+        <img alt="Catedral de Santa María de la Asunción" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/spain/1762.htm" title="Catedral de la Asunción">
+        <img alt="Catedral de la Asunción" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/spain/1847.htm" title="Catedral Vieja de Santa Cruz">
+        <img alt="Catedral Vieja de Santa Cruz" height="20" src="/images/c1b.gif" width="17"/>
+       </a>
+       <a href="../../churches/spain/6373.htm" title="Iglesia de Nuestra Señora de la Palma">
+        <img alt="Iglesia de Nuestra Señora de la Palma" height="20" src="/images/c1b.gif" width="17"/>
+       </a>
+       <a href="../diocese/cadi0.htm#4507" title="Bishop Rafael Zornoza Boy (73)">
+        <img alt="Bishop Rafael Zornoza Boy (73)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.obispadocadizyceuta.es" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/obispadocadiz" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+       <a class="linkf" href="https://www.facebook.com/obispado.decadizceuta" rel="nofollow" target="_blank" title="Facebook Page">
+       </a>
+       <span class="znote">
+        <b>
+         Cádiz
+        </b>
+        united
+        <i>
+         æque principaliter
+        </i>
+        with
+        <a class="typedioc" href="../former/ceut0.htm">
+         Ceuta
+        </a>
+        1933.04.21
+       </span>
+      </span>
+     </td>
+    </tr>
+    <tr id="cala2">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/cala2.htm">
+       Calahorra y La Calzada–Logroño
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="ES-province.htm#cala2">
+       Pamplona y Tudela
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/spain/1746.htm" title="Catedral de El Salvador y Santa María">
+        <img alt="Catedral de El Salvador y Santa María" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/spain/1742.htm" title="Catedral de la Asunción de Nuestra Señora">
+        <img alt="Catedral de la Asunción de Nuestra Señora" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/spain/1745.htm" title="Concatedral de Santa María de la Redonda">
+        <img alt="Concatedral de Santa María de la Redonda" height="20" src="/images/c1c.gif" width="17"/>
+       </a>
+       <a href="../../churches/spain/6006.htm" title="Iglesia de Santa María la Real">
+        <img alt="Iglesia de Santa María la Real" height="20" src="/images/c1b.gif" width="17"/>
+       </a>
+       <a href="../../churches/spain/5966.htm" title="Monasterio de San Millán de Suso">
+        <img alt="Monasterio de San Millán de Suso" height="20" src="/images/c4d.gif" width="15"/>
+       </a>
+       <a href="../../churches/spain/5965.htm" title="Monasterio de San Millán de Yuso">
+        <img alt="Monasterio de San Millán de Yuso" height="20" src="/images/c4d.gif" width="15"/>
+       </a>
+       <a href="../diocese/cala2.htm#61852" title="Bishop Santos Montoya Torres (56)">
+        <img alt="Bishop Santos Montoya Torres (56)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.iglesiaenlarioja.org" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <span class="znote">
+        <b>
+         Calahorra
+        </b>
+        and
+        <b>
+         La Calzada–Logroño
+        </b>
+        have been separate dioceses united
+        <i>
+         æque principaliter
+        </i>
+        since 1959.03.09
+       </span>
+      </span>
+     </td>
+    </tr>
+    <tr id="cart1">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/cart1.htm">
+       Cartagena
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="ES-province.htm#cart1">
+       Granada
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/spain/1740.htm" title="Catedral de Santa María">
+        <img alt="Catedral de Santa María" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/spain/0171.htm" title="Basílica de la Purísima Concepción">
+        <img alt="Basílica de la Purísima Concepción" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/spain/4773.htm" title="Basílica de la Santísima y Vera Cruz">
+        <img alt="Basílica de la Santísima y Vera Cruz" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/spain/5599.htm" title="Real Basílica de la Virgen de la Caridad">
+        <img alt="Real Basílica de la Virgen de la Caridad" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/cart1.htm#4590" title="Bishop José Manuel Lorca Planes (73)">
+        <img alt="Bishop José Manuel Lorca Planes (73)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.diocesisdecartagena.org" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/DiocDeCartagena" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="ciud7">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/ciud7.htm">
+       Ciudad Real
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="ES-province.htm#ciud7">
+       Toledo
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/spain/0980.htm" title="Catedral Basílica de Santa María del Prado">
+        <img alt="Catedral Basílica de Santa María del Prado" height="20" src="/images/c1ab.gif" width="19"/>
+       </a>
+       <a href="../diocese/ciud7.htm#24034" title="Bishop Gerardo Melgar Viciosa (74)">
+        <img alt="Bishop Gerardo Melgar Viciosa (74)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.diocesisciudadreal.es" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/diocesiscr" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="ciud8">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/ciud8.htm">
+       Ciudad Rodrigo
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="ES-province.htm#ciud8">
+       Valladolid
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/spain/1737.htm" title="Catedral de Santa María">
+        <img alt="Catedral de Santa María" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/ciud8.htm#61256" title="Bishop José Luis Retana Gozalo (70)">
+        <img alt="Bishop José Luis Retana Gozalo (70)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../diocese/ciud8.htm#4523" title="Bishop Cecilio Raúl Berzosa Martínez (65)">
+        <img alt="Bishop Cecilio Raúl Berzosa Martínez (65)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.diocesisciudadrodrigo.org" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="cord1">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/cord1.htm">
+       Córdoba
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="ES-province.htm#cord1">
+       Sevilla
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/spain/1951.htm" title="Catedral de Nuestra Señora de la Asunción">
+        <img alt="Catedral de Nuestra Señora de la Asunción" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/spain/3820.htm" title="Basílica de San Pedro Apóstol">
+        <img alt="Basílica de San Pedro Apóstol" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/spain/5606.htm" title="Basílica Santuario de San Juan de Ávila">
+        <img alt="Basílica Santuario de San Juan de Ávila" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/cord1.htm#4591" title="Bishop Demetrio Fernández González (73)">
+        <img alt="Bishop Demetrio Fernández González (73)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.diocesisdecordoba.com" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/diocesiscordoba" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="cori0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/cori0.htm">
+       Coria–Cáceres
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="ES-province.htm#cori0">
+       Mérida–Badajoz
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/spain/1788.htm" title="Catedral de Santa María de la Asunción">
+        <img alt="Catedral de Santa María de la Asunción" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/spain/1735.htm" title="Concatedral de Santa María">
+        <img alt="Concatedral de Santa María" height="20" src="/images/c1c.gif" width="17"/>
+       </a>
+       <a href="../diocese/cori0.htm#73116" title="Bishop Jesús Pulido Arriero (58)">
+        <img alt="Bishop Jesús Pulido Arriero (58)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a class="link" href="http://diocesiscoriacaceres.es" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/CoriaCCDiocesis" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="cuen1">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/cuen1.htm">
+       Cuenca
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="ES-province.htm#cuen1">
+       Toledo
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/spain/1796.htm" title="Catedral de Nuestra Señora de Gracia">
+        <img alt="Catedral de Nuestra Señora de Gracia" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/cuen1.htm#5100" title="Bishop José María Yanguas Sanz (75)">
+        <img alt="Bishop José María Yanguas Sanz (75)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.diocesisdecuenca.es" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/diocesisdecuen" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="geta0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/geta0.htm">
+       Getafe
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="ES-province.htm#geta0">
+       Madrid
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/spain/1958.htm" title="Catedral de Santa María Magdalena">
+        <img alt="Catedral de Santa María Magdalena" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/spain/6436.htm" title="Basílica del Sagrado Corazón de Jesús">
+        <img alt="Basílica del Sagrado Corazón de Jesús" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/geta0.htm#26794" title="Bishop Ginés Ramón García Beltrán (61)">
+        <img alt="Bishop Ginés Ramón García Beltrán (61)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-AS.htm#74497" title="Bishop José María Avendaño Perea (66)">
+        <img alt="Bishop José María Avendaño Perea (66)" height="20" src="/images/prelateB3.gif" width="16"/>
+       </a>
+       <a href="../diocese/geta0.htm#4506" title="Bishop Joaquin María López de Andújar y Cánovas del Castillo (80)">
+        <img alt="Bishop Joaquin María López de Andújar y Cánovas del Castillo (80)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.diocesisgetafe.es" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/DiocesisGetafe" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+       <a class="linkf" href="https://www.facebook.com/diocesisdegetafe" rel="nofollow" target="_blank" title="Facebook Page">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="giro0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/giro0.htm">
+       Girona
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="ES-province.htm#giro0">
+       Tarragona
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/spain/1793.htm" title="Catedral de Santa Maria">
+        <img alt="Catedral de Santa Maria" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/spain/6371.htm" title="Església de Sant Martí">
+        <img alt="Església de Sant Martí" height="20" src="/images/c1b.gif" width="17"/>
+       </a>
+       <a href="../../churches/spain/5473.htm" title="Basílica de Sant Feliu">
+        <img alt="Basílica de Sant Feliu" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/spain/3860.htm" title="Basílica de Santa Maria">
+        <img alt="Basílica de Santa Maria" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/giro0.htm#4553" title="Bishop Carles Soler Perdigó (90)">
+        <img alt="Bishop Carles Soler Perdigó (90)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.bisbatgirona.cat" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="guad1">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/guad1.htm">
+       Guadix
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="ES-province.htm#guad1">
+       Granada
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/spain/1949.htm" title="Catedral de Nuestra Señora de la Anunciación">
+        <img alt="Catedral de Nuestra Señora de la Anunciación" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/spain/2732.htm" title="Concatedral de Nuestra Señora Santa María de la Encarnación">
+        <img alt="Concatedral de Nuestra Señora Santa María de la Encarnación" height="20" src="/images/c1c.gif" width="17"/>
+       </a>
+       <a href="../diocese/guad1.htm#62230" title="Bishop Francisco Jesús Orozco Mengíbar (53)">
+        <img alt="Bishop Francisco Jesús Orozco Mengíbar (53)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.diocesisdeguadixbaza.org" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="huel0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/huel0.htm">
+       Huelva
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="ES-province.htm#huel0">
+       Sevilla
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/spain/1956.htm" title="Catedral de Nuestra Señora de la Merced">
+        <img alt="Catedral de Nuestra Señora de la Merced" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/huel0.htm#46039" title="Bishop Santiago Gómez Sierra (65)">
+        <img alt="Bishop Santiago Gómez Sierra (65)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../diocese/huel0.htm#4517" title="Bishop José Vilaplana Blasco (78)">
+        <img alt="Bishop José Vilaplana Blasco (78)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.diocesisdehuelva.es" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/DiocesisHuelva" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="hues0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/hues0.htm">
+       Huesca
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="ES-province.htm#hues0">
+       Zaragoza
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/spain/1883.htm" title="Catedral de Nuestra Señora de Montserrat">
+        <img alt="Catedral de Nuestra Señora de Montserrat" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/spain/0214.htm" title="Basílica de San Lorenzo">
+        <img alt="Basílica de San Lorenzo" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/hues0.htm#46050" title="Bishop Julián Ruiz Martorell (66)">
+        <img alt="Bishop Julián Ruiz Martorell (66)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.diocesisdehuesca.org" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/DiocesisHuesca" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+       <a class="linkf" href="https://www.facebook.com/diocesisdehuesca" rel="nofollow" target="_blank" title="Facebook Page">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="ibiz0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/ibiz0.htm">
+       Ibiza
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="ES-province.htm#ibiz0">
+       Valencia
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/spain/1767.htm" title="Catedral de la Mare de Déu de les Neus">
+        <img alt="Catedral de la Mare de Déu de les Neus" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/ibiz0.htm#72927" title="Bishop Vicente Ribas Prats (55)">
+        <img alt="Bishop Vicente Ribas Prats (55)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.obispadodeibiza.es" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="isla1">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/isla1.htm">
+       Islas Canarias
+      </a>
+      /
+      <a class="typedioc" href="../diocese/isla1.htm">
+       Las Palmas
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="ES-province.htm#isla1">
+       Sevilla
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/spain/0235.htm" title="Catedral Basílica de Santa Ana">
+        <img alt="Catedral Basílica de Santa Ana" height="20" src="/images/c1ab.gif" width="19"/>
+       </a>
+       <a href="../../churches/spain/1037.htm" title="Basílica de San Juan Bautista">
+        <img alt="Basílica de San Juan Bautista" height="20" src="/images/c1bb.gif" width="19"/>
+       </a>
+       <a href="../../churches/spain/6313.htm" title="Iglesia de Nuestra Señora de la Concepción">
+        <img alt="Iglesia de Nuestra Señora de la Concepción" height="20" src="/images/c1b.gif" width="17"/>
+       </a>
+       <a href="../../churches/spain/5562.htm" title="Iglesia San Marcial del Rubicón">
+        <img alt="Iglesia San Marcial del Rubicón" height="20" src="/images/c1b.gif" width="17"/>
+       </a>
+       <a href="../../churches/spain/0335.htm" title="Basílica Nuestra Señora del Pino">
+        <img alt="Basílica Nuestra Señora del Pino" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/isla1.htm#24570" title="Bishop José Mazuelos Pérez (62)">
+        <img alt="Bishop José Mazuelos Pérez (62)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../../hierarchy/data/bishops-DEN.htm#74142" title="Bishop Cristóbal Déniz Hernández (53)">
+        <img alt="Bishop Cristóbal Déniz Hernández (53)" height="20" src="/images/prelateB3.gif" width="16"/>
+       </a>
+       <a href="../diocese/isla1.htm#4546" title="Bishop Francisco Cases Andreu (78)">
+        <img alt="Bishop Francisco Cases Andreu (78)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://diocesisdecanarias.net" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/Diocesis" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="jaca0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/jaca0.htm">
+       Jaca
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="ES-province.htm#jaca0">
+       Pamplona y Tudela
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/spain/1779.htm" title="Catedral de San Pedro Apóstol">
+        <img alt="Catedral de San Pedro Apóstol" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/spain/5923.htm" title="Iglesia San Adrián">
+        <img alt="Iglesia San Adrián" height="20" src="/images/c1b.gif" width="17"/>
+       </a>
+       <a href="../diocese/hues0.htm#46050" title="Bishop Julián Ruiz Martorell (66)">
+        <img alt="Bishop Julián Ruiz Martorell (66)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.diocesisdejaca.org" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="jaen0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/jaen0.htm">
+       Jaén
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="ES-province.htm#jaen0">
+       Granada
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/spain/1864.htm" title="Catedral de la Asunción de María">
+        <img alt="Catedral de la Asunción de María" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/spain/3902.htm" title="Concatedral de la Natividad de Nuestra Señora y San Isidoro">
+        <img alt="Concatedral de la Natividad de Nuestra Señora y San Isidoro" height="20" src="/images/c1c.gif" width="17"/>
+       </a>
+       <a href="../../churches/spain/6208.htm" title="Basílica de Santa María de los Reales Alcázares">
+        <img alt="Basílica de Santa María de los Reales Alcázares" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/spain/5714.htm" title="Basílica de San Ildefonso">
+        <img alt="Basílica de San Ildefonso" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/spain/6212.htm" title="Basílica de Santa María la Mayor">
+        <img alt="Basílica de Santa María la Mayor" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/spain/5440.htm" title="Basílica y Real Santuario de Nuestra Señora de la Cabeza">
+        <img alt="Basílica y Real Santuario de Nuestra Señora de la Cabeza" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/jaen0.htm#62409" title="Bishop Sebastián Chico Martínez (55)">
+        <img alt="Bishop Sebastián Chico Martínez (55)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../diocese/jaen0.htm#4499" title="Bishop Ramón del Hoyo López (82)">
+        <img alt="Bishop Ramón del Hoyo López (82)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+       <a href="../diocese/jaen0.htm#4514" title="Bishop Amadeo Rodríguez Magro (77)">
+        <img alt="Bishop Amadeo Rodríguez Magro (77)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.diocesisdejaen.es" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="jere1">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/jere1.htm">
+       Jerez de la Frontera
+      </a>
+      /
+      <a class="typedioc" href="../diocese/jere1.htm">
+       Asidonia–Jerez
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="ES-province.htm#jere1">
+       Sevilla
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/spain/1764.htm" title="Catedral de Nuestro Señor San Salvador">
+        <img alt="Catedral de Nuestro Señor San Salvador" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/spain/1337.htm" title="Basílica de Nuestra Señora de la Caridad">
+        <img alt="Basílica de Nuestra Señora de la Caridad" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/spain/0675.htm" title="Basílica de Nuestra Señora de la Merced">
+        <img alt="Basílica de Nuestra Señora de la Merced" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/spain/6188.htm" title="Basílica de Nuestra Señora de los Milagros Prioral">
+        <img alt="Basílica de Nuestra Señora de los Milagros Prioral" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/spain/0990.htm" title="Basílica de Nuestra Señora del Carmen">
+        <img alt="Basílica de Nuestra Señora del Carmen" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/spain/1296.htm" title="Basílica de Santa María de la Asunción">
+        <img alt="Basílica de Santa María de la Asunción" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/jere1.htm#50434" title="Bishop José Rico Pavés (56)">
+        <img alt="Bishop José Rico Pavés (56)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a class="link" href="http://wp.diocesisdejerez.org" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="leon0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/leon0.htm">
+       León
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="ES-province.htm#leon0">
+       Oviedo
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/spain/1772.htm" title="Catedral de Santa María del Camino">
+        <img alt="Catedral de Santa María del Camino" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/spain/5000.htm" title="Basílica Santuario de Nuestra Señora la Virgen del Camino">
+        <img alt="Basílica Santuario de Nuestra Señora la Virgen del Camino" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/spain/0595.htm" title="Real Basílica de San Isidoro de León">
+        <img alt="Real Basílica de San Isidoro de León" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/leon0.htm#60531" title="Bishop Luis Ángel de las Heras Berzal, C.M.F. (59)">
+        <img alt="Bishop Luis Ángel de las Heras Berzal, C.M.F. (59)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../diocese/leon0.htm#4520" title="Bishop Julián López Martín (78)">
+        <img alt="Bishop Julián López Martín (78)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.diocesisdeleon.org" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="llei0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/llei0.htm">
+       Lleida
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="ES-province.htm#llei0">
+       Tarragona
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/spain/1783.htm" title="Catedral de la Asunción de Nuestra Señora">
+        <img alt="Catedral de la Asunción de Nuestra Señora" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/spain/1791.htm" title="Catedral de Santa María de la Seu Vella">
+        <img alt="Catedral de Santa María de la Seu Vella" height="20" src="/images/c1b.gif" width="17"/>
+       </a>
+       <a href="../diocese/llei0.htm#4573" title="Bishop Salvador Giménez Valls (75)">
+        <img alt="Bishop Salvador Giménez Valls (75)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../diocese/llei0.htm#4577" title="Bishop Juan Piris Frígola (83)">
+        <img alt="Bishop Juan Piris Frígola (83)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.bisbatlleida.org" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="lugo0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/lugo0.htm">
+       Lugo
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="ES-province.htm#lugo0">
+       Santiago de Compostela
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/spain/0244.htm" title="Catedral Basílica de Nuestra Señora del Carmen">
+        <img alt="Catedral Basílica de Nuestra Señora del Carmen" height="20" src="/images/c1ab.gif" width="19"/>
+       </a>
+       <a href="../../churches/spain/6074.htm" title="Monasterio Cisterciense de Santa María">
+        <img alt="Monasterio Cisterciense de Santa María" height="20" src="/images/c4d.gif" width="15"/>
+       </a>
+       <a href="../diocese/lugo0.htm#19251" title="Bishop Alfonso Carrasco Rouco (66)">
+        <img alt="Bishop Alfonso Carrasco Rouco (66)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a class="link" href="http://diocesisdelugo.org" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/anosavoz" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="mala1">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/mala1.htm">
+       Málaga
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="ES-province.htm#mala1">
+       Granada
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/spain/0159.htm" title="Catedral Basílica de la Virgen de la Encarnación">
+        <img alt="Catedral Basílica de la Virgen de la Encarnación" height="20" src="/images/c1ab.gif" width="19"/>
+       </a>
+       <a href="../../churches/spain/4187.htm" title="Basílica de Nuestra Señora de la Victoria y de las Mercedes">
+        <img alt="Basílica de Nuestra Señora de la Victoria y de las Mercedes" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/spain/1369.htm" title="Basílica del Dulce Nombre de Jesús Nazareno del Paso y María Santísima de la Esperanza">
+        <img alt="Basílica del Dulce Nombre de Jesús Nazareno del Paso y María Santísima de la Esperanza" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/mala1.htm#4508" title="Bishop Jesús Esteban Catalá Ibáñez (73)">
+        <img alt="Bishop Jesús Esteban Catalá Ibáñez (73)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../diocese/mala1.htm#4497" title="Bishop Ramón Buxarrais Ventura (93)">
+        <img alt="Bishop Ramón Buxarrais Ventura (93)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.diocesismalaga.es" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/DiocesisMalaga" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="mall0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/mall0.htm">
+       Mallorca
+      </a>
+      /
+      <a class="typedioc" href="../diocese/mall0.htm">
+       Majorca
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="ES-province.htm#mall0">
+       Valencia
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/spain/0278.htm" title="Catedral de Santa Maria">
+        <img alt="Catedral de Santa Maria" height="20" src="/images/c1ab.gif" width="19"/>
+       </a>
+       <a href="../../churches/spain/0889.htm" title="Basílica de la Mare de Déu">
+        <img alt="Basílica de la Mare de Déu" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/spain/0607.htm" title="Basílica de Sant Francesc">
+        <img alt="Basílica de Sant Francesc" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/spain/6383.htm" title="Basílica de Sant Miquel">
+        <img alt="Basílica de Sant Miquel" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/mall0.htm#24298" title="Bishop Sebastián Taltavull Anglada (75)">
+        <img alt="Bishop Sebastián Taltavull Anglada (75)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.bisbatdemallorca.org" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/bisbatmallorca" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="meno1">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/meno1.htm">
+       Menorca
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="ES-province.htm#meno1">
+       Valencia
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/spain/0739.htm" title="Catedral Basílica de Santa Maria">
+        <img alt="Catedral Basílica de Santa Maria" height="20" src="/images/c1ab.gif" width="19"/>
+       </a>
+       <a href="../diocese/meno1.htm#75012" title="Bishop Gerardo Villalonga Hellín (65)">
+        <img alt="Bishop Gerardo Villalonga Hellín (65)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a class="link" href="http://bisbatdemenorca.org" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/bisbatmenorca" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="mond0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/mond0.htm">
+       Mondoñedo–Ferrol
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="ES-province.htm#mond0">
+       Santiago de Compostela
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/spain/0895.htm" title="Catedral Basílica de la Virgen de la Asunción">
+        <img alt="Catedral Basílica de la Virgen de la Asunción" height="20" src="/images/c1ab.gif" width="19"/>
+       </a>
+       <a href="../../churches/spain/1787.htm" title="Concatedral de San Julián">
+        <img alt="Concatedral de San Julián" height="20" src="/images/c1c.gif" width="17"/>
+       </a>
+       <a href="../../churches/spain/4058.htm" title="Basilica de San Martín de Mondoñedo">
+        <img alt="Basilica de San Martín de Mondoñedo" height="20" src="/images/c1bb.gif" width="19"/>
+       </a>
+       <a href="../diocese/mond0.htm#72783" title="Bishop Fernando García Cadiñanos (55)">
+        <img alt="Bishop Fernando García Cadiñanos (55)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.mondonedoferrol.org" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/mondonedoferrol" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="orih0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/orih0.htm">
+       Orihuela–Alicante
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="ES-province.htm#orih0">
+       Valencia
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/spain/1744.htm" title="Catedral de El Salvador y Santa María">
+        <img alt="Catedral de El Salvador y Santa María" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/spain/1743.htm" title="Concatedral de San Nicolás de Bari">
+        <img alt="Concatedral de San Nicolás de Bari" height="20" src="/images/c1c.gif" width="17"/>
+       </a>
+       <a href="../../churches/spain/4055.htm" title="Basílica de Nuestra Señora del Socorro">
+        <img alt="Basílica de Nuestra Señora del Socorro" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/spain/3857.htm" title="Basílica de Santa María">
+        <img alt="Basílica de Santa María" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/spain/0711.htm" title="Basílica de Santa María">
+        <img alt="Basílica de Santa María" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/orih0.htm#9821" title="Bishop José Ignacio Munilla Aguirre (61)">
+        <img alt="Bishop José Ignacio Munilla Aguirre (61)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../diocese/orih0.htm#4579" title="Bishop Victorio Oliver Domingo (93)">
+        <img alt="Bishop Victorio Oliver Domingo (93)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+       <a href="../diocese/orih0.htm#4576" title="Bishop Jesús Murgui Soriano (77)">
+        <img alt="Bishop Jesús Murgui Soriano (77)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.diocesisoa.org" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="osma0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/osma0.htm">
+       Osma–Soria
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="ES-province.htm#osma0">
+       Burgos
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/spain/1769.htm" title="Catedral de Santa María de la Asunción">
+        <img alt="Catedral de Santa María de la Asunción" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/spain/1792.htm" title="Concatedral de San Pedro">
+        <img alt="Concatedral de San Pedro" height="20" src="/images/c1c.gif" width="17"/>
+       </a>
+       <a href="../../churches/spain/0120.htm" title="Basílica de Nuestra Señora de los Miagros">
+        <img alt="Basílica de Nuestra Señora de los Miagros" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/osma0.htm#61127" title="Bishop Abilio Martínez Varea (59)">
+        <img alt="Bishop Abilio Martínez Varea (59)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.osma-soria.org" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/BeatoPalafox" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="oren0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/oren0.htm">
+       Ourense
+      </a>
+      /
+      <a class="typedioc" href="../diocese/oren0.htm">
+       Orense
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="ES-province.htm#oren0">
+       Santiago de Compostela
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/spain/1786.htm" title="Catedral de San Martiño">
+        <img alt="Catedral de San Martiño" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/oren0.htm#47576" title="Bishop José Leonardo Lemos Montanet (70)">
+        <img alt="Bishop José Leonardo Lemos Montanet (70)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.obispadodeourense.com" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/ObispadoOurense" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="pale4">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/pale4.htm">
+       Palencia
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="ES-province.htm#pale4">
+       Burgos
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/spain/1739.htm" title="Catedral de San Antolín">
+        <img alt="Catedral de San Antolín" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/pale4.htm#60681" title="Bishop Manuel Herrero Fernández, O.S.A. (76)">
+        <img alt="Bishop Manuel Herrero Fernández, O.S.A. (76)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../diocese/pale4.htm#4486" title="Bishop Nicolás Antonio Castellanos Franco, O.S.A. (88)">
+        <img alt="Bishop Nicolás Antonio Castellanos Franco, O.S.A. (88)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.diocesispalencia.org" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/IglesiaPalencia" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="plas0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/plas0.htm">
+       Plasencia
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="ES-province.htm#plas0">
+       Mérida–Badajoz
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/spain/1797.htm" title="Catedral Nueva Gótica de Santa María">
+        <img alt="Catedral Nueva Gótica de Santa María" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/spain/1736.htm" title="Catedral Vieja Románica de Santa María">
+        <img alt="Catedral Vieja Románica de Santa María" height="20" src="/images/c1b.gif" width="17"/>
+       </a>
+       <a href="../diocese/plas0.htm#74416" title="Bishop Ernesto Jesús Brontóns Tena (55)">
+        <img alt="Bishop Ernesto Jesús Brontóns Tena (55)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a class="link" href="http://diocesisplasencia.org" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="sala0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/sala0.htm">
+       Salamanca
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="ES-province.htm#sala0">
+       Valladolid
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/spain/1738.htm" title="Catedral Nueva de Santa María del Asedio">
+        <img alt="Catedral Nueva de Santa María del Asedio" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/spain/0157.htm" title="Catedral Vieja de Santa María del Asedio">
+        <img alt="Catedral Vieja de Santa María del Asedio" height="20" src="/images/c1bb.gif" width="19"/>
+       </a>
+       <a href="../../churches/spain/0175.htm" title="Basílica de Santa Teresa">
+        <img alt="Basílica de Santa Teresa" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/ciud8.htm#61256" title="Bishop José Luis Retana Gozalo (70)">
+        <img alt="Bishop José Luis Retana Gozalo (70)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../diocese/sala0.htm#4585" title="Bishop Carlos López Hernández (77)">
+        <img alt="Bishop Carlos López Hernández (77)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.diocesisdesalamanca.com" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="zcri1">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/zcri1.htm">
+       San Cristóbal de La Laguna
+      </a>
+      /
+      <a class="typedioc" href="../diocese/zcri1.htm">
+       Tenerife
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="ES-province.htm#zcri1">
+       Sevilla
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/spain/1794.htm" title="Catedral de Nuestra Señora de los Remedios">
+        <img alt="Catedral de Nuestra Señora de los Remedios" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/spain/5286.htm" title="Basílica y Real Santuario Mariano de Nuestra Señora de la Candelaria">
+        <img alt="Basílica y Real Santuario Mariano de Nuestra Señora de la Candelaria" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/zcri1.htm#4548" title="Bishop Bernardo Álvarez Afonso (73)">
+        <img alt="Bishop Bernardo Álvarez Afonso (73)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a class="link" href="http://obispadodetenerife.es" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="zseb1">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/zseb1.htm">
+       San Sebastián
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="ES-province.htm#zseb1">
+       Pamplona y Tudela
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/spain/1759.htm" title="Catedral de El Buen Pastor">
+        <img alt="Catedral de El Buen Pastor" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/spain/0377.htm" title="Basílica de San Ignacio de Loyola">
+        <img alt="Basílica de San Ignacio de Loyola" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/spain/1036.htm" title="Basílica de Santa María del Coro">
+        <img alt="Basílica de Santa María del Coro" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/zseb1.htm#74523" title="Bishop Fernando Prado Ayuso, C.M.F. (53)">
+        <img alt="Bishop Fernando Prado Ayuso, C.M.F. (53)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../diocese/zseb1.htm#4525" title="Bishop Juan María Uriarte Goiricelaya (90)">
+        <img alt="Bishop Juan María Uriarte Goiricelaya (90)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.elizagipuzkoa.org" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/diocesis_ss" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="zfel3">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/zfel3.htm">
+       Sant Feliu de Llobregat
+      </a>
+      /
+      <a class="typedioc" href="../diocese/zfel3.htm">
+       San Felipe Llobregat
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="ES-province.htm#zfel3">
+       Barcelona
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/spain/3197.htm" title="Catedral de Sant Llorenç">
+        <img alt="Catedral de Sant Llorenç" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/spain/0209.htm" title="Basílica de Mare de Déu de Montserrat">
+        <img alt="Basílica de Mare de Déu de Montserrat" height="20" src="/images/c3db.gif" width="19"/>
+       </a>
+       <a href="../../churches/spain/0357.htm" title="Basílica de Santa Maria">
+        <img alt="Basílica de Santa Maria" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/europe-south/80329.htm" title="Església del Sagrat Cor">
+        <img alt="Església del Sagrat Cor" height="20" src="/images/c1d.gif" width="15"/>
+       </a>
+       <a href="../diocese/zfel3.htm#4477" title="Bishop Agustín Cortés Soriano (75)">
+        <img alt="Bishop Agustín Cortés Soriano (75)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.bisbatsantfeliu.org" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="sant0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/sant0.htm">
+       Santander
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="ES-province.htm#sant0">
+       Oviedo
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/spain/0121.htm" title="Catedral Basílica de Santa María y Santos Mártires Emeterio y Celedonio">
+        <img alt="Catedral Basílica de Santa María y Santos Mártires Emeterio y Celedonio" height="20" src="/images/c1ab.gif" width="19"/>
+       </a>
+       <a href="../../churches/spain/6064.htm" title="Colegiata de Santa Juliana">
+        <img alt="Colegiata de Santa Juliana" height="20" src="/images/c1d.gif" width="15"/>
+       </a>
+       <a href="../../churches/spain/6063.htm" title="Iglesia de Santa María de la Asuncion">
+        <img alt="Iglesia de Santa María de la Asuncion" height="20" src="/images/c1d.gif" width="15"/>
+       </a>
+       <a href="../../churches/spain/6075.htm" title="Monasterio de Santo Toribio de Liébana">
+        <img alt="Monasterio de Santo Toribio de Liébana" height="20" src="/images/c4d.gif" width="15"/>
+       </a>
+       <a href="../diocese/sant0.htm#4538" title="Bishop Manuel Sánchez Monge (76)">
+        <img alt="Bishop Manuel Sánchez Monge (76)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.diocesisdesantander.com" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="sego0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/sego0.htm">
+       Segorbe–Castellón de la Plana
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="ES-province.htm#sego0">
+       Valencia
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/spain/1183.htm" title="Catedral de la Asunción de la Virgen">
+        <img alt="Catedral de la Asunción de la Virgen" height="20" src="/images/c1ab.gif" width="19"/>
+       </a>
+       <a href="../../churches/spain/1734.htm" title="Concatedral de Santa María">
+        <img alt="Concatedral de Santa María" height="20" src="/images/c1c.gif" width="17"/>
+       </a>
+       <a href="../../churches/spain/6360.htm" title="Basílica de El Salvador">
+        <img alt="Basílica de El Salvador" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/spain/1325.htm" title="Basílica de San Pascual Baylón">
+        <img alt="Basílica de San Pascual Baylón" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/spain/1164.htm" title="Basílica de Santa María de Lledó">
+        <img alt="Basílica de Santa María de Lledó" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/sego0.htm#4587" title="Bishop Casimiro López Llorente (72)">
+        <img alt="Bishop Casimiro López Llorente (72)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a class="link" href="http://obsegorbecastellon.es" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="sego2">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/sego2.htm">
+       Segovia
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="ES-province.htm#sego2">
+       Valladolid
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/spain/1770.htm" title="Catedral de la Asunción de la Virgen">
+        <img alt="Catedral de la Asunción de la Virgen" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/sego2.htm#4509" title="Bishop César Augusto Franco Martínez (74)">
+        <img alt="Bishop César Augusto Franco Martínez (74)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../diocese/sego2.htm#4566" title="Bishop Ángel Rubio Castro (84)">
+        <img alt="Bishop Ángel Rubio Castro (84)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.obispadodesegovia.es" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="sigu0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/sigu0.htm">
+       Sigüenza–Guadalajara
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="ES-province.htm#sigu0">
+       Toledo
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/spain/0652.htm" title="Catedral Basílica de La Asunción">
+        <img alt="Catedral Basílica de La Asunción" height="20" src="/images/c1ab.gif" width="19"/>
+       </a>
+       <a href="../../churches/spain/1795.htm" title="Concatedral de Santa María la Fuente Mayor de la Salud">
+        <img alt="Concatedral de Santa María la Fuente Mayor de la Salud" height="20" src="/images/c1c.gif" width="17"/>
+       </a>
+       <a href="../diocese/sigu0.htm#4582" title="Bishop Atilano Rodríguez Martínez (76)">
+        <img alt="Bishop Atilano Rodríguez Martínez (76)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../diocese/sigu0.htm#4569" title="Bishop José Sánchez González (88)">
+        <img alt="Bishop José Sánchez González (88)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.siguenza-guadalajara.org" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="sols0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/sols0.htm">
+       Solsona
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="ES-province.htm#sols0">
+       Tarragona
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/spain/0737.htm" title="Catedral de Santa Maria">
+        <img alt="Catedral de Santa Maria" height="20" src="/images/c1ab.gif" width="19"/>
+       </a>
+       <a href="../diocese/sols0.htm#60929" title="Bishop Francisco Simón Conesa Ferrer (61)">
+        <img alt="Bishop Francisco Simón Conesa Ferrer (61)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../diocese/sols0.htm#45966" title="Bishop Xavier Novell Gomá (54)">
+        <img alt="Bishop Xavier Novell Gomá (54)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://bisbatsolsona.cat" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="tara3">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/tara3.htm">
+       Tarazona
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="ES-province.htm#tara3">
+       Zaragoza
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/spain/1777.htm" title="Catedral de Nuestra Señora de la Huerta">
+        <img alt="Catedral de Nuestra Señora de la Huerta" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/spain/6497.htm" title="Iglesia de Santa María Magdalena">
+        <img alt="Iglesia de Santa María Magdalena" height="20" src="/images/c1b.gif" width="17"/>
+       </a>
+       <a href="../../churches/spain/6555.htm" title="Basílica-Colegiata del Santo Sepulcro">
+        <img alt="Basílica-Colegiata del Santo Sepulcro" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/spain/5943.htm" title="Colegiata de Asunción de Nuestra Señora">
+        <img alt="Colegiata de Asunción de Nuestra Señora" height="20" src="/images/c1d.gif" width="15"/>
+       </a>
+       <a href="../../churches/spain/5944.htm" title="Iglesia de Santa María">
+        <img alt="Iglesia de Santa María" height="20" src="/images/c1d.gif" width="15"/>
+       </a>
+       <a href="../../churches/spain/5942.htm" title="Iglesia de Santa Tecla">
+        <img alt="Iglesia de Santa Tecla" height="20" src="/images/c1d.gif" width="15"/>
+       </a>
+       <a href="../diocese/tara3.htm#74399" title="Bishop Vicente Rebollo Mozos (59)">
+        <img alt="Bishop Vicente Rebollo Mozos (59)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a href="../diocese/tara3.htm#46263" title="Bishop Eusebio Ignacio Hernández Sola, O.A.R. (78)">
+        <img alt="Bishop Eusebio Ignacio Hernández Sola, O.A.R. (78)" height="20" src="/images/prelateB2.gif" width="22"/>
+       </a>
+       <a class="link" href="http://diocesistarazona.org" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/DioceTarazona" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="terr0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/terr0.htm">
+       Terrassa
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="ES-province.htm#terr0">
+       Barcelona
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/spain/0704.htm" title="Catedral-Basílica de Sant Esperit">
+        <img alt="Catedral-Basílica de Sant Esperit" height="20" src="/images/c1ab.gif" width="19"/>
+       </a>
+       <a href="../../churches/spain/6004.htm" title="Església de Santa Maria">
+        <img alt="Església de Santa Maria" height="20" src="/images/c1b.gif" width="17"/>
+       </a>
+       <a href="../diocese/terr0.htm#43269" title="Bishop Salvador Cristau Coll (73)">
+        <img alt="Bishop Salvador Cristau Coll (73)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.bisbatdeterrassa.org" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="teru0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/teru0.htm">
+       Teruel y Albarracín
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="ES-province.htm#teru0">
+       Zaragoza
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/spain/1778.htm" title="Catedral de Santa María de Mediavilla">
+        <img alt="Catedral de Santa María de Mediavilla" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/spain/1749.htm" title="Catedral de Santa María y Santiago">
+        <img alt="Catedral de Santa María y Santiago" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/europe-south/51683.htm" title="Iglesia del Salvador de Teruel">
+        <img alt="Iglesia del Salvador de Teruel" height="20" src="/images/c1d.gif" width="15"/>
+       </a>
+       <a href="../../churches/europe-south/51686.htm" title="Iglesia San Martín">
+        <img alt="Iglesia San Martín" height="20" src="/images/c1d.gif" width="15"/>
+       </a>
+       <a href="../../churches/europe-south/51685.htm" title="Iglesia San Pedro">
+        <img alt="Iglesia San Pedro" height="20" src="/images/c1d.gif" width="15"/>
+       </a>
+       <a href="../diocese/teru0.htm#72881" title="Bishop José Antonio Satué Huerto (55)">
+        <img alt="Bishop José Antonio Satué Huerto (55)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.diocesisdeteruel.org" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/diocesisteruel" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+       <span class="znote">
+        United
+        <i>
+         æque principaliter
+        </i>
+        with
+        <a class="typedioc" href="../former/alba5.htm">
+         Albarracin
+        </a>
+        1984.08.11
+       </span>
+      </span>
+     </td>
+    </tr>
+    <tr id="tort1">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/tort1.htm">
+       Tortosa
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="ES-province.htm#tort1">
+       Tarragona
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/spain/0354.htm" title="Catedral Basílica de la Virgen de los Dolores">
+        <img alt="Catedral Basílica de la Virgen de los Dolores" height="20" src="/images/c1ab.gif" width="19"/>
+       </a>
+       <a href="../../churches/spain/0826.htm" title="Basílica de Santa María la Mayor">
+        <img alt="Basílica de Santa María la Mayor" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a class="link" href="http://www.bisbattortosa.org" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="tuiv0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/tuiv0.htm">
+       Tui–Vigo
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="ES-province.htm#tuiv0">
+       Santiago de Compostela
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/spain/1785.htm" title="Catedral de San Antón">
+        <img alt="Catedral de San Antón" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/spain/1784.htm" title="Concatedral Basílica de Santa María">
+        <img alt="Concatedral Basílica de Santa María" height="20" src="/images/c1cb.gif" width="19"/>
+       </a>
+       <a href="../diocese/tuiv0.htm#4535" title="Bishop Luis Quinteiro Fiuza (75)">
+        <img alt="Bishop Luis Quinteiro Fiuza (75)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.diocesetuivigo.org" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="urge0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/urge0.htm">
+       Urgell
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="ES-province.htm#urge0">
+       Tarragona
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/spain/0280.htm" title="Catedral Basílica de Santa Maria de Urgell">
+        <img alt="Catedral Basílica de Santa Maria de Urgell" height="20" src="/images/c1ab.gif" width="19"/>
+       </a>
+       <a href="../../churches/spain/6150.htm" title="Basílica de la Mare de Déu de Núria">
+        <img alt="Basílica de la Mare de Déu de Núria" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/spain/6226.htm" title="Basílica de Sant Crist de Balaguer">
+        <img alt="Basílica de Sant Crist de Balaguer" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/spain/0405.htm" title="Basílica de Santa Maria de Valldeflors">
+        <img alt="Basílica de Santa Maria de Valldeflors" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/europe/6151.htm" title="Basílica Santuari de la Mare de Déu de Meritxell">
+        <img alt="Basílica Santuari de la Mare de Déu de Meritxell" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/spain/4183.htm" title="Ermitage de Sant Quirc">
+        <img alt="Ermitage de Sant Quirc" height="20" src="/images/c1d.gif" width="15"/>
+       </a>
+       <a href="../../churches/spain/4182.htm" title="Església de la Nativitat">
+        <img alt="Església de la Nativitat" height="20" src="/images/c1d.gif" width="15"/>
+       </a>
+       <a href="../../churches/spain/4179.htm" title="Església de Sant Climent">
+        <img alt="Església de Sant Climent" height="20" src="/images/c1d.gif" width="15"/>
+       </a>
+       <a href="../../churches/spain/4176.htm" title="Església de Sant Feliu">
+        <img alt="Església de Sant Feliu" height="20" src="/images/c1d.gif" width="15"/>
+       </a>
+       <a href="../../churches/spain/4177.htm" title="Església de Sant Joan">
+        <img alt="Església de Sant Joan" height="20" src="/images/c1d.gif" width="15"/>
+       </a>
+       <a href="../../churches/spain/4184.htm" title="Església de Santa Eulàlia">
+        <img alt="Església de Santa Eulàlia" height="20" src="/images/c1d.gif" width="15"/>
+       </a>
+       <a href="../../churches/spain/4181.htm" title="Església de Santa Maria">
+        <img alt="Església de Santa Maria" height="20" src="/images/c1d.gif" width="15"/>
+       </a>
+       <a href="../../churches/spain/4178.htm" title="Església de Santa Maria">
+        <img alt="Església de Santa Maria" height="20" src="/images/c1d.gif" width="15"/>
+       </a>
+       <a href="../../churches/spain/4180.htm" title="Església de Santa Maria de l’Assumpció">
+        <img alt="Església de Santa Maria de l’Assumpció" height="20" src="/images/c1d.gif" width="15"/>
+       </a>
+       <a href="../diocese/urge0.htm#4559" title="Archbishop Joan Enric Vives i Sicília (73)">
+        <img alt="Archbishop Joan Enric Vives i Sicília (73)" height="20" src="/images/prelateA1.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.bisbaturgell.org" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/BisbatUrgell" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+       Also covers
+       <a class="zcountry" href="AD.htm">
+        Andorra
+       </a>
+       <a href="AD.htm" title="Andorra">
+        <img alt="Andorra" class="flag" height="15" src="/images/flags/AD2.png" width="22"/>
+       </a>
+       .
+      </span>
+     </td>
+    </tr>
+    <tr id="vicz0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/vicz0.htm">
+       Vic
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="ES-province.htm#vicz0">
+       Tarragona
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/spain/0232.htm" title="Catedral Basílica de San Pere de Vic">
+        <img alt="Catedral Basílica de San Pere de Vic" height="20" src="/images/c1ab.gif" width="19"/>
+       </a>
+       <a href="../../churches/spain/0661.htm" title="Basílica de Santa Maria">
+        <img alt="Basílica de Santa Maria" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../../churches/spain/0217.htm" title="Col·legiata Basílica de Santa Maria de la Seu">
+        <img alt="Col·legiata Basílica de Santa Maria de la Seu" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/vicz0.htm#4560" title="Bishop Román Casanova Casanova (66)">
+        <img alt="Bishop Román Casanova Casanova (66)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.bisbatvic.org" rel="nofollow" target="_blank" title="Link">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="vito1">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/vito1.htm">
+       Vitoria
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="ES-province.htm#vito1">
+       Burgos
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/spain/3180.htm" title="Catedral de Santa María Imaculada, Madre de la Iglesia">
+        <img alt="Catedral de Santa María Imaculada, Madre de la Iglesia" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../../churches/spain/0150.htm" title="Catedral vieja Basílica de Santa María">
+        <img alt="Catedral vieja Basílica de Santa María" height="20" src="/images/c1cb.gif" width="19"/>
+       </a>
+       <a href="../../churches/spain/6005.htm" title="Iglesia San Prudencio de Armentia">
+        <img alt="Iglesia San Prudencio de Armentia" height="20" src="/images/c1b.gif" width="17"/>
+       </a>
+       <a href="../../churches/spain/0391.htm" title="Basílica Nuestra Señora de Aránzazu">
+        <img alt="Basílica Nuestra Señora de Aránzazu" height="20" src="/images/c1db.gif" width="19"/>
+       </a>
+       <a href="../diocese/vito1.htm#60423" title="Bishop Juan Carlos Elizalde Espinal (62)">
+        <img alt="Bishop Juan Carlos Elizalde Espinal (62)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.diocesisvitoria.org" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/DiocesisVitoria" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="zamo0">
+     <td>
+      <img alt="Diocese" height="20" src="/images/map/s04.png"/>
+      <a class="typedioc" href="../diocese/zamo0.htm">
+       Zamora
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+      <a class="typemetr" href="ES-province.htm#zamo0">
+       Valladolid
+      </a>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/spain/1790.htm" title="Catedral de Santa María Magdalena">
+        <img alt="Catedral de Santa María Magdalena" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/zamo0.htm#70277" title="Bishop Fernando Valera Sánchez (63)">
+        <img alt="Bishop Fernando Valera Sánchez (63)" height="20" src="/images/prelateB1.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.diocesisdezamora.es" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/obzamoramcs" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="spai1">
+     <td>
+      <img alt="Ordinariate" height="20" src="/images/map/s30.png"/>
+      <a class="typeordi" href="../diocese/spai1.htm">
+       Ordinariato para los fieles de ritos orientales en España
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-Or.htm">
+       Eastern
+      </a>
+     </td>
+     <td>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../diocese/madr1.htm#4524" title="Cardinal Carlos Osoro Sierra (78)">
+        <img alt="Cardinal Carlos Osoro Sierra (78)" height="20" src="/images/prelateC1.gif" width="22"/>
+       </a>
+       <a class="link" href="http://ordinariatocatolicooriental.es" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/ordinariato" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+       <a class="linkf" href="https://www.facebook.com/Ordinariato" rel="nofollow" target="_blank" title="Facebook Page">
+       </a>
+      </span>
+     </td>
+    </tr>
+    <tr id="spai0">
+     <td>
+      <img alt="Military Ordinariate" height="20" src="/images/map/s09.png"/>
+      <a class="typemltr" href="../diocese/spai0.htm">
+       Arzobispado Castrense de España
+      </a>
+     </td>
+     <td>
+      <a class="zrite" href="../rite-L.htm">
+       Roman
+      </a>
+     </td>
+     <td>
+     </td>
+     <td>
+      <span class="znote">
+       <a href="../../churches/spain/3816.htm" title="Catedral del Sacramento de las Fuerzas Armadas">
+        <img alt="Catedral del Sacramento de las Fuerzas Armadas" height="20" src="/images/c1a.gif" width="17"/>
+       </a>
+       <a href="../diocese/spai0.htm#50409" title="Archbishop Juan Antonio Aznárez Cobo (62)">
+        <img alt="Archbishop Juan Antonio Aznárez Cobo (62)" height="20" src="/images/prelateA1.gif" width="22"/>
+       </a>
+       <a class="link" href="http://www.arzobispadocastrense.com" rel="nofollow" target="_blank" title="Link">
+       </a>
+       <a class="linkt" href="https://twitter.com/arzobispodelrio" rel="nofollow" target="_blank" title="Twitter Feed">
+       </a>
+      </span>
+     </td>
+    </tr>
+   </table>
+  </div>
+  <div class="separator">
+  </div>
+  <a name="titular">
+  </a>
+  <div class="entries">
+   <p>
+    <span class="label">
+     <span class="em">
+      Titular Episcopal Sees
+     </span>
+     <span class="zstat">
+      (50)
+     </span>
+     :
+    </span>
+    <a class="typet6" href="../former/t0025.htm">
+     Abula
+    </a>
+    ,
+    <a class="typet6" href="../former/t0029.htm">
+     Acci
+    </a>
+    ,
+    <a class="typet6" href="../former/t0085.htm">
+     Álava
+    </a>
+    ,
+    <a class="typet6" href="../former/t0095.htm">
+     Algeciras
+    </a>
+    ,
+    <a class="typet6" href="../former/t0103.htm">
+     Amaia
+    </a>
+    ,
+    <a class="typet6" href="../former/t2093.htm">
+     Ampurias
+    </a>
+    ,
+    <a class="typet6" href="../former/t0181.htm">
+     Arcavica
+    </a>
+    ,
+    <a class="typet6" href="../former/t2091.htm">
+     Armentia
+    </a>
+    ,
+    <a class="typet6" href="../former/t0229.htm">
+     Auca
+    </a>
+    ,
+    <a class="typet6" href="../former/t0287.htm">
+     Baeza
+    </a>
+    ,
+    <a class="typet6" href="../former/t0284.htm">
+     Baza
+    </a>
+    ,
+    <a class="typet6" href="../former/t0318.htm">
+     Besalú
+    </a>
+    ,
+    <a class="typet6" href="../former/t0311.htm">
+     Bigastro
+    </a>
+    ,
+    <a class="typet6" href="../former/t0344.htm">
+     Bretoña
+    </a>
+    ,
+    <a class="typet6" href="../former/t0442.htm">
+     Castulo
+    </a>
+    ,
+    <a class="typet6" href="../former/t0458.htm">
+     Celene
+    </a>
+    ,
+    <a class="typet6" href="../former/t0631.htm">
+     Denia
+    </a>
+    ,
+    <a class="typet6" href="../former/t0216.htm">
+     Écija
+    </a>
+    ,
+    <a class="typet6" href="../former/t0682.htm">
+     Egabro
+    </a>
+    ,
+    <a class="typet6" href="../former/t0683.htm">
+     Egara
+    </a>
+    ,
+    <a class="typet6" href="../former/t0696.htm">
+     Elepla
+    </a>
+    ,
+    <a class="typet6" href="../former/t0700.htm">
+     Elicroca
+    </a>
+    ,
+    <a class="typet6" href="../former/t0708.htm">
+     Elo
+    </a>
+    ,
+    <a class="typet6" href="../former/t3018.htm">
+     Emerita Augusta
+    </a>
+    ,
+    <a class="typet6" href="../former/t0817.htm">
+     Fuerteventura
+    </a>
+    ,
+    <a class="typet6" href="../former/t2078.htm">
+     Iliturgi
+    </a>
+    ,
+    <a class="typet6" href="../former/t0924.htm">
+     Illiberi
+    </a>
+    ,
+    <a class="typet6" href="../former/t0925.htm">
+     Illici
+    </a>
+    ,
+    <a class="typet6" href="../former/t0929.htm">
+     Ipagro
+    </a>
+    ,
+    <a class="typet6" href="../former/t0938.htm">
+     Iria Flavia
+    </a>
+    ,
+    <a class="typet6" href="../former/t0945.htm">
+     Italica
+    </a>
+    ,
+    <a class="typet6" href="../former/t1137.htm">
+     Mentesa
+    </a>
+    ,
+    <a class="typet6" href="../former/t1220.htm">
+     Naiera
+    </a>
+    ,
+    <a class="typet6" href="../former/t1318.htm">
+     Oreto
+    </a>
+    ,
+    <a class="typet6" href="../former/t1471.htm">
+     Rota
+    </a>
+    ,
+    <a class="typet6" href="../former/t1473.htm">
+     Rotdon
+    </a>
+    ,
+    <a class="typet6" href="../former/t1474.htm">
+     Rubicón
+    </a>
+    ,
+    <a class="typet6" href="../former/t1491.htm">
+     Saetabis
+    </a>
+    ,
+    <a class="typet6" href="../former/t1513.htm">
+     Sasabe
+    </a>
+    ,
+    <a class="typet6" href="../former/t1552.htm">
+     Segia
+    </a>
+    ,
+    <a class="typet6" href="../former/t1553.htm">
+     Segisama
+    </a>
+    ,
+    <a class="typet6" href="../former/t1741.htm">
+     Telde
+    </a>
+    ,
+    <a class="typet6" href="../former/t1883.htm">
+     Tucci
+    </a>
+    ,
+    <a class="typet6" href="../former/t1908.htm">
+     Urci
+    </a>
+    ,
+    <a class="typet6" href="../former/t1910.htm">
+     Ursona
+    </a>
+    ,
+    <a class="typet6" href="../former/t1928.htm">
+     Valabria
+    </a>
+    ,
+    <a class="typet6" href="../former/t1931.htm">
+     Valeria
+    </a>
+    ,
+    <a class="typet6" href="../former/t1932.htm">
+     Valliposita
+    </a>
+    ,
+    <a class="typet6" href="../former/t2097.htm">
+     Valpuesta
+    </a>
+    ,
+    <a class="typet6" href="../former/t1952.htm">
+     Vergi
+    </a>
+   </p>
+  </div>
+  <p class="asof">
+   Last updated on 2023.06.11
+  </p>
+  <p class="copy" id="end">
+   © 2023 GCatholic.org
+  </p>
+  <table width="100%">
+   <tr>
+    <td align="left" width="50%">
+    </td>
+    <td valign="bottom" width="50%">
+     <p align="right">
+      <a href="ES.htm" title="Up">
+       <img alt="Up" height="30" src="/images/nav-up.png" width="50"/>
+      </a>
+     </p>
+    </td>
+   </tr>
+  </table>
+  <script src="/menu/footer.js">
+  </script>
+ </body>
+</html>
